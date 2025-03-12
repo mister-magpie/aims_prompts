@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Visualization Dashboard</title>
+    <!-- Plotly.js -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/plotly.js/2.24.2/plotly.min.js"></script>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        h1 {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+            gap: 30px;
+        }
+        .card {
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            padding: 20px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        .plot {
+            width: 100%;
+            height: 400px;
+        }
+        .data-display {
+            margin-top: 20px;
+            max-height: 300px;
+            overflow: auto;
+            padding: 10px;
+            background-color: #f5f5f5;
+            border-radius: 4px;
+            font-family: monospace;
+        }
+        .selector {
+            margin-bottom: 20px;
+            text-align: center;
+        }
+        select {
+            padding: 8px;
+            font-size: 16px;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Data Visualization Dashboard</h1>
+    
+    <div class="selector">
+        <label for="dataSource">Select Data Source: </label>
+        <select id="dataSource">
+            <!-- Options will be populated dynamically -->
+        </select>
+    </div>
+    
+    <div class="container">
+        <div class="card">
+            <h2 id="chartTitle">Chart</h2>
+            <div id="plotlyChart" class="plot"></div>
+        </div>
+        
+        <div class="card">
+            <h2>Raw Data</h2>
+            <pre id="rawData" class="data-display">Select a data source to display data.</pre>
+        </div>
+    </div>
+
+    <script>
+        // List of your JSON data files
+        const dataFiles = [
+            'data1.json',
+            'data2.json',
+            'data3.json'
+            // Add more data files as needed
+        ];
+        
+        // Populate the selector with data files
+        const selector = document.getElementById('dataSource');
+        dataFiles.forEach(file => {
+            const option = document.createElement('option');
+            option.value = file;
+            option.textContent = file;
+            selector.appendChild(option);
+        });
+        
+        // Function to fetch and display data
+        async function fetchAndDisplayData(dataFile) {
+            try {
+                const response = await fetch(dataFile);
+                const data = await response.json();
+                
+                // Display raw data
+                document.getElementById('rawData').textContent = JSON.stringify(data, null, 2);
+                
+                // Check if the data is a Plotly figure or needs to be processed
+                if (data.data && data.layout) {
+                    // This appears to be a Plotly figure
+                    Plotly.newPlot('plotlyChart', data.data, data.layout);
+                    document.getElementById('chartTitle').textContent = data.layout.title?.text || 'Plotly Chart';
+                } else {
+                    // Example of creating a plot from raw data
+                    // Adjust this based on your actual data structure
+                    createPlotFromData(data);
+                }
+            } catch (error) {
+                console.error('Error loading data:', error);
+                document.getElementById('rawData').textContent = `Error loading data: ${error.message}`;
+            }
+        }
+        
+        // Function to create a plot from raw data
+        // Customize based on your data structure
+        function createPlotFromData(data) {
+            // This is just an example - adjust for your data format
+            if (Array.isArray(data)) {
+                // Example: data is an array of objects with x and y values
+                const xValues = data.map(item => item.x || item.date || item.category || '');
+                const yValues = data.map(item => item.y || item.value || 0);
+                
+                const trace = {
+                    x: xValues,
+                    y: yValues,
+                    type: 'scatter',
+                    mode: 'lines+markers',
+                    name: 'Data'
+                };
+                
+                const layout = {
+                    title: 'Data Visualization',
+                    xaxis: {
+                        title: 'X Axis'
+                    },
+                    yaxis: {
+                        title: 'Y Axis'
+                    }
+                };
+                
+                Plotly.newPlot('plotlyChart', [trace], layout);
+                document.getElementById('chartTitle').textContent = 'Data Visualization';
+            } else {
+                // Handle other data structures
+                document.getElementById('plotlyChart').innerHTML = 'Cannot automatically visualize this data structure. Please customize the createPlotFromData function.';
+            }
+        }
+        
+        // Handle selector change
+        selector.addEventListener('change', (event) => {
+            fetchAndDisplayData(event.target.value);
+        });
+        
+        // Load initial data
+        if (dataFiles.length > 0) {
+            fetchAndDisplayData(dataFiles[0]);
+        }
+    </script>
+</body>
+</html>
