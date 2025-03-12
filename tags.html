@@ -10,7 +10,7 @@
         
            doucment.getElementById(
                "b402f097-c0ef-437f-b288-cc325f4e26d4"
-           ).on(plotly_click, function(clickData) {
+           ).on('plotly_click', function(clickData) {
         console.log("clickData", clickData);
         let songID = clickData.points[0].customdata[0];
         let source = clickData.points[0].customdata[1];
