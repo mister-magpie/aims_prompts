@@ -80,6 +80,8 @@
                 if (plotTypeValue == 'tags') {
                     document.getElementById('plotLabels_col').style.display = 'none';
                     // create a plot with plotTypeValue and 'hdb_names'
+                    // check hdb_names radio button
+                    document.getElementById('plotLabels_hdb_names').checked = true;
                     createPlot(plotTypeValue, 'hdb_names');
                 }
                 if (plotTypeValue == 'lyrics') {
@@ -89,15 +91,19 @@
                     document.getElementById('plotLabels_new_name').style.display = 'block';
                     document.getElementById('plotLabels_macro').style.display = 'block';
                     // create a plot with plotTypeValue and 'hdb_names'
+                    // check hdb_names radio button
+                    document.getElementById('plotLabels_hdb_names').checked = true;
                     createPlot(plotTypeValue, 'hdb_names');
                 }
-                if (plotTypeValue == 'prompts') {
+                if (plotTypeValue == 'prompt') {
                     document.getElementById('plotLabels_col').style.display = 'block';
                     // show the hdb_names, new_name radio buttons
                     document.getElementById('plotLabels_hdb_names').style.display = 'block';
                     document.getElementById('plotLabels_new_name').style.display = 'block';
                     document.getElementById('plotLabels_macro').style.display = 'none';
                     // create a plot with plotTypeValue and 'hdb_names'
+                    // check hdb_names radio button
+                    document.getElementById('plotLabels_hdb_names').checked = true;
                     createPlot(plotTypeValue, 'hdb_names');
                 }
             });
