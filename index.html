@@ -13,37 +13,113 @@
     </style>
 </head>
 <body>
-    <div>
-        <h1>Data-Driven Analysis of Text-Conditioned AI-Generated Music: A Case Study with Suno and Udio</h1>
-        <p>
-            This is the data visualization dashboard for the paper <span class="">Data-Driven Analysis of Text-Conditioned AI-Generated Music: A Case Study with Suno and Udio</span>.
-        </p>
-        <p>
-            This interactive visualization is also available at <a href="http://130.237.3.110:22330/tags">this link</a>
-        </p>
-        <div>
-            <button>Lyrics</button>
-            <button>Prompts</button>
-            <button>Tags</button>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12">                
+                <h1>Data-Driven Analysis of Text-Conditioned AI-Generated Music: A Case Study with Suno and Udio</h1>
+                <p>
+                    This is the data visualization dashboard for the paper <span class="">Data-Driven Analysis of Text-Conditioned AI-Generated Music: A Case Study with Suno and Udio</span>.
+                </p>
+                <p>
+                    This interactive visualization is also available at <a href="http://130.237.3.110:22330/">this link</a>
+                </p>
+            </div>
+            <div class="col-6">
+                <!-- three radio buttons for prompts, lyrics, tags -->
+                <!-- on state change update the plot -->
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" name="plotType" id="prompts" value="prompts" onchange="updatePlot()">
+                    <label class="form-check-label" for="prompts">
+                        Prompts
+                    </label>
+                    <input class="form-check-input" type="radio" name="plotType" id="lyrics" value="lyrics" onchange="updatePlot()">
+                    <label class="form-check-label" for="lyrics">
+                        Lyrics
+                    </label>
+                    <input class="form-check-input" type="radio" name="plotType" id="tags" value="tags" onchange="updatePlot()">
+                    <label class="form-check-label" for="tags">
+                        Tags
+                    </label>
+                </div>
+                
+
+            </div>
+            <div class="col-6">
+                <!-- radio buttons depending on the plot type -->
+                <!-- if lyrics: hdb_names, new_name, macro-->
+                <!-- if prompts: hdb_names, new_name-->
+                <!-- if tags: no option -->
+                <div class="form-check" id="plotLabels_form">
+                    <input class="form-check-input" type="radio" name="plotLabels" id="hdb_names" value="hdb_names" onchange="updatePlot()">
+                    <label class="form-check-label" for="hdb_names">
+                        HDB Names
+                    </label>
+                    <input class="form-check-input" type="radio" name="plotLabels" id="new_name" value="new_name" onchange="updatePlot()">
+                    <label class="form-check-label" for="new_name">
+                        New Name
+                    </label>
+                    <input class="form-check-input" type="radio" name="plotLabels" id="macro" value="macro" onchange="updatePlot()">
+                    <label class="form-check-label" for="macro">
+                        Macro
+                    </label>
+                </div>
+            </div>
+            <div id="plotDiv" class="col-12"></div>
         </div>
     </div>
-    <div id="plotDiv">
-
-    </div>
     <script>
-        // load data from plot folder
+        // a function to create a plotly scatter depending on the pressed button
 
-        let graph = Plotly.newPlot(
-            'plotDiv',
-            [{
-                x: [1, 2, 3, 4],
-                y: [10, 15, 13, 17],
-                type: 'scatter'
-            }],
-            {
-                title: 'A Plotly plot'
-            }
-        )
+        let currentPlot = '';
+
+        function updatePlot(){
+            let plotType = document.querySelector('input[name="plotType"]:checked').value;
+            let plotLabels = document.querySelector('input[name="plotLabels"]:checked').value;
+            console.log(plotType, plotLabels);
+            // hide options that are not needed from the labels radiobuttons
+
+            createPlot(plotType, plotLabels);
+        }
+
+        function createPlot(plotType, plotLabels) {
+            console.log(plotType)
+            // set currentPlot variable
+            currentPlot = plotType;
+            // load json from https:mister-magpie.github.io/aimir/paper/aims_prompts/plots/{plotType}_{plotLabels}.json
+            var plotJson = fetch(`https:mister-magpie.github.io/aimir/paper/aims_prompts/plots/${plotType}_${plotLabels}.json`)
+            // plotJson is a plotly json and it contains the data and layout
+            var graphData = plotJson.data
+            var graphLayout = plotJson.layout
+            // create a plotly plot
+            var graph = Plotly.newPlot(
+                'plotDiv', // target div
+                graphData, // data
+                graphLayout // layout
+            )
+        }
+
+        document.getElementById("plotDiv").on('plotly_click', function (clickData) {
+                console.log("clickData", clickData);
+                // if currentPlot is tags then do nothing
+                if (currentPlot == 'tags') {
+                    return;
+                }
+                let songID = clickData.points[0].customdata[0];
+                let source = clickData.points[0].customdata[1];
+                console.log(songID, source);
+                if (source == 'suno') {
+                    let link = `https://${source}.com/song/${songID}`;
+                    console.log("link", link);
+                    window.open(link, '_blank');
+                } else if (source == 'udio') {
+                    let link = `https://${source}.com/songs/${songID}`;
+                    console.log("link", link);
+                    window.open(link, '_blank');
+                } else {
+                    alert("error with link", clickData);
+                }
+            });
+        
 
     </script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
