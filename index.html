@@ -136,6 +136,9 @@
             // plotJson is a plotly json and it contains the data and layout
             var graphData = plotJson.data
             var graphLayout = plotJson.layout
+            graphLayout['autosize'] = true;
+            graphLayout['height'] = 900;
+            graphLayout['width'] = 1600;
             // create a plotly plot
             var graph = Plotly.newPlot(
                 'plotDiv', // target div
