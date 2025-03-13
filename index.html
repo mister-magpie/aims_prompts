@@ -27,36 +27,42 @@
                 <!-- three radio buttons for prompts, lyrics, tags -->
                 <!-- on state change update the plot -->
                 <div class="form-check">
-                    <input class="form-check-input" type="radio" name="plotType" id="prompts" value="prompts" onchange="updatePlot()">
+                    <input class="form-check-input" type="radio" name="plotType" id="prompts" value="prompts" >
                     <label class="form-check-label" for="prompts">
                         Prompts
                     </label>
-                    <input class="form-check-input" type="radio" name="plotType" id="lyrics" value="lyrics" onchange="updatePlot()">
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" name="plotType" id="lyrics" value="lyrics" >
                     <label class="form-check-label" for="lyrics">
                         Lyrics
                     </label>
-                    <input class="form-check-input" type="radio" name="plotType" id="tags" value="tags" onchange="updatePlot()">
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" name="plotType" id="tags" value="tags" >
                     <label class="form-check-label" for="tags">
                         Tags
                     </label>
                 </div>
-                
-
             </div>
-            <div class="col-6">
+            <div class="col-6" id="plotLabels_col">
                 <!-- radio buttons depending on the plot type -->
                 <!-- if lyrics: hdb_names, new_name, macro-->
                 <!-- if prompts: hdb_names, new_name-->
                 <!-- if tags: no option -->
-                <div class="form-check" id="plotLabels_form">
+                <div class="form-check" id="hdb_names_check">
                     <input class="form-check-input" type="radio" name="plotLabels" id="hdb_names" value="hdb_names" onchange="updatePlot()">
                     <label class="form-check-label" for="hdb_names">
                         HDB Names
                     </label>
+                </div>
+                <div class="form-check" id="new_name_check">
                     <input class="form-check-input" type="radio" name="plotLabels" id="new_name" value="new_name" onchange="updatePlot()">
                     <label class="form-check-label" for="new_name">
                         New Name
                     </label>
+                </div>
+                <div class="form-check" id="macro_check">
                     <input class="form-check-input" type="radio" name="plotLabels" id="macro" value="macro" onchange="updatePlot()">
                     <label class="form-check-label" for="macro">
                         Macro
@@ -71,13 +77,46 @@
 
         let currentPlot = '';
 
-        function updatePlot(){
-            let plotType = document.querySelector('input[name="plotType"]:checked').value;
-            let plotLabels = document.querySelector('input[name="plotLabels"]:checked').value;
-            console.log(plotType, plotLabels);
-            // hide options that are not needed from the labels radiobuttons
+        // on plotype radio button click
+        document.getElementsByName('plotType').forEach(function (plotType) {
+            plotType.addEventListener('change', function () {
+                // get the value of the radio button
+                let plotTypeValue = plotType.value;
+                // if the value is tags then hide the plotLabels radio buttons
+                if (plotTypeValue == 'tags') {
+                    document.getElementById('plotLabels_col').style.display = 'none';
+                    // create a plot with plotTypeValue and 'hdb_names'
+                    createPlot(plotTypeValue, 'hdb_names');
+                }
+                if (plotTypeValue == 'lyrics') {
+                    document.getElementById('plotLabels_col').style.display = 'block';
+                    // show the hdb_names, new_name, macro radio buttons
+                    document.getElementById('hdb_names_check').style.display = 'block';
+                    document.getElementById('new_name_check').style.display = 'block';
+                    document.getElementById('macro_check').style.display = 'block';
+                    // create a plot with plotTypeValue and 'hdb_names'
+                    createPlot(plotTypeValue, 'hdb_names');
+                }
+                if (plotTypeValue == 'prompts') {
+                    document.getElementById('plotLabels_col').style.display = 'block';
+                    // show the hdb_names, new_name radio buttons
+                    document.getElementById('hdb_names_check').style.display = 'block';
+                    document.getElementById('new_name_check').style.display = 'block';
+                    document.getElementById('macro_check').style.display = 'none';
+                    // create a plot with plotTypeValue and 'hdb_names'
+                    createPlot(plotTypeValue, 'hdb_names');
+                }
+            });
+        });
 
-            createPlot(plotType, plotLabels);
+        // on plotLabels radio button click
+        function updatePlot() {
+            // get the value of the plotType radio button
+            let plotTypeValue = document.querySelector('input[name="plotType"]:checked').value;
+            // get the value of the plotLabels radio button
+            let plotLabelsValue = document.querySelector('input[name="plotLabels"]:checked').value;
+            // create a plot with plotTypeValue and plotLabelsValue
+            createPlot(plotTypeValue, plotLabelsValue);
         }
 
         function createPlot(plotType, plotLabels) {
