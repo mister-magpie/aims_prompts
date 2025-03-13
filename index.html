@@ -26,48 +26,35 @@
             <div class="col-6">
                 <!-- three radio buttons for prompts, lyrics, tags -->
                 <!-- on state change update the plot -->
-                <div class="form-check">
-                    <input class="form-check-input" type="radio" name="plotType" id="prompts" value="prompts" >
-                    <label class="form-check-label" for="prompts">
-                        Prompts
-                    </label>
-                </div>
-                <div class="form-check">
-                    <input class="form-check-input" type="radio" name="plotType" id="lyrics" value="lyrics" >
-                    <label class="form-check-label" for="lyrics">
-                        Lyrics
-                    </label>
-                </div>
-                <div class="form-check">
-                    <input class="form-check-input" type="radio" name="plotType" id="tags" value="tags" >
-                    <label class="form-check-label" for="tags">
-                        Tags
-                    </label>
+                <div class="btn-group" role="group" aria-label="Plot Type radio group">
+                    <input type="radio" class="btn-check" name="plotType" id="plotType_prompts" value="prompts" autocomplete="off" checked>
+                    <label class="btn btn-outline-primary" for="plotType_prompts">Prompts</label>
+                  
+                    <input type="radio" class="btn-check" name="plotType" id="plotType_lyrics" value="lyrics" autocomplete="off">
+                    <label class="btn btn-outline-primary" for="plotType_lyrics">Lyrics</label>
+                  
+                    <input type="radio" class="btn-check" name="plotType" id="plotType_tags" value="tags" autocomplete="off">
+                    <label class="btn btn-outline-primary" for="plotType_tags">Tags</label>
                 </div>
             </div>
+
+
             <div class="col-6" id="plotLabels_col">
                 <!-- radio buttons depending on the plot type -->
                 <!-- if lyrics: hdb_names, new_name, macro-->
                 <!-- if prompts: hdb_names, new_name-->
                 <!-- if tags: no option -->
-                <div class="form-check" id="hdb_names_check">
-                    <input class="form-check-input" type="radio" name="plotLabels" id="hdb_names" value="hdb_names" onchange="updatePlot()">
-                    <label class="form-check-label" for="hdb_names">
-                        HDB Names
-                    </label>
+                <div class="btn-group" role="group" aria-label="Plot Labels radio group" id="hdb_names_check">
+                    <input type="radio" class="btn-check" name="plotLabels" id="plotLabels_hdb_names" value="hdb_names" autocomplete="off" checked>
+                    <label class="btn btn-outline-primary" for="plotLabels_hdb_names">Top-3</label>
+                  
+                    <input type="radio" class="btn-check" name="plotLabels" id="plotLabels_new_name" value="new_name" autocomplete="off">
+                    <label class="btn btn-outline-primary" for="plotLabels_new_name">Manual</label>
+                  
+                    <input type="radio" class="btn-check" name="plotLabels" id="plotLabels_macro" value="macro" autocomplete="off">
+                    <label class="btn btn-outline-primary" for="plotLabels_macro">Macro</label>
                 </div>
-                <div class="form-check" id="new_name_check">
-                    <input class="form-check-input" type="radio" name="plotLabels" id="new_name" value="new_name" onchange="updatePlot()">
-                    <label class="form-check-label" for="new_name">
-                        New Name
-                    </label>
-                </div>
-                <div class="form-check" id="macro_check">
-                    <input class="form-check-input" type="radio" name="plotLabels" id="macro" value="macro" onchange="updatePlot()">
-                    <label class="form-check-label" for="macro">
-                        Macro
-                    </label>
-                </div>
+
             </div>
             <div id="plotDiv" class="col-12"></div>
         </div>
@@ -124,7 +111,7 @@
             // set currentPlot variable
             currentPlot = plotType;
             // load json from https:mister-magpie.github.io/aimir/paper/aims_prompts/plots/{plotType}_{plotLabels}.json
-            var plotJson = fetch(`https:mister-magpie.github.io/aimir/paper/aims_prompts/plots/${plotType}_${plotLabels}.json`)
+            var plotJson = fetch(`https:mister-magpie.github.io/aims_prompts/plots/${plotType}_${plotLabels}.json`)
             // plotJson is a plotly json and it contains the data and layout
             var graphData = plotJson.data
             var graphLayout = plotJson.layout
