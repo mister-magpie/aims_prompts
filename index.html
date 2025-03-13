@@ -24,6 +24,7 @@
                 </p>
             </div>
             <div class="col-6">
+                <h3>Data Source</h3>
                 <!-- three radio buttons for prompts, lyrics, tags -->
                 <!-- on state change update the plot -->
                 <div class="btn-group" role="group" aria-label="Plot Type radio group">
@@ -44,6 +45,7 @@
                 <!-- if lyrics: hdb_names, new_name, macro-->
                 <!-- if prompts: hdb_names, new_name-->
                 <!-- if tags: no option -->
+                <h3>Labels</h3>
                 <div class="btn-group" role="group" aria-label="Plot Labels radio group" id="hdb_names_check">
                     <input type="radio" class="btn-check" name="plotLabels" id="plotLabels_hdb_names" value="hdb_names" autocomplete="off">
                     <label class="btn btn-outline-primary" for="plotLabels_hdb_names">Top-3</label>
@@ -56,7 +58,9 @@
                 </div>
 
             </div>
-            <div id="plotDiv" class="col-12"></div>
+            <div class="col-12">
+                <div id="plotDiv"></div>
+            </div>
         </div>
     </div>
     <script>
@@ -108,12 +112,17 @@
             });
         });
 
-        function createPlot(plotType, plotLabels) {
+        async function createPlot(plotType, plotLabels) {
             console.log(plotType)
             // set currentPlot variable
             currentPlot = plotType;
             // load json from https:mister-magpie.github.io/aimir/paper/aims_prompts/plots/{plotType}_{plotLabels}.json
-            var plotJson = fetch(`https:mister-magpie.github.io/aims_prompts/plots/${plotType}_${plotLabels}.json`)
+            let plotJson = await fetch(`https://mister-magpie.github.io/aimir/paper/aims_prompts/plots/${plotType}_${plotLabels}.json`)
+                .then(response => response.json())
+                .then(data => data)
+                .catch(error => console.error(error));
+            // log the plotJson
+            console.log(plotJson);
             // plotJson is a plotly json and it contains the data and layout
             var graphData = plotJson.data
             var graphLayout = plotJson.layout
