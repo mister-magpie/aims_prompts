@@ -86,10 +86,8 @@
                 }
                 if (plotTypeValue == 'lyrics') {
                     document.getElementById('plotLabels_col').style.display = 'block';
-                    // show the hdb_names, new_name, macro radio buttons
-                    document.getElementById('plotLabels_hdb_names').style.display = 'block';
-                    document.getElementById('plotLabels_new_name').style.display = 'block';
-                    document.getElementById('plotLabels_macro').style.display = 'block';
+                    // make sure macro does not have the disabled attribute
+                    document.getElementById('plotLabels_macro').removeAttribute('disabled');
                     // create a plot with plotTypeValue and 'hdb_names'
                     // check hdb_names radio button
                     document.getElementById('plotLabels_hdb_names').checked = true;
@@ -97,10 +95,8 @@
                 }
                 if (plotTypeValue == 'prompt') {
                     document.getElementById('plotLabels_col').style.display = 'block';
-                    // show the hdb_names, new_name radio buttons
-                    document.getElementById('plotLabels_hdb_names').style.display = 'block';
-                    document.getElementById('plotLabels_new_name').style.display = 'block';
-                    document.getElementById('plotLabels_macro').style.display = 'none';
+                    // disable the macro radio button
+                    document.getElementById('plotLabels_macro').setAttribute('disabled', 'disabled');
                     // create a plot with plotTypeValue and 'hdb_names'
                     // check hdb_names radio button
                     document.getElementById('plotLabels_hdb_names').checked = true;
@@ -145,6 +141,7 @@
                 graphData, // data
                 graphLayout // layout
             )
+            
             document.getElementById("plotDiv").on('plotly_click', function (clickData) {
                 console.log("clickData", clickData);
                 // if currentPlot is tags then do nothing
