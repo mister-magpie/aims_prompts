@@ -132,9 +132,7 @@
                 graphData, // data
                 graphLayout // layout
             )
-        }
-
-        document.getElementById("plotDiv").on('plotly_click', function (clickData) {
+            document.getElementById("plotDiv").on('plotly_click', function (clickData) {
                 console.log("clickData", clickData);
                 // if currentPlot is tags then do nothing
                 if (currentPlot == 'tags') {
@@ -155,6 +153,9 @@
                     alert("error with link", clickData);
                 }
             });
+        }
+
+        
         
 
     </script>
