@@ -120,8 +120,7 @@
             console.log('create plot', plotType, plotLabels);
             // set currentPlot variable
             currentPlot = plotType;
-            // load json from https:mister-magpie.github.io/aimir/paper/aims_prompts/plots/{plotType}_{plotLabels}.json
-            let plotJson = await fetch(`https://mister-magpie.github.io/aimir/paper/aims_prompts/plots/${plotType}_${plotLabels}.json`)
+            let plotJson = await fetch(`https://mister-magpie.github.io/aims_prompts/plots/${plotType}_${plotLabels}.json`)
                 .then(response => response.json())
                 .then(data => data)
                 .catch(error => console.error(error));
