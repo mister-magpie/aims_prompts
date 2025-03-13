@@ -74,6 +74,7 @@
             plotType.addEventListener('change', function () {
                 // get the value of the radio button
                 let plotTypeValue = plotType.value;
+                console.log('plotTypeValue',plotTypeValue);
                 // if the value is tags then hide the plotLabels radio buttons
                 if (plotTypeValue == 'tags') {
                     document.getElementById('plotLabels_col').style.display = 'none';
@@ -108,13 +109,15 @@
                 let plotLabelsValue = plotLabels.value;
                 // get the value of the plotType radio button
                 let plotTypeValue = document.querySelector('input[name="plotType"]:checked').value;
+
+                console.log('plotLabels', plotLabelsValue);
                 // create a plot with plotTypeValue and plotLabelsValue
                 createPlot(plotTypeValue, plotLabelsValue);
             });
         });
 
         async function createPlot(plotType, plotLabels) {
-            console.log(plotType)
+            console.log('create plot', plotType, plotLabels);
             // set currentPlot variable
             currentPlot = plotType;
             // load json from https:mister-magpie.github.io/aimir/paper/aims_prompts/plots/{plotType}_{plotLabels}.json
