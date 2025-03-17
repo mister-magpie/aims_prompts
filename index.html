@@ -91,7 +91,7 @@
                     // create a plot with plotTypeValue and 'hdb_names'
                     // check hdb_names radio button
                     document.getElementById('plotLabels_hdb_names').checked = true;
-                    createPlot(plotTypeValue, 'hdb_names');
+                    createPlot(plotTypeValue, 'macro');
                 }
                 if (plotTypeValue == 'prompt') {
                     document.getElementById('plotLabels_col').style.display = 'block';
@@ -100,7 +100,7 @@
                     // create a plot with plotTypeValue and 'hdb_names'
                     // check hdb_names radio button
                     document.getElementById('plotLabels_hdb_names').checked = true;
-                    createPlot(plotTypeValue, 'hdb_names');
+                    createPlot(plotTypeValue, 'macro');
                 }
             });
         });
@@ -133,8 +133,8 @@
             var graphData = plotJson.data
             var graphLayout = plotJson.layout
             graphLayout['autosize'] = true;
-            graphLayout['height'] = 900;
-            graphLayout['width'] = 1600;
+            graphLayout['height'] = 1080;
+            graphLayout['width'] = 1920;
             // create a plotly plot
             var graph = Plotly.newPlot(
                 'plotDiv', // target div
