@@ -1,0 +1,143 @@
+,tags,suno,udio,total,suno_percentage,udio_percentage,percentage_sum,is_genre,POS,is_instrument,is_voice,is_bpm,is_year,is_key,is_tempo,is_structure,LABEL
+0,pop,2.0,7.0,9.0,5.0,3.888888888888889,8.88888888888889,True,VERB,False,False,False,False,False,False,False,GENRE
+1,rock,1.0,5.0,6.0,2.5,2.7777777777777777,5.277777777777778,True,NOUN,False,False,False,False,False,False,False,GENRE
+2,male vocalist,0.0,9.0,9.0,0.0,5.0,5.0,False,False,False,True,False,False,False,False,False,VOICE
+3,female vocalist,0.0,7.0,7.0,0.0,3.888888888888889,3.888888888888889,False,False,False,True,False,False,False,False,False,VOICE
+4,uplifting,0.0,5.0,5.0,0.0,2.7777777777777777,2.7777777777777777,False,VERB,False,False,False,False,False,False,False,QUALIFIER
+5,bounce drop,1.0,0.0,1.0,2.5,0.0,2.5,True,False,False,False,False,False,False,False,True,GENRE
+6,some high notes in there,1.0,0.0,1.0,2.5,0.0,2.5,False,False,False,False,False,False,False,False,False,QUALIFIER
+7,smooth soul,1.0,0.0,1.0,2.5,0.0,2.5,True,False,False,False,False,False,False,False,False,GENRE
+8,relentless black metal distorted,1.0,0.0,1.0,2.5,0.0,2.5,True,False,False,False,False,False,False,False,False,GENRE
+9,scratch classic,1.0,0.0,1.0,2.5,0.0,2.5,True,False,False,False,False,False,False,False,False,GENRE
+10,catchy opera  singer,1.0,0.0,1.0,2.5,0.0,2.5,True,False,False,True,False,False,False,False,False,GENRE
+11,cello,1.0,0.0,1.0,2.5,0.0,2.5,True,PROPN,True,False,False,False,False,False,False,GENRE
+12,phonk 16 bit,1.0,0.0,1.0,2.5,0.0,2.5,True,False,False,False,False,False,False,False,False,GENRE
+13,breakcore,1.0,0.0,1.0,2.5,0.0,2.5,True,VERB,False,False,False,False,False,False,True,GENRE
+14,relaxed chill reggaeton,1.0,0.0,1.0,2.5,0.0,2.5,True,False,False,False,False,False,False,False,False,GENRE
+15,beat,1.0,0.0,1.0,2.5,0.0,2.5,False,VERB,False,False,False,False,False,False,False,QUALIFIER
+16,80s dj funk,1.0,0.0,1.0,2.5,0.0,2.5,True,False,False,False,False,True,False,False,False,GENRE
+17,haunting operatic gothic metal,1.0,0.0,1.0,2.5,0.0,2.5,True,False,False,False,False,False,False,False,False,GENRE
+18,passionate rhythmic hip-hop,1.0,0.0,1.0,2.5,0.0,2.5,False,False,False,False,False,False,False,False,False,QUALIFIER
+19,d minor scale,1.0,0.0,1.0,2.5,0.0,2.5,False,False,False,False,False,False,True,False,False,KEY
+20,dark ambient,1.0,0.0,1.0,2.5,0.0,2.5,True,False,False,False,False,False,False,False,False,GENRE
+21,orchestra,1.0,0.0,1.0,2.5,0.0,2.5,True,PROPN,False,False,False,False,False,False,False,GENRE
+22,male voice,1.0,0.0,1.0,2.5,0.0,2.5,False,False,False,True,False,False,False,False,False,VOICE
+23,playful folk pop light,1.0,0.0,1.0,2.5,0.0,2.5,True,False,False,False,False,False,False,False,False,GENRE
+24,electro,1.0,0.0,1.0,2.5,0.0,2.5,True,PROPN,False,False,False,False,False,False,False,GENRE
+25,electronic,1.0,0.0,1.0,2.5,0.0,2.5,False,ADJ,False,False,False,False,False,False,False,QUALIFIER
+26,drum,1.0,0.0,1.0,2.5,0.0,2.5,False,VERB,False,False,False,False,False,False,False,QUALIFIER
+27,edm,1.0,0.0,1.0,2.5,0.0,2.5,True,PROPN,False,False,False,False,False,False,False,GENRE
+28,electronic piano and violin with high bass,1.0,0.0,1.0,2.5,0.0,2.5,True,False,True,False,False,False,False,False,False,GENRE
+29,industrial metal robotic pop-punk funk,1.0,0.0,1.0,2.5,0.0,2.5,True,False,False,False,False,False,False,False,False,GENRE
+30,intense rock ballad melodic,1.0,0.0,1.0,2.5,0.0,2.5,True,False,False,False,False,False,False,False,False,GENRE
+31,d-minor slow melancholic emotional orchestral romantic music masterpiece,1.0,0.0,1.0,2.5,0.0,2.5,True,False,False,False,False,False,False,False,False,GENRE
+32,acoustic mellow folk,1.0,0.0,1.0,2.5,0.0,2.5,True,False,False,False,False,False,False,False,False,GENRE
+33,acoustic guitar,1.0,0.0,1.0,2.5,0.0,2.5,False,False,True,False,False,False,False,False,False,INSTRUMENT
+34,epic  armor wars gangsta rap   girl sings,1.0,0.0,1.0,2.5,0.0,2.5,True,False,False,False,False,False,False,False,False,GENRE
+35,j-rock intense spiritual,1.0,0.0,1.0,2.5,0.0,2.5,True,False,False,False,False,False,False,False,False,GENRE
+36,guitar,1.0,0.0,1.0,2.5,0.0,2.5,False,PROPN,True,False,False,False,False,False,False,INSTRUMENT
+37,eurobeat,1.0,0.0,1.0,2.5,0.0,2.5,True,NOUN,False,False,False,False,False,False,False,GENRE
+38,guitars,1.0,0.0,1.0,2.5,0.0,2.5,False,NOUN,True,False,False,False,False,False,False,INSTRUMENT
+39,haunting emotional blues,1.0,0.0,1.0,2.5,0.0,2.5,True,False,False,False,False,False,False,False,False,GENRE
+40,folk rock,1.0,0.0,1.0,2.5,0.0,2.5,True,False,False,False,False,False,False,False,False,GENRE
+41,futuristic pop electronic synth,1.0,0.0,1.0,2.5,0.0,2.5,True,False,True,False,False,False,False,False,False,GENRE
+42,r&b,0.0,4.0,4.0,0.0,2.2222222222222223,2.2222222222222223,True,NOUN,False,False,False,False,False,False,False,GENRE
+43,rhythmic,0.0,4.0,4.0,0.0,2.2222222222222223,2.2222222222222223,False,ADJ,False,False,False,False,False,False,False,QUALIFIER
+44,melodic,0.0,4.0,4.0,0.0,2.2222222222222223,2.2222222222222223,False,ADJ,False,False,False,False,False,False,False,QUALIFIER
+45,love,0.0,4.0,4.0,0.0,2.2222222222222223,2.2222222222222223,False,NOUN,False,False,False,False,False,False,False,QUALIFIER
+46,energetic,0.0,4.0,4.0,0.0,2.2222222222222223,2.2222222222222223,False,ADJ,False,False,False,False,False,False,False,QUALIFIER
+47,aggressive,0.0,4.0,4.0,0.0,2.2222222222222223,2.2222222222222223,False,ADJ,False,False,False,False,False,False,False,QUALIFIER
+48,instrumental,0.0,3.0,3.0,0.0,1.6666666666666667,1.6666666666666667,False,ADJ,False,False,False,False,False,False,False,QUALIFIER
+49,anthemic,0.0,3.0,3.0,0.0,1.6666666666666667,1.6666666666666667,False,ADJ,False,False,False,False,False,False,False,QUALIFIER
+50,pop rock,0.0,3.0,3.0,0.0,1.6666666666666667,1.6666666666666667,True,False,False,False,False,False,False,False,False,GENRE
+51,heavy,0.0,2.0,2.0,0.0,1.1111111111111112,1.1111111111111112,False,ADJ,False,False,False,False,False,False,False,QUALIFIER
+52,hip hop,0.0,2.0,2.0,0.0,1.1111111111111112,1.1111111111111112,True,False,False,False,False,False,False,False,False,GENRE
+53,longing,0.0,2.0,2.0,0.0,1.1111111111111112,1.1111111111111112,False,VERB,False,False,False,False,False,False,False,QUALIFIER
+54,contemporary r&b,0.0,2.0,2.0,0.0,1.1111111111111112,1.1111111111111112,True,False,False,False,False,False,False,True,False,GENRE
+55,dance,0.0,2.0,2.0,0.0,1.1111111111111112,1.1111111111111112,True,VERB,False,False,False,False,False,False,False,GENRE
+56,dance-pop,0.0,2.0,2.0,0.0,1.1111111111111112,1.1111111111111112,True,False,False,False,False,False,False,False,False,GENRE
+57,passionate,0.0,2.0,2.0,0.0,1.1111111111111112,1.1111111111111112,False,VERB,False,False,False,False,False,False,False,QUALIFIER
+58,playful,0.0,2.0,2.0,0.0,1.1111111111111112,1.1111111111111112,False,ADJ,False,False,False,False,False,False,False,QUALIFIER
+59,hard rock,0.0,2.0,2.0,0.0,1.1111111111111112,1.1111111111111112,True,False,False,False,False,False,False,False,False,GENRE
+60,regional music,0.0,2.0,2.0,0.0,1.1111111111111112,1.1111111111111112,True,False,False,False,False,False,False,False,False,GENRE
+61,cinematic classical,0.0,2.0,2.0,0.0,1.1111111111111112,1.1111111111111112,True,False,False,False,False,False,False,False,False,GENRE
+62,classical music,0.0,2.0,2.0,0.0,1.1111111111111112,1.1111111111111112,True,False,False,False,False,False,False,False,False,GENRE
+63,contemporary folk,0.0,2.0,2.0,0.0,1.1111111111111112,1.1111111111111112,True,False,False,False,False,False,False,True,False,GENRE
+64,western classical music,0.0,2.0,2.0,0.0,1.1111111111111112,1.1111111111111112,True,False,False,False,False,False,False,False,False,GENRE
+65,triumphant,0.0,2.0,2.0,0.0,1.1111111111111112,1.1111111111111112,False,ADJ,False,False,False,False,False,False,False,QUALIFIER
+66,folk,0.0,2.0,2.0,0.0,1.1111111111111112,1.1111111111111112,True,NOUN,False,False,False,False,False,False,False,GENRE
+67,pop rap,0.0,2.0,2.0,0.0,1.1111111111111112,1.1111111111111112,True,False,False,False,False,False,False,False,False,GENRE
+68,angry,0.0,2.0,2.0,0.0,1.1111111111111112,1.1111111111111112,False,ADJ,False,False,False,False,False,False,False,QUALIFIER
+69,singer-songwriter,0.0,2.0,2.0,0.0,1.1111111111111112,1.1111111111111112,True,False,False,True,False,False,False,False,False,GENRE
+70,boastful,0.0,2.0,2.0,0.0,1.1111111111111112,1.1111111111111112,False,ADJ,False,False,False,False,False,False,False,QUALIFIER
+71,sentimental,0.0,2.0,2.0,0.0,1.1111111111111112,1.1111111111111112,False,ADJ,False,False,False,False,False,False,False,QUALIFIER
+72,teen pop,0.0,2.0,2.0,0.0,1.1111111111111112,1.1111111111111112,True,False,False,False,False,False,False,False,False,GENRE
+73,alternative rock,0.0,2.0,2.0,0.0,1.1111111111111112,1.1111111111111112,True,False,False,False,False,False,False,False,False,GENRE
+74,rock and roll,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,True,False,False,False,False,False,False,False,False,GENRE
+75,yodeling,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,True,VERB,False,False,False,False,False,False,False,GENRE
+76,contemporary country,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,True,False,False,False,False,False,False,True,False,GENRE
+77,90s,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,False,NOUN,False,False,False,True,False,False,False,YEAR
+78,acid jazz,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,True,False,False,False,False,False,False,False,False,GENRE
+79,choral,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,True,ADJ,False,False,False,False,False,False,False,GENRE
+80,calm,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,False,NOUN,False,False,False,False,False,False,False,QUALIFIER
+81,post-industrial,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,True,False,False,False,False,False,False,False,False,GENRE
+82,post-hardcore,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,True,False,False,False,False,False,False,False,False,GENRE
+83,post-grunge,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,True,False,False,False,False,False,False,False,False,GENRE
+84,pop soul,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,True,False,False,False,False,False,False,False,False,GENRE
+85,billie holiday,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,False,False,False,False,False,False,False,False,False,QUALIFIER
+86,bittersweet,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,False,VERB,False,False,False,False,False,False,False,QUALIFIER
+87,happy,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,False,ADJ,False,False,False,False,False,False,False,QUALIFIER
+88,piano,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,False,NOUN,True,False,False,False,False,False,False,INSTRUMENT
+89,audiobook,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,False,NOUN,False,False,False,False,False,False,False,QUALIFIER
+90,harp,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,True,PROPN,True,False,False,False,False,False,False,GENRE
+91,united states,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,False,False,False,False,False,False,False,False,False,QUALIFIER
+92,ukulele,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,True,PROPN,True,False,False,False,False,False,False,GENRE
+93,uk bass,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,True,False,False,False,False,False,False,False,False,GENRE
+94,heartland rock,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,True,False,False,False,False,False,False,False,False,GENRE
+95,tricky,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,False,ADJ,False,False,False,False,False,False,False,QUALIFIER
+96,trap metal,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,True,False,False,False,False,False,False,False,False,GENRE
+97,romantic,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,False,ADJ,False,False,False,False,False,False,False,QUALIFIER
+98,folk pop,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,True,False,False,False,False,False,False,False,False,GENRE
+99,west coast rap,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,True,False,False,False,False,False,False,False,False,GENRE
+100,west coast hip hop,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,True,False,False,False,False,False,False,False,False,GENRE
+101,warm,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,False,ADJ,False,False,False,False,False,False,False,QUALIFIER
+102,spoken word,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,True,False,False,False,False,False,False,False,False,GENRE
+103,soul ballads,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,True,False,False,False,False,False,False,False,False,GENRE
+104,soul,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,True,NOUN,False,False,False,False,False,False,False,GENRE
+105,sad,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,False,ADJ,False,False,False,False,False,False,False,QUALIFIER
+106,alternative metal,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,True,False,False,False,False,False,False,False,False,GENRE
+107,dirty south,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,False,False,False,False,False,False,False,False,False,QUALIFIER
+108,dirty rap,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,True,False,False,False,False,False,False,False,False,GENRE
+109,jazz-funk,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,True,False,False,False,False,False,False,False,False,GENRE
+110,j-pop,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,True,False,False,False,False,False,False,False,False,GENRE
+111,g-funk,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,True,False,False,False,False,False,False,False,False,GENRE
+112,industrial rock,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,True,False,False,False,False,False,False,False,False,GENRE
+113,industrial metal,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,True,False,False,False,False,False,False,False,False,GENRE
+114,self-hatred,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,False,False,False,False,False,False,False,False,False,QUALIFIER
+115,experimental hip hop,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,True,False,False,False,False,False,False,False,False,GENRE
+116,epic music,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,True,False,False,False,False,False,False,False,False,GENRE
+117,epic,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,False,PROPN,False,False,False,False,False,False,False,QUALIFIER
+118,industrial & noise,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,True,False,False,False,False,False,False,False,False,GENRE
+119,indie pop,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,True,False,False,False,False,False,False,False,False,GENRE
+120,indie folk,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,True,False,False,False,False,False,False,False,False,GENRE
+121,hypnotic,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,False,ADJ,False,False,False,False,False,False,False,QUALIFIER
+122,hispanic music,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,True,False,False,False,False,False,False,False,False,GENRE
+123,film score,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,True,False,False,False,False,False,False,False,False,GENRE
+124,party,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,False,NOUN,False,False,False,False,False,False,False,QUALIFIER
+125,gangsta rap,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,True,False,False,False,False,False,False,False,False,GENRE
+126,hispanic american music,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,True,False,False,False,False,False,False,False,False,GENRE
+127,country pop,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,True,False,False,False,False,False,False,False,False,GENRE
+128,country,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,True,NOUN,False,False,False,False,False,False,False,GENRE
+129,funk,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,True,VERB,False,False,False,False,False,False,False,GENRE
+130,orchestral,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,True,ADJ,False,False,False,False,False,False,False,GENRE
+131,optimistic,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,False,ADJ,False,False,False,False,False,False,False,QUALIFIER
+132,electropop,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,True,VERB,False,False,False,False,False,False,False,GENRE
+133,modern classical,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,True,False,False,False,False,False,False,False,False,GENRE
+134,metal,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,True,NOUN,False,False,False,False,False,False,False,GENRE
+135,mellow,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,False,VERB,False,False,False,False,False,False,False,QUALIFIER
+136,melancholic,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,False,ADJ,False,False,False,False,False,False,False,QUALIFIER
+137,martial,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,False,ADJ,False,False,False,False,False,False,False,QUALIFIER
+138,man screaming,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,False,False,False,False,False,False,False,False,False,QUALIFIER
+139,futuristic swag,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,True,False,False,False,False,False,False,False,False,GENRE
+140,latin pop,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,True,False,False,False,False,False,False,False,False,GENRE
+141,northern american music,0.0,1.0,1.0,0.0,0.5555555555555556,0.5555555555555556,True,False,False,False,False,False,False,False,False,GENRE
