@@ -1,0 +1,20 @@
+# ignore pickle files .pkl
+*.pkl
+# ignore numpy files .npy
+*.npy
+# ignore jsons folder
+jsons/
+# ignore data folder
+data/
+# ignore the plots folder
+# plots/
+# ignore suno and udio status .txt and .csv files
+suno_status.txt
+udio_status.txt
+suno_status.csv
+udio_status.csv
+# ignore testing notebook
+analysis_testing.ipynb
+# remove files for scraping
+check_link.py
+fetch_metadata_song.py

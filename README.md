@@ -18,7 +18,7 @@ However, we provide the list of URLs for the songs we collected from Suno and Ud
 
 We leave to any interested party to obtain the metadata autonomously.  
 Please notice that since the time of collection, some of the songs have been removed from the platform and as such any subsequent analysis might slightly drift from the paper results.  
-At the time of writing we verified that 4.59% of Udio songs and 1.02% are lost.  
+At the time of writing we verified that 4.59% of Udio songs and 1.02% of Suno are lost.  
 
 
 

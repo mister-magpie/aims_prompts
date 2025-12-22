@@ -1,0 +1,1247 @@
+,tags,LABEL,count_suno,count_udio,total,length,is_genre,is_instrument,POS,is_voice,is_bpm,is_year,is_key,is_structure
+191,120 bpm,BPM,21.0,2.0,23.0,7.0,False,False,"NUM, NOUN",False,True,False,False,False
+198,120bpm,BPM,16.0,0.0,16.0,6.0,False,False,NUM,False,True,False,False,False
+216,130 bpm,BPM,12.0,2.0,14.0,7.0,False,False,"NUM, NOUN",False,True,False,False,False
+225,140 bpm,BPM,12.0,1.0,13.0,7.0,False,False,"NUM, NOUN",False,True,False,False,False
+899,90 bpm,BPM,15.0,0.0,15.0,6.0,False,False,"NUM, NOUN",False,True,False,False,False
+637,60 bpm,BPM,11.0,0.0,11.0,6.0,False,False,"NUM, NOUN",False,True,False,False,False
+8809,european music,GENRE/STYLE,0.0,27.0,27.0,14.0,True,False,"ADJ, NOUN",False,False,False,False,False
+10772,grunge,GENRE/STYLE,198.0,147.0,345.0,6.0,True,False,NOUN,False,False,False,False,False
+19017,sea shanty,GENRE/STYLE,59.0,29.0,88.0,10.0,True,False,"NOUN, NOUN",False,False,False,False,False
+19007,screamo,GENRE/STYLE,47.0,33.0,80.0,7.0,True,False,NOUN,False,False,False,False,False
+10951,guzheng,GENRE/STYLE,11.0,1.0,12.0,7.0,True,False,NOUN,False,False,False,False,False
+10963,hair metal,GENRE/STYLE,19.0,53.0,72.0,10.0,True,False,"NOUN, NOUN",False,False,False,False,False
+10966,hair rock,GENRE/STYLE,3.0,7.0,10.0,9.0,True,False,"NOUN, NOUN",False,False,False,False,False
+10968,hair/glam metal,GENRE/STYLE,16.0,0.0,16.0,15.0,True,False,"NOUN, SYM, ADJ, NOUN",False,False,False,False,False
+10978,halloween,GENRE/STYLE,13.0,6.0,19.0,9.0,True,False,PROPN,False,False,False,False,False
+11065,hard dance,GENRE/STYLE,4.0,15.0,19.0,10.0,True,False,"ADJ, NOUN",False,False,False,False,False
+11028,happy hardcore,GENRE/STYLE,14.0,11.0,25.0,14.0,True,False,"PROPN, PROPN",False,False,False,False,False
+10715,groovy bassline,GENRE/STYLE,2.0,11.0,13.0,15.0,True,False,"ADJ, NOUN",False,False,False,False,False
+11101,hard rock,GENRE/STYLE,477.0,813.0,1290.0,9.0,True,False,"ADJ, NOUN",False,False,False,False,False
+11123,hard techno,GENRE/STYLE,11.0,6.0,17.0,11.0,True,False,"ADJ, NOUN",False,False,False,False,False
+11125,hard trance,GENRE/STYLE,5.0,9.0,14.0,11.0,True,False,"ADJ, NOUN",False,False,False,False,False
+11141,hardcore,GENRE/STYLE,92.0,12.0,104.0,8.0,True,False,ADV,False,False,False,False,False
+11144,hardcore edm,GENRE/STYLE,0.0,24.0,24.0,14.0,True,False,"PROPN, PROPN",False,False,False,False,False
+11146,hardcore hip hop,GENRE/STYLE,7.0,312.0,319.0,16.0,True,False,"PROPN, NOUN, NOUN",False,False,False,False,False
+11149,hardcore punk,GENRE/STYLE,8.0,119.0,127.0,13.0,True,False,"PROPN, NOUN",False,False,False,False,False
+11151,hardcore rap,GENRE/STYLE,4.0,28.0,32.0,12.0,True,False,"PROPN, PROPN",False,False,False,False,False
+18968,scratch,GENRE/STYLE,19.0,0.0,19.0,7.0,True,False,VERB,False,False,False,False,False
+10700,groove metal,GENRE/STYLE,17.0,54.0,71.0,12.0,True,False,"NOUN, NOUN",False,False,False,False,False
+10626,gregorian chant,GENRE/STYLE,19.0,12.0,31.0,15.0,True,False,"PROPN, NOUN",False,False,False,False,False
+10638,grime,GENRE/STYLE,32.0,19.0,51.0,5.0,True,False,ADV,False,False,False,False,False
+10149,gangster rap,GENRE/STYLE,10.0,0.0,10.0,12.0,True,False,"PROPN, PROPN",False,False,False,False,False
+10154,garage,GENRE/STYLE,21.0,6.0,27.0,6.0,False,False,NOUN,False,False,False,False,False
+10156,garage house,GENRE/STYLE,2.0,8.0,10.0,12.0,True,False,"PROPN, PROPN",False,False,False,False,False
+10160,garage rock,GENRE/STYLE,16.0,45.0,61.0,11.0,True,False,"PROPN, NOUN",False,False,False,False,False
+10163,garage rock revival,GENRE/STYLE,2.0,39.0,41.0,19.0,True,False,"NOUN, NOUN, NOUN",False,False,False,False,False
+10174,general contemporary country,GENRE/STYLE,0.0,17.0,17.0,28.0,True,False,"ADJ, ADJ, NOUN",False,False,False,False,False
+10306,girl group,GENRE/STYLE,20.0,16.0,36.0,10.0,True,False,"NOUN, NOUN",False,False,False,False,False
+10332,glam metal,GENRE/STYLE,26.0,124.0,150.0,10.0,True,False,"PROPN, NOUN",False,False,False,False,False
+10336,glam rock,GENRE/STYLE,40.0,75.0,115.0,9.0,True,False,"PROPN, PROPN",False,False,False,False,False
+10650,grindcore,GENRE/STYLE,13.0,7.0,20.0,9.0,True,False,PROPN,False,False,False,False,False
+10356,glitch,GENRE/STYLE,85.0,35.0,120.0,6.0,True,False,VERB,False,False,False,False,False
+10374,glitch pop,GENRE/STYLE,3.0,10.0,13.0,10.0,True,False,"PROPN, NOUN",False,False,False,False,False
+10389,glitchcore,GENRE/STYLE,15.0,0.0,15.0,10.0,True,False,VERB,False,False,False,False,False
+10474,gospel,GENRE/STYLE,206.0,66.0,272.0,6.0,True,False,NOUN,False,False,False,False,False
+10504,goth,GENRE/STYLE,13.0,2.0,15.0,4.0,False,False,NOUN,False,False,False,False,False
+10514,goth rock,GENRE/STYLE,12.0,7.0,19.0,9.0,True,False,"VERB, NOUN",False,False,False,False,False
+10522,gothic,GENRE/STYLE,111.0,27.0,138.0,6.0,False,False,PROPN,False,False,False,False,False
+10537,gothic metal,GENRE/STYLE,31.0,89.0,120.0,12.0,True,False,"ADJ, NOUN",False,False,False,False,False
+10544,gothic rock,GENRE/STYLE,39.0,54.0,93.0,11.0,True,False,"PROPN, NOUN",False,False,False,False,False
+11162,hardstyle,GENRE/STYLE,107.0,23.0,130.0,9.0,True,False,PROPN,False,False,False,False,False
+10367,glitch hop,GENRE/STYLE,21.0,20.0,41.0,10.0,True,False,"VERB, PROPN",False,False,False,False,False
+11341,healing,GENRE/STYLE,7.0,4.0,11.0,7.0,True,False,VERB,False,False,False,False,False
+11504,heavy psych,GENRE/STYLE,0.0,10.0,10.0,11.0,True,False,"ADJ, NOUN",False,False,False,False,False
+18834,samba,GENRE/STYLE,29.0,8.0,37.0,5.0,True,False,NOUN,False,False,False,False,False
+11904,horror punk,GENRE/STYLE,6.0,7.0,13.0,11.0,True,False,"NOUN, NOUN",False,False,False,False,False
+11917,horrorcore,GENRE/STYLE,8.0,20.0,28.0,10.0,True,False,PROPN,False,False,False,False,False
+11927,house,GENRE/STYLE,402.0,609.0,1011.0,5.0,True,False,NOUN,False,False,False,False,False
+11938,house music,GENRE/STYLE,15.0,23.0,38.0,11.0,True,False,"PROPN, NOUN",False,False,False,False,False
+18474,rock opera,GENRE/STYLE,11.0,28.0,39.0,10.0,True,False,"NOUN, NOUN",False,False,False,False,False
+18470,rock musical,GENRE/STYLE,0.0,13.0,13.0,12.0,True,False,"NOUN, ADJ",False,False,False,False,False
+11990,hurdy-gurdy,GENRE/STYLE,9.0,1.0,10.0,11.0,True,False,"ADJ, PUNCT, ADJ",False,False,False,False,False
+12014,hybrid trap,GENRE/STYLE,0.0,12.0,12.0,11.0,True,False,"ADJ, NOUN",False,False,False,False,False
+12017,hymn,GENRE/STYLE,12.0,14.0,26.0,4.0,False,False,PROPN,False,False,False,False,False
+18475,rock pop,GENRE/STYLE,24.0,6.0,30.0,8.0,True,False,"NOUN, NOUN",False,False,False,False,False
+12044,hyperpop,GENRE/STYLE,53.0,34.0,87.0,8.0,True,False,ADJ,False,False,False,False,False
+18426,rock ballad,GENRE/STYLE,49.0,15.0,64.0,11.0,True,False,"NOUN, PROPN",False,False,False,False,False
+18422,rock and roll,GENRE/STYLE,46.0,56.0,102.0,13.0,True,False,"NOUN, CCONJ, NOUN",False,False,False,False,False
+12143,idm,GENRE/STYLE,14.0,48.0,62.0,3.0,False,False,NOUN,False,False,False,False,False
+18412,rock & roll,GENRE/STYLE,1.0,56.0,57.0,11.0,True,False,"PROPN, CCONJ, NOUN",False,False,False,False,False
+18411,rock,GENRE/STYLE,2022.0,4283.0,6305.0,4.0,True,False,NOUN,False,False,False,False,False
+12286,indie,GENRE/STYLE,353.0,58.0,411.0,5.0,True,False,PROPN,False,False,False,False,False
+12300,indie folk,GENRE/STYLE,52.0,156.0,208.0,10.0,True,False,"PROPN, NOUN",False,False,False,False,False
+12309,indie pop,GENRE/STYLE,210.0,372.0,582.0,9.0,True,False,"ADJ, NOUN",False,False,False,False,False
+12321,indie rock,GENRE/STYLE,119.0,404.0,523.0,10.0,True,False,"PROPN, NOUN",False,False,False,False,False
+12053,hyperspeed dubstep,GENRE/STYLE,13.0,0.0,13.0,18.0,True,False,"VERB, NOUN",False,False,False,False,False
+11390,heartland rock,GENRE/STYLE,5.0,26.0,31.0,14.0,True,False,"PROPN, PROPN",False,False,False,False,False
+23611,yacht rock,GENRE/STYLE,11.0,28.0,39.0,10.0,True,False,"PROPN, NOUN",False,False,False,False,False
+18516,rocksteady,GENRE/STYLE,7.0,13.0,20.0,10.0,True,False,PROPN,False,False,False,False,False
+11469,heavy metal,GENRE/STYLE,406.0,476.0,882.0,11.0,True,False,"ADJ, NOUN",False,False,False,False,False
+10146,gangsta rap,GENRE/STYLE,30.0,226.0,256.0,11.0,True,False,"PROPN, PROPN",False,False,False,False,False
+18828,salsa,GENRE/STYLE,30.0,8.0,38.0,5.0,True,False,VERB,False,False,False,False,False
+11513,heavy rock,GENRE/STYLE,45.0,12.0,57.0,10.0,True,False,"ADJ, NOUN",False,False,False,False,False
+18788,sad pop,GENRE/STYLE,13.0,8.0,21.0,7.0,True,False,"ADJ, NOUN",False,False,False,False,False
+11579,hi-nrg,GENRE/STYLE,7.0,12.0,19.0,6.0,True,False,"INTJ, NOUN, NOUN",False,False,False,False,False
+18598,roots rock,GENRE/STYLE,6.0,15.0,21.0,10.0,True,False,"NOUN, NOUN",False,False,False,False,False
+18595,roots reggae,GENRE/STYLE,14.0,46.0,60.0,12.0,True,False,"NOUN, PROPN",False,False,False,False,False
+18588,romanticism,GENRE/STYLE,0.0,14.0,14.0,11.0,False,False,NOUN,False,False,False,False,False
+18508,rockabilly,GENRE/STYLE,50.0,22.0,72.0,10.0,True,False,ADV,False,False,False,False,False
+11735,hip hop,GENRE/STYLE,600.0,1136.0,1736.0,7.0,True,False,"NOUN, NOUN",False,False,False,False,False
+11756,hip hop soul,GENRE/STYLE,3.0,36.0,39.0,12.0,True,False,"NOUN, NOUN, NOUN",False,False,False,False,False
+11764,hip house,GENRE/STYLE,0.0,17.0,17.0,9.0,True,False,"NOUN, NOUN",False,False,False,False,False
+11768,hip-hop,GENRE/STYLE,399.0,140.0,539.0,7.0,True,False,"NOUN, PUNCT, NOUN",False,False,False,False,False
+11787,hip-hop/rap,GENRE/STYLE,8.0,17.0,25.0,11.0,True,False,"NOUN, PUNCT, NOUN, SYM, NOUN",False,False,False,False,False
+11793,hiphop,GENRE/STYLE,73.0,14.0,87.0,6.0,False,False,PROPN,False,False,False,False,False
+11805,hispanic american music,GENRE/STYLE,0.0,21.0,21.0,23.0,True,False,"ADJ, ADJ, NOUN",False,False,False,False,False
+11807,hispanic music,GENRE/STYLE,0.0,22.0,22.0,14.0,True,False,"ADJ, NOUN",False,False,False,False,False
+18561,romantic classical,GENRE/STYLE,0.0,10.0,10.0,18.0,True,False,"ADJ, NOUN",False,False,False,False,False
+11853,honky tonk,GENRE/STYLE,5.0,35.0,40.0,10.0,True,False,"VERB, ADV",False,False,False,False,False
+11754,hip hop rap,GENRE/STYLE,12.0,36.0,48.0,11.0,True,False,"NOUN, PROPN, NOUN",False,False,False,False,False
+10142,gangsta,GENRE/STYLE,9.0,21.0,30.0,7.0,False,False,PROPN,False,False,False,False,False
+19165,shakuhachi,GENRE/STYLE,10.0,0.0,10.0,10.0,True,False,PROPN,False,False,False,False,False
+10114,g-funk,GENRE/STYLE,9.0,43.0,52.0,6.0,True,False,"X, PUNCT, NOUN",False,False,False,False,False
+20257,southern rock,GENRE/STYLE,23.0,49.0,72.0,13.0,True,False,"PROPN, NOUN",False,False,False,False,False
+20253,southern hip hop,GENRE/STYLE,1.0,141.0,142.0,16.0,True,False,"PROPN, PROPN, NOUN",False,False,False,False,False
+20228,soundtrack,GENRE/STYLE,31.0,40.0,71.0,10.0,True,False,VERB,False,False,False,False,False
+20197,sound effects,GENRE/STYLE,12.0,14.0,26.0,13.0,True,False,"ADJ, NOUN",False,False,False,False,False
+20195,sound collage,GENRE/STYLE,4.0,6.0,10.0,13.0,True,False,"ADJ, NOUN",False,False,False,False,False
+20107,soul jazz,GENRE/STYLE,2.0,37.0,39.0,9.0,True,False,"PROPN, NOUN",False,False,False,False,False
+20088,soul blues,GENRE/STYLE,5.0,16.0,21.0,10.0,True,False,"NOUN, NOUN",False,False,False,False,False
+20081,soul,GENRE/STYLE,415.0,489.0,904.0,4.0,True,False,NOUN,False,False,False,False,False
+8546,epic doom metal,GENRE/STYLE,2.0,8.0,10.0,15.0,True,False,"ADJ, PROPN, NOUN",False,False,False,False,False
+8171,emocore,GENRE/STYLE,5.0,9.0,14.0,7.0,True,False,NOUN,False,False,False,False,False
+8608,epic music,GENRE/STYLE,3.0,111.0,114.0,10.0,True,False,"ADJ, NOUN",False,False,False,False,False
+8633,epic rock,GENRE/STYLE,12.0,0.0,12.0,9.0,True,False,"PROPN, NOUN",False,False,False,False,False
+8756,ethereal wave,GENRE/STYLE,8.0,43.0,51.0,13.0,True,False,"ADJ, NOUN",False,False,False,False,False
+8780,euphoric hardstyle,GENRE/STYLE,6.0,5.0,11.0,18.0,True,False,"ADJ, PROPN",False,False,False,False,False
+8790,euro house,GENRE/STYLE,1.0,51.0,52.0,10.0,True,False,"PROPN, PROPN",False,False,False,False,False
+8795,euro-disco,GENRE/STYLE,0.0,11.0,11.0,10.0,True,False,"PROPN, PUNCT, PROPN",False,False,False,False,False
+8797,eurobeat,GENRE/STYLE,46.0,22.0,68.0,8.0,True,False,NOUN,False,False,False,False,True
+8800,eurodance,GENRE/STYLE,31.0,51.0,82.0,9.0,True,False,NOUN,False,False,False,False,False
+16888,pop hair metal,GENRE/STYLE,0.0,11.0,11.0,14.0,True,False,"NOUN, NOUN, NOUN",False,False,False,False,False
+8810,europop,GENRE/STYLE,9.0,55.0,64.0,7.0,True,False,NOUN,False,False,False,False,False
+8612,epic orchestral,GENRE/STYLE,13.0,1.0,14.0,15.0,True,False,"ADJ, ADJ",False,False,False,False,False
+20057,sophisti-pop,GENRE/STYLE,1.0,17.0,18.0,12.0,True,False,"PROPN, PUNCT, NOUN",False,False,False,False,False
+8167,emo-pop,GENRE/STYLE,2.0,81.0,83.0,7.0,True,False,"NOUN, PUNCT, NOUN",False,False,False,False,False
+8152,emo rap,GENRE/STYLE,36.0,29.0,65.0,7.0,True,False,"PROPN, PROPN",False,False,False,False,False
+7841,electro house,GENRE/STYLE,46.0,286.0,332.0,13.0,True,False,"PROPN, PROPN",False,False,False,False,False
+7856,electro pop,GENRE/STYLE,16.0,0.0,16.0,11.0,True,False,"PROPN, VERB",False,False,False,False,False
+7863,electro swing,GENRE/STYLE,126.0,44.0,170.0,13.0,True,False,"PROPN, NOUN",False,False,False,False,False
+7889,electro-disco,GENRE/STYLE,2.0,34.0,36.0,13.0,True,False,"PROPN, PUNCT, PROPN",False,False,False,False,False
+7896,electro-industrial,GENRE/STYLE,2.0,14.0,16.0,18.0,True,False,"NOUN, PUNCT, ADJ",False,False,False,False,False
+7900,electro-pop,GENRE/STYLE,15.0,1.0,16.0,11.0,True,False,"NOUN, PUNCT, NOUN",False,False,False,False,False
+7906,electro-swing,GENRE/STYLE,11.0,1.0,12.0,13.0,True,False,"NOUN, PUNCT, NOUN",False,False,False,False,False
+7915,electroclash,GENRE/STYLE,9.0,32.0,41.0,12.0,True,False,NOUN,False,False,False,False,False
+20270,space ambient,GENRE/STYLE,6.0,7.0,13.0,13.0,True,False,"NOUN, NOUN",False,False,False,False,False
+8154,emo rock,GENRE/STYLE,18.0,0.0,18.0,8.0,True,False,"PROPN, NOUN",False,False,False,False,False
+7946,electronic dance,GENRE/STYLE,9.0,1.0,10.0,16.0,True,False,"ADJ, NOUN",False,False,False,False,False
+20258,southern soul,GENRE/STYLE,1.0,26.0,27.0,13.0,True,False,"ADJ, NOUN",False,False,False,False,False
+7992,electronic music,GENRE/STYLE,10.0,10.0,20.0,16.0,True,False,"ADJ, NOUN",False,False,False,False,False
+7999,electronic pop,GENRE/STYLE,170.0,8.0,178.0,14.0,True,False,"ADJ, NOUN",False,False,False,False,False
+8007,electronic rock,GENRE/STYLE,38.0,9.0,47.0,15.0,True,False,"ADJ, NOUN",False,False,False,False,False
+8035,electronica,GENRE/STYLE,61.0,64.0,125.0,11.0,True,False,PROPN,False,False,False,False,False
+8048,electronicore,GENRE/STYLE,10.0,31.0,41.0,13.0,True,False,VERB,False,False,False,False,False
+8054,electropop,GENRE/STYLE,195.0,887.0,1082.0,10.0,True,False,VERB,False,False,False,False,False
+8134,emo,GENRE/STYLE,459.0,66.0,525.0,3.0,True,False,NOUN,False,False,False,False,False
+8146,emo pop,GENRE/STYLE,27.0,10.0,37.0,7.0,True,False,"NOUN, VERB",False,False,False,False,False
+7948,electronic dance music,GENRE/STYLE,19.0,1200.0,1219.0,22.0,True,False,"ADJ, NOUN, NOUN",False,False,False,False,False
+10119,gabber,GENRE/STYLE,8.0,8.0,16.0,6.0,True,False,PROPN,False,False,False,False,False
+8865,exotica,GENRE/STYLE,3.0,10.0,13.0,7.0,True,False,PROPN,False,False,False,False,False
+8887,experimental electronic,GENRE/STYLE,14.0,8.0,22.0,23.0,True,False,"ADJ, ADJ",False,False,False,False,False
+9746,folk-pop,GENRE/STYLE,13.0,2.0,15.0,8.0,True,False,"NOUN, PUNCT, NOUN",False,False,False,False,False
+19311,singer-songwriter,GENRE/STYLE,19.0,405.0,424.0,17.0,True,False,"NOUN, PUNCT, NOUN",True,False,False,False,False
+9759,folktronica,GENRE/STYLE,11.0,12.0,23.0,11.0,True,False,ADV,False,False,False,False,False
+9825,freestyle,GENRE/STYLE,16.0,10.0,26.0,9.0,True,False,NOUN,False,False,False,False,False
+9841,french house,GENRE/STYLE,7.0,20.0,27.0,12.0,True,False,"ADJ, NOUN",False,False,False,False,False
+19226,show tunes,GENRE/STYLE,1.0,52.0,53.0,10.0,True,False,"VERB, NOUN",False,False,False,False,False
+9908,funk,GENRE/STYLE,523.0,294.0,817.0,4.0,True,False,VERB,False,False,False,False,False
+9928,funk metal,GENRE/STYLE,6.0,10.0,16.0,10.0,True,False,"VERB, NOUN",False,False,False,False,False
+9933,funk rock,GENRE/STYLE,13.0,34.0,47.0,9.0,True,False,"VERB, NOUN",False,False,False,False,False
+9734,folk rock,GENRE/STYLE,59.0,213.0,272.0,9.0,True,False,"NOUN, NOUN",False,False,False,False,False
+9938,funk soul,GENRE/STYLE,4.0,41.0,45.0,9.0,True,False,"VERB, NOUN",False,False,False,False,False
+9974,funky house,GENRE/STYLE,1.0,23.0,24.0,11.0,True,False,"ADJ, NOUN",False,False,False,False,False
+19178,shanty,GENRE/STYLE,14.0,0.0,14.0,6.0,True,False,NOUN,False,False,False,False,False
+10005,fusion,GENRE/STYLE,98.0,7.0,105.0,6.0,True,False,NOUN,False,False,False,False,False
+19172,shamisen,GENRE/STYLE,23.0,0.0,23.0,8.0,True,False,VERB,False,False,False,False,False
+10033,future funk,GENRE/STYLE,7.0,3.0,10.0,11.0,True,False,"ADJ, NOUN",False,False,False,False,False
+10034,future garage,GENRE/STYLE,4.0,11.0,15.0,13.0,True,False,"ADJ, NOUN",False,False,False,False,False
+10037,future house,GENRE/STYLE,11.0,17.0,28.0,12.0,True,False,"ADJ, NOUN",False,False,False,False,False
+12340,indie-pop,GENRE/STYLE,18.0,4.0,22.0,9.0,True,False,"NOUN, PUNCT, NOUN",False,False,False,False,False
+10062,futuristic alternative rock,GENRE/STYLE,13.0,0.0,13.0,27.0,True,False,"ADJ, ADJ, NOUN",False,False,False,False,False
+19211,shoegaze,GENRE/STYLE,64.0,57.0,121.0,8.0,True,False,NOUN,False,False,False,False,False
+8869,experimental,GENRE/STYLE,261.0,104.0,365.0,12.0,True,False,ADJ,False,False,False,False,False
+9732,folk punk,GENRE/STYLE,7.0,16.0,23.0,9.0,True,False,"PROPN, NOUN",False,False,False,False,False
+9725,folk metal,GENRE/STYLE,37.0,26.0,63.0,10.0,True,False,"NOUN, NOUN",False,False,False,False,False
+8898,experimental hip hop,GENRE/STYLE,6.0,28.0,34.0,20.0,True,False,"ADJ, NOUN, NOUN",False,False,False,False,False
+8912,experimental pop,GENRE/STYLE,13.0,2.0,15.0,16.0,True,False,"ADJ, NOUN",False,False,False,False,False
+8920,experimental rock,GENRE/STYLE,13.0,42.0,55.0,17.0,True,False,"ADJ, NOUN",False,False,False,False,False
+9041,fantasy,GENRE/STYLE,88.0,130.0,218.0,7.0,True,False,NOUN,False,False,False,False,False
+19894,soft rock,GENRE/STYLE,96.0,191.0,287.0,9.0,True,False,"ADJ, NOUN",False,False,False,False,False
+19729,smooth soul,GENRE/STYLE,15.0,187.0,202.0,11.0,True,False,"ADJ, NOUN",False,False,False,False,False
+19710,smooth jazz,GENRE/STYLE,38.0,48.0,86.0,11.0,True,False,"ADJ, NOUN",False,False,False,False,False
+19653,sludge metal,GENRE/STYLE,1.0,13.0,14.0,12.0,True,False,"NOUN, NOUN",False,False,False,False,False
+19631,slowcore,GENRE/STYLE,7.0,6.0,13.0,8.0,True,False,ADV,False,False,False,False,True
+9731,folk pop,GENRE/STYLE,24.0,145.0,169.0,8.0,True,False,"NOUN, NOUN",False,False,False,False,False
+19581,slow rock,GENRE/STYLE,22.0,8.0,30.0,9.0,True,False,"ADJ, NOUN",False,False,False,False,True
+19393,slap house,GENRE/STYLE,10.0,95.0,105.0,10.0,True,False,"VERB, NOUN",False,False,False,False,False
+19366,skate punk,GENRE/STYLE,6.0,36.0,42.0,10.0,True,False,"PROPN, NOUN",False,False,False,False,False
+19359,ska punk,GENRE/STYLE,16.0,18.0,34.0,8.0,True,False,"PROPN, PROPN",False,False,False,False,False
+19357,ska,GENRE/STYLE,53.0,36.0,89.0,3.0,True,False,PROPN,False,False,False,False,False
+9529,festival progressive house,GENRE/STYLE,1.0,66.0,67.0,26.0,True,False,"NOUN, ADJ, NOUN",False,False,False,False,False
+9581,film score,GENRE/STYLE,4.0,124.0,128.0,10.0,True,False,"NOUN, NOUN",False,False,False,False,False
+9584,film soundtrack,GENRE/STYLE,1.0,50.0,51.0,15.0,True,False,"NOUN, NOUN",False,False,False,False,False
+9635,flamenco,GENRE/STYLE,8.0,4.0,12.0,8.0,True,False,PROPN,False,False,False,False,False
+9697,folk,GENRE/STYLE,475.0,402.0,877.0,4.0,True,False,NOUN,False,False,False,False,False
+9439,female vocal trance,GENRE/STYLE,3.0,8.0,11.0,19.0,True,False,"ADJ, ADJ, NOUN",True,False,False,False,False
+12354,indietronica,GENRE/STYLE,8.0,78.0,86.0,12.0,True,False,PROPN,False,False,False,False,False
+12382,industrial metal,GENRE/STYLE,43.0,43.0,86.0,16.0,True,False,"ADJ, NOUN",False,False,False,False,False
+12363,industrial & noise,GENRE/STYLE,2.0,69.0,71.0,18.0,True,False,"PROPN, CCONJ, PROPN",False,False,False,False,False
+15628,neo-traditionalist country,GENRE/STYLE,0.0,40.0,40.0,26.0,True,False,"NOUN, NOUN, NOUN, NOUN",False,False,False,False,False
+15630,neoclassical,GENRE/STYLE,15.0,11.0,26.0,12.0,True,False,ADJ,False,False,False,False,False
+15631,neoclassical darkwave,GENRE/STYLE,1.0,37.0,38.0,21.0,True,False,"ADJ, NOUN",False,False,False,False,False
+15633,neoclassical metal,GENRE/STYLE,4.0,7.0,11.0,18.0,True,False,"ADJ, NOUN",False,False,False,False,False
+15635,neoclassical new age,GENRE/STYLE,1.0,15.0,16.0,20.0,True,False,"ADJ, ADJ, NOUN",False,False,False,False,False
+15638,neofolk,GENRE/STYLE,6.0,27.0,33.0,7.0,True,False,PROPN,False,False,False,False,False
+15663,neurofunk,GENRE/STYLE,13.0,17.0,30.0,9.0,True,False,NOUN,False,False,False,False,False
+15671,new age,GENRE/STYLE,30.0,64.0,94.0,7.0,True,False,"ADJ, NOUN",False,False,False,False,False
+15683,new jack swing,GENRE/STYLE,40.0,27.0,67.0,14.0,True,False,"ADJ, NOUN, NOUN",False,False,False,False,False
+15701,new rave,GENRE/STYLE,6.0,7.0,13.0,8.0,True,False,"ADJ, NOUN",False,False,False,False,False
+15704,new romantic,GENRE/STYLE,7.0,29.0,36.0,12.0,True,False,"ADJ, NOUN",False,False,False,False,False
+15708,new wave,GENRE/STYLE,159.0,221.0,380.0,8.0,True,False,"ADJ, NOUN",False,False,False,False,False
+15758,nightcore,GENRE/STYLE,18.0,18.0,36.0,9.0,True,False,NOUN,False,False,False,False,False
+17104,post-rock,GENRE/STYLE,26.0,43.0,69.0,9.0,True,False,"ADJ, ADJ, NOUN",False,False,False,False,False
+17103,post-punk revival,GENRE/STYLE,4.0,64.0,68.0,17.0,True,False,"ADJ, ADJ, ADJ, NOUN",False,False,False,False,False
+15835,noise,GENRE/STYLE,21.0,13.0,34.0,5.0,True,False,NOUN,False,False,False,False,False
+15838,noise pop,GENRE/STYLE,5.0,13.0,18.0,9.0,True,False,"NOUN, NOUN",False,False,False,False,False
+15840,noise rock,GENRE/STYLE,0.0,13.0,13.0,10.0,True,False,"PROPN, NOUN",False,False,False,False,False
+17100,post-punk,GENRE/STYLE,53.0,128.0,181.0,9.0,True,False,"ADJ, ADJ, ADJ",False,False,False,False,False
+15621,neo-soul,GENRE/STYLE,14.0,96.0,110.0,8.0,True,False,"PROPN, NOUN, NOUN",False,False,False,False,False
+15616,neo-psychedelia,GENRE/STYLE,5.0,83.0,88.0,15.0,True,False,"PROPN, VERB, NOUN",False,False,False,False,False
+15601,neo soul,GENRE/STYLE,15.0,13.0,28.0,8.0,True,False,"PROPN, NOUN",False,False,False,False,False
+15598,neo orchestral,GENRE/STYLE,0.0,11.0,11.0,14.0,True,False,"PROPN, ADJ",False,False,False,False,False
+17371,progressive country,GENRE/STYLE,0.0,64.0,64.0,19.0,True,False,"ADJ, NOUN",False,False,False,False,False
+17365,progressive bluegrass,GENRE/STYLE,0.0,14.0,14.0,21.0,True,False,"ADJ, NOUN",False,False,False,False,False
+17343,prog rock,GENRE/STYLE,5.0,5.0,10.0,9.0,True,False,"VERB, NOUN",False,False,False,False,False
+15176,modern classical,GENRE/STYLE,2.0,73.0,75.0,16.0,True,False,"ADJ, ADJ",False,False,False,False,False
+15179,modern country,GENRE/STYLE,19.0,53.0,72.0,14.0,True,False,"ADJ, NOUN",False,False,False,False,False
+15225,modern rock,GENRE/STYLE,22.0,7.0,29.0,11.0,True,False,"ADJ, NOUN",False,False,False,False,False
+15257,mongolian throat singing,GENRE/STYLE,4.0,6.0,10.0,24.0,False,False,"ADJ, NOUN, VERB",False,False,False,False,False
+17284,praise and worship,GENRE/STYLE,10.0,6.0,16.0,18.0,True,False,"NOUN, CCONJ, NOUN",False,False,False,False,False
+15302,moombahton,GENRE/STYLE,3.0,10.0,13.0,10.0,True,False,PROPN,False,False,False,False,False
+15847,non-music,GENRE/STYLE,0.0,21.0,21.0,9.0,True,False,"ADJ, ADJ, NOUN",False,False,False,False,False
+15345,motown,GENRE/STYLE,45.0,35.0,80.0,6.0,True,False,NOUN,False,False,False,False,False
+15367,movie soundtrack,GENRE/STYLE,6.0,10.0,16.0,16.0,True,False,"NOUN, NOUN",False,False,False,False,False
+15425,music box,GENRE/STYLE,18.0,2.0,20.0,9.0,True,False,"NOUN, NOUN",False,False,False,False,False
+15447,musical,GENRE/STYLE,23.0,15.0,38.0,7.0,True,False,ADJ,False,False,False,False,False
+15461,musical theater and entertainment,GENRE/STYLE,0.0,40.0,40.0,33.0,True,False,"ADJ, NOUN, CCONJ, NOUN",False,False,False,False,False
+15476,mutation funk,GENRE/STYLE,42.0,0.0,42.0,13.0,True,False,"PROPN, VERB",False,False,False,False,False
+17150,power pop,GENRE/STYLE,29.0,179.0,208.0,9.0,True,False,"NOUN, NOUN",False,False,False,False,False
+17140,power metal,GENRE/STYLE,187.0,205.0,392.0,11.0,True,False,"NOUN, NOUN",False,False,False,False,False
+15551,nashville sound,GENRE/STYLE,0.0,28.0,28.0,15.0,True,False,"PROPN, PROPN",False,False,False,False,False
+17123,power ballad,GENRE/STYLE,36.0,22.0,58.0,12.0,True,False,"NOUN, PROPN",False,False,False,False,False
+15350,motown sound,GENRE/STYLE,0.0,20.0,20.0,12.0,True,False,"ADJ, NOUN",False,False,False,False,False
+17088,post-minimalism,GENRE/STYLE,1.0,13.0,14.0,15.0,True,False,"ADJ, ADJ, NOUN",False,False,False,False,False
+15878,northern american music,GENRE/STYLE,0.0,503.0,503.0,23.0,True,False,"ADJ, ADJ, NOUN",False,False,False,False,False
+17086,post-metal,GENRE/STYLE,12.0,7.0,19.0,10.0,True,False,"ADJ, ADJ, NOUN",False,False,False,False,False
+17001,pop/rock,GENRE/STYLE,8.0,32.0,40.0,8.0,True,False,"NOUN, SYM, NOUN",False,False,False,False,False
+16987,pop-rock,GENRE/STYLE,75.0,12.0,87.0,8.0,True,False,"NOUN, PUNCT, NOUN",False,False,False,False,False
+16983,pop-punk,GENRE/STYLE,40.0,13.0,53.0,8.0,True,False,"VERB, PUNCT, NOUN",False,False,False,False,False
+16547,phonk,GENRE/STYLE,225.0,37.0,262.0,5.0,True,False,VERB,False,False,False,False,False
+16982,pop-metal,GENRE/STYLE,5.0,12.0,17.0,9.0,True,False,"NOUN, PUNCT, NOUN",False,False,False,False,False
+16950,pop soul,GENRE/STYLE,15.0,241.0,256.0,8.0,True,False,"NOUN, NOUN",False,False,False,False,False
+16936,pop rock,GENRE/STYLE,334.0,1419.0,1753.0,8.0,True,False,"NOUN, NOUN",False,False,False,False,False
+16933,pop reggae,GENRE/STYLE,2.0,41.0,43.0,10.0,True,False,"NOUN, NOUN",False,False,False,False,False
+16757,plugg,GENRE/STYLE,3.0,7.0,10.0,5.0,True,False,NOUN,False,False,False,False,False
+16440,pastoral,GENRE/STYLE,0.0,145.0,145.0,8.0,True,False,PROPN,False,False,False,False,False
+16761,plunderphonics,GENRE/STYLE,3.0,7.0,10.0,14.0,True,False,NOUN,False,False,False,False,False
+16774,poetry,GENRE/STYLE,6.0,9.0,15.0,6.0,True,False,NOUN,False,False,False,False,False
+16920,pop punk,GENRE/STYLE,122.0,197.0,319.0,8.0,True,False,"NOUN, NOUN",False,False,False,False,False
+16910,pop music,GENRE/STYLE,14.0,9.0,23.0,9.0,True,False,"NOUN, NOUN",False,False,False,False,False
+16794,political hip hop,GENRE/STYLE,0.0,18.0,18.0,17.0,True,False,"ADJ, NOUN, NOUN",False,False,False,False,False
+16798,polka,GENRE/STYLE,25.0,8.0,33.0,5.0,True,False,PROPN,False,False,False,False,False
+16824,pop,GENRE/STYLE,3966.0,2308.0,6274.0,3.0,True,False,VERB,False,False,False,False,False
+16838,pop ballad,GENRE/STYLE,18.0,3.0,21.0,10.0,True,False,"NOUN, NOUN",False,False,False,False,False
+16859,pop dance,GENRE/STYLE,11.0,1.0,12.0,9.0,True,False,"NOUN, NOUN",False,False,False,False,False
+16885,pop general,GENRE/STYLE,0.0,12.0,12.0,11.0,True,False,"NOUN, NOUN",False,False,False,False,False
+16932,pop rap,GENRE/STYLE,22.0,607.0,629.0,7.0,True,False,"NOUN, NOUN",False,False,False,False,False
+15062,minimalism,GENRE/STYLE,9.0,16.0,25.0,10.0,True,False,NOUN,False,False,False,False,False
+17038,post grunge,GENRE/STYLE,13.0,6.0,19.0,11.0,True,False,"NOUN, NOUN",False,False,False,False,False
+16358,p-funk backing and grooves,GENRE/STYLE,11.0,0.0,11.0,26.0,True,False,"NOUN, PUNCT, NOUN, NOUN, CCONJ, NOUN",False,False,False,False,False
+17081,post-industrial,GENRE/STYLE,4.0,67.0,71.0,15.0,True,False,"ADJ, ADJ, ADJ",False,False,False,False,False
+15917,novelty,GENRE/STYLE,6.0,5.0,11.0,7.0,True,False,NOUN,False,False,False,False,False
+15933,nu jazz,GENRE/STYLE,10.0,28.0,38.0,7.0,True,False,"PROPN, NOUN",False,False,False,False,False
+15937,nu metal,GENRE/STYLE,242.0,252.0,494.0,8.0,True,False,"PROPN, NOUN",False,False,False,False,False
+15949,nu-disco,GENRE/STYLE,22.0,44.0,66.0,8.0,True,False,"PROPN, NOUN, PROPN",False,False,False,False,False
+15953,nu-metal,GENRE/STYLE,57.0,7.0,64.0,8.0,True,False,"PROPN, NOUN, NOUN",False,False,False,False,False
+17069,post-hardcore,GENRE/STYLE,80.0,145.0,225.0,13.0,True,False,"ADJ, ADJ, ADJ",False,False,False,False,False
+16033,oi,GENRE/STYLE,41.0,0.0,41.0,2.0,True,False,INTJ,False,False,False,False,False
+16042,old country,GENRE/STYLE,7.0,7.0,14.0,11.0,True,False,"ADJ, NOUN",False,False,False,False,False
+17039,post hardcore,GENRE/STYLE,22.0,2.0,24.0,13.0,True,False,"PROPN, ADV",False,False,False,False,False
+17063,post-grunge,GENRE/STYLE,38.0,273.0,311.0,11.0,True,False,"ADJ, NOUN, ADJ",False,False,False,False,False
+17057,post-britpop,GENRE/STYLE,4.0,28.0,32.0,12.0,True,False,"ADJ, ADJ, ADJ",False,False,False,False,False
+16144,opera,GENRE/STYLE,151.0,45.0,196.0,5.0,True,False,NOUN,False,False,False,False,False
+17055,post-bop,GENRE/STYLE,0.0,14.0,14.0,8.0,True,False,"ADJ, ADJ, ADJ",False,False,False,False,False
+16192,orchestra,GENRE/STYLE,126.0,45.0,171.0,9.0,True,False,PROPN,False,False,False,False,False
+16202,orchestral,GENRE/STYLE,500.0,282.0,782.0,10.0,True,False,ADJ,False,False,False,False,False
+16227,orchestral pop,GENRE/STYLE,11.0,38.0,49.0,14.0,True,False,"ADJ, NOUN",False,False,False,False,False
+16320,outlaw country,GENRE/STYLE,15.0,89.0,104.0,14.0,True,False,"NOUN, NOUN",False,False,False,False,False
+17043,post punk,GENRE/STYLE,12.0,3.0,15.0,9.0,True,False,"PROPN, NOUN",False,False,False,False,False
+16357,p-funk,GENRE/STYLE,11.0,1.0,12.0,6.0,True,False,"NOUN, PUNCT, NOUN",False,False,False,False,False
+17062,post-glitch,GENRE/STYLE,12.0,1.0,13.0,11.0,True,False,"ADJ, ADJ, ADJ",False,False,False,False,False
+15058,minimal techno,GENRE/STYLE,13.0,17.0,30.0,14.0,True,False,"ADJ, NOUN",False,False,False,False,False
+17376,progressive electronic,GENRE/STYLE,2.0,53.0,55.0,22.0,True,False,"ADJ, ADJ",False,False,False,False,False
+17382,progressive house,GENRE/STYLE,62.0,184.0,246.0,17.0,True,False,"PROPN, NOUN",False,False,False,False,False
+12986,jazz-funk,GENRE/STYLE,2.0,64.0,66.0,9.0,True,False,"NOUN, PUNCT, NOUN",False,False,False,False,False
+12989,jazz-rock,GENRE/STYLE,3.0,25.0,28.0,9.0,True,False,"NOUN, PUNCT, NOUN",False,False,False,False,False
+12999,jazzy,GENRE/STYLE,12.0,3.0,15.0,5.0,True,False,PROPN,False,False,False,False,False
+13059,jpop,GENRE/STYLE,30.0,15.0,45.0,4.0,True,False,PROPN,False,False,False,False,False
+13083,jungle,GENRE/STYLE,37.0,14.0,51.0,6.0,True,False,NOUN,False,False,False,False,False
+13104,k-pop,GENRE/STYLE,200.0,106.0,306.0,5.0,True,False,"X, NOUN, NOUN",False,False,False,False,False
+13141,kawaii metal,GENRE/STYLE,9.0,3.0,12.0,12.0,True,False,"PROPN, NOUN",False,False,False,False,False
+18051,regional music,GENRE/STYLE,0.0,721.0,721.0,14.0,True,False,"ADJ, NOUN",False,False,False,False,False
+13279,kpop,GENRE/STYLE,118.0,21.0,139.0,4.0,False,False,VERB,False,False,False,False,False
+12984,jazz vocals,GENRE/STYLE,0.0,10.0,10.0,11.0,True,False,"NOUN, NOUN",True,False,False,False,False
+13287,krautrock,GENRE/STYLE,10.0,1.0,11.0,9.0,True,False,NOUN,False,False,False,False,False
+13383,latin pop,GENRE/STYLE,11.0,18.0,29.0,9.0,True,False,"PROPN, VERB",False,False,False,False,False
+18023,reggae,GENRE/STYLE,291.0,137.0,428.0,6.0,True,False,PROPN,False,False,False,False,False
+17903,rave,GENRE/STYLE,40.0,7.0,47.0,4.0,True,False,VERB,False,False,False,False,False
+13609,live music,GENRE/STYLE,11.0,1.0,12.0,10.0,True,False,"ADJ, NOUN",False,False,False,False,False
+17853,rapcore,GENRE/STYLE,5.0,7.0,12.0,7.0,True,False,PROPN,False,False,False,False,False
+13648,lo-fi,GENRE/STYLE,368.0,53.0,421.0,5.0,True,False,"PROPN, PUNCT, NOUN",False,False,False,False,False
+13667,lo-fi hip hop,GENRE/STYLE,10.0,7.0,17.0,13.0,True,False,"NOUN, PUNCT, NOUN, NOUN, NOUN",False,False,False,False,False
+13697,lofi,GENRE/STYLE,73.0,3.0,76.0,4.0,False,False,ADV,False,False,False,False,False
+17852,rap/hip-hop,GENRE/STYLE,2.0,30.0,32.0,11.0,True,False,"PROPN, SYM, NOUN, PUNCT, NOUN",False,False,False,False,False
+18043,reggaeton,GENRE/STYLE,55.0,9.0,64.0,9.0,True,False,PROPN,False,False,False,False,False
+17831,rap rock,GENRE/STYLE,43.0,42.0,85.0,8.0,True,False,"PROPN, NOUN",False,False,False,False,False
+12971,jazz rap,GENRE/STYLE,6.0,74.0,80.0,8.0,True,False,"NOUN, PROPN",False,False,False,False,False
+12954,jazz fusion,GENRE/STYLE,25.0,71.0,96.0,11.0,True,False,"NOUN, NOUN",False,False,False,False,False
+7815,electro,GENRE/STYLE,773.0,189.0,962.0,7.0,True,False,PROPN,False,False,False,False,False
+12392,industrial rock,GENRE/STYLE,23.0,39.0,62.0,15.0,True,False,"ADJ, NOUN",False,False,False,False,False
+12396,industrial techno,GENRE/STYLE,4.0,8.0,12.0,17.0,True,False,"ADJ, NOUN",False,False,False,False,False
+18364,rnb,GENRE/STYLE,104.0,12.0,116.0,3.0,True,False,NOUN,False,False,False,False,False
+18309,riddim,GENRE/STYLE,16.0,9.0,25.0,6.0,True,False,PROPN,False,False,False,False,False
+18228,rhythm and blues,GENRE/STYLE,15.0,8.0,23.0,16.0,True,False,"NOUN, CCONJ, NOUN",False,False,False,False,False
+18227,rhythm & blues,GENRE/STYLE,2.0,66.0,68.0,14.0,True,False,"PROPN, CCONJ, NOUN",False,False,False,False,False
+18172,retrowave,GENRE/STYLE,22.0,20.0,42.0,9.0,True,False,VERB,False,False,False,False,False
+12710,irish,GENRE/STYLE,10.0,0.0,10.0,5.0,False,False,PROPN,False,False,False,False,False
+12967,jazz pop,GENRE/STYLE,7.0,30.0,37.0,8.0,True,False,"NOUN, NOUN",False,False,False,False,False
+12721,irish folk,GENRE/STYLE,16.0,13.0,29.0,10.0,True,False,"ADJ, NOUN",False,False,False,False,False
+12779,italo disco,GENRE/STYLE,10.0,2.0,12.0,11.0,True,False,"ADJ, NOUN",False,False,False,False,False
+12784,italo-disco,GENRE/STYLE,8.0,6.0,14.0,11.0,True,False,"NOUN, PUNCT, NOUN",False,False,False,False,False
+12803,j-pop,GENRE/STYLE,159.0,126.0,285.0,5.0,True,False,"X, PUNCT, NOUN",False,False,False,False,False
+12811,j-rock,GENRE/STYLE,28.0,48.0,76.0,6.0,True,False,"X, NOUN, NOUN",False,False,False,False,False
+12832,jamaican music,GENRE/STYLE,1.0,103.0,104.0,14.0,True,False,"ADJ, NOUN",False,False,False,False,False
+12843,jangle pop,GENRE/STYLE,4.0,36.0,40.0,10.0,True,False,"PROPN, NOUN",False,False,False,False,False
+12893,japanese pop,GENRE/STYLE,5.0,5.0,10.0,12.0,True,False,"ADJ, VERB",False,False,False,False,False
+12929,jazz,GENRE/STYLE,482.0,355.0,837.0,4.0,True,False,NOUN,False,False,False,False,False
+12952,jazz funk,GENRE/STYLE,7.0,10.0,17.0,9.0,True,False,"NOUN, NOUN",False,False,False,False,False
+12722,irish folk music,GENRE/STYLE,0.0,22.0,22.0,16.0,True,False,"ADJ, NOUN, NOUN",False,False,False,False,False
+12362,industrial,GENRE/STYLE,141.0,42.0,183.0,10.0,True,False,ADJ,False,False,False,False,False
+17823,rap metal,GENRE/STYLE,15.0,22.0,37.0,9.0,True,False,"PROPN, NOUN",False,False,False,False,False
+17798,rap,GENRE/STYLE,1213.0,240.0,1453.0,3.0,True,False,VERB,False,False,False,False,False
+17397,progressive rock,GENRE/STYLE,73.0,231.0,304.0,16.0,True,False,"ADJ, NOUN",False,False,False,False,False
+14630,melodic black metal,GENRE/STYLE,2.0,12.0,14.0,19.0,True,False,"ADJ, ADJ, NOUN",False,False,False,False,False
+14639,melodic death metal,GENRE/STYLE,20.0,58.0,78.0,19.0,True,False,"ADJ, NOUN, NOUN",False,False,False,False,False
+14645,melodic dubstep,GENRE/STYLE,17.0,27.0,44.0,15.0,True,False,"ADJ, NOUN",False,False,False,False,False
+14677,melodic hardcore,GENRE/STYLE,8.0,26.0,34.0,16.0,True,False,"PROPN, PROPN",False,False,False,False,False
+14714,melodic metal,GENRE/STYLE,32.0,17.0,49.0,13.0,True,False,"ADJ, NOUN",False,False,False,False,False
+14717,melodic metalcore,GENRE/STYLE,21.0,86.0,107.0,17.0,True,False,"PROPN, NOUN",False,False,False,False,False
+14749,melodic rock,GENRE/STYLE,26.0,18.0,44.0,12.0,True,False,"PROPN, NOUN",False,False,False,False,False
+14768,melodic techno,GENRE/STYLE,24.0,11.0,35.0,14.0,True,False,"ADJ, NOUN",False,False,False,False,False
+17401,progressive trance,GENRE/STYLE,18.0,119.0,137.0,18.0,True,False,"ADJ, NOUN",False,False,False,False,False
+14770,melodic trance,GENRE/STYLE,5.0,6.0,11.0,14.0,True,False,"PROPN, NOUN",False,False,False,False,False
+17391,progressive pop,GENRE/STYLE,0.0,36.0,36.0,15.0,True,False,"ADJ, NOUN",False,False,False,False,False
+14839,memphis soul,GENRE/STYLE,16.0,6.0,22.0,12.0,True,False,"DET, NOUN",False,False,False,False,False
+17389,progressive metalcore,GENRE/STYLE,1.0,11.0,12.0,21.0,True,False,"ADJ, NOUN",False,False,False,False,False
+14863,merseybeat,GENRE/STYLE,10.0,0.0,10.0,10.0,True,False,NOUN,False,False,False,False,True
+14870,metal,GENRE/STYLE,675.0,1119.0,1794.0,5.0,True,False,NOUN,False,False,False,False,False
+14909,metalcore,GENRE/STYLE,158.0,193.0,351.0,9.0,True,False,VERB,False,False,False,False,False
+14954,microtonal,GENRE/STYLE,7.0,4.0,11.0,10.0,True,False,ADJ,False,False,False,False,False
+17386,progressive metal,GENRE/STYLE,50.0,173.0,223.0,17.0,True,False,"ADJ, NOUN",False,False,False,False,False
+14998,midwest emo,GENRE/STYLE,30.0,11.0,41.0,11.0,True,False,"PROPN, NOUN",False,False,False,False,False
+17394,progressive psytrance,GENRE/STYLE,4.0,8.0,12.0,21.0,True,False,"ADJ, NOUN",False,False,False,False,False
+13813,lounge,GENRE/STYLE,26.0,11.0,37.0,6.0,True,False,VERB,False,False,False,False,False
+17445,psybient,GENRE/STYLE,4.0,8.0,12.0,8.0,True,False,VERB,False,False,False,False,False
+14447,meditation,GENRE/STYLE,7.0,3.0,10.0,10.0,True,False,NOUN,False,False,False,False,False
+13820,love metal,GENRE/STYLE,0.0,12.0,12.0,10.0,True,False,"NOUN, NOUN",False,False,False,False,False
+13823,love song,GENRE/STYLE,33.0,6.0,39.0,9.0,True,False,"NOUN, NOUN",False,False,False,False,False
+13905,lullaby,GENRE/STYLE,36.0,9.0,45.0,7.0,True,False,PROPN,False,False,False,False,False
+17759,rain,GENRE/STYLE,37.0,6.0,43.0,4.0,True,False,NOUN,False,False,False,False,False
+17751,ragtime,GENRE/STYLE,14.0,12.0,26.0,7.0,True,False,NOUN,False,False,False,False,False
+17707,r&b/soul,GENRE/STYLE,10.0,7.0,17.0,8.0,True,False,"NOUN, SYM, NOUN",False,False,False,False,False
+17674,r&b,GENRE/STYLE,584.0,873.0,1457.0,3.0,True,False,NOUN,False,False,False,False,False
+17646,quiet storm,GENRE/STYLE,5.0,13.0,18.0,11.0,True,False,"ADJ, NOUN",False,False,False,False,False
+17597,punk rock,GENRE/STYLE,116.0,206.0,322.0,9.0,True,False,"PROPN, NOUN",False,False,False,False,False
+17450,psychedelia,GENRE/STYLE,4.0,112.0,116.0,11.0,True,False,PROPN,False,False,False,False,False
+17593,punk pop,GENRE/STYLE,9.0,9.0,18.0,8.0,True,False,"NOUN, NOUN",False,False,False,False,False
+17525,psytrance,GENRE/STYLE,20.0,43.0,63.0,9.0,True,False,NOUN,False,False,False,False,False
+17501,psychedelic trance,GENRE/STYLE,8.0,5.0,13.0,18.0,True,False,"ADJ, NOUN",False,False,False,False,False
+17498,psychedelic soul,GENRE/STYLE,5.0,13.0,18.0,16.0,True,False,"ADJ, NOUN",False,False,False,False,False
+14330,mariachi,GENRE/STYLE,12.0,6.0,18.0,8.0,True,False,PROPN,False,False,False,False,False
+17494,psychedelic rock,GENRE/STYLE,66.0,132.0,198.0,16.0,True,False,"ADJ, NOUN",False,False,False,False,False
+17487,psychedelic pop,GENRE/STYLE,13.0,69.0,82.0,15.0,True,False,"ADJ, NOUN",False,False,False,False,False
+14370,math rock,GENRE/STYLE,66.0,8.0,74.0,9.0,True,False,"NOUN, NOUN",False,False,False,False,False
+17471,psychedelic folk,GENRE/STYLE,5.0,14.0,19.0,16.0,True,False,"ADJ, NOUN",False,False,False,False,False
+14403,medieval,GENRE/STYLE,72.0,23.0,95.0,8.0,True,False,ADJ,False,False,False,False,False
+17585,punk,GENRE/STYLE,263.0,71.0,334.0,4.0,True,False,NOUN,False,False,False,False,False
+7743,electric blues,GENRE/STYLE,15.0,65.0,80.0,14.0,True,False,"ADJ, NOUN",False,False,False,False,False
+16908,pop metal,GENRE/STYLE,9.0,6.0,15.0,9.0,True,False,"NOUN, NOUN",False,False,False,False,False
+21469,teen pop,GENRE/STYLE,12.0,91.0,103.0,8.0,True,False,"ADJ, NOUN",False,False,False,False,False
+3121,bardcore,GENRE/STYLE,4.0,11.0,15.0,8.0,True,False,ADV,False,False,False,False,False
+3116,bard,GENRE/STYLE,11.0,0.0,11.0,4.0,True,False,NOUN,False,False,False,False,False
+5290,coldwave,GENRE/STYLE,8.0,6.0,14.0,8.0,True,False,VERB,False,False,False,False,False
+22259,uk hip hop,GENRE/STYLE,3.0,21.0,24.0,10.0,True,False,"PROPN, PROPN, NOUN",False,False,False,False,False
+22263,uk pop,GENRE/STYLE,4.0,6.0,10.0,6.0,True,False,"PROPN, VERB",False,False,False,False,False
+3075,ballads,GENRE/STYLE,6.0,13.0,19.0,7.0,False,False,NOUN,False,False,False,False,False
+3144,baroque,GENRE/STYLE,23.0,18.0,41.0,7.0,True,False,NOUN,False,False,False,False,False
+3064,ballad,GENRE/STYLE,436.0,273.0,709.0,6.0,True,False,PROPN,False,False,False,False,False
+2945,avant-garde,GENRE/STYLE,25.0,62.0,87.0,11.0,True,False,"ADV, PUNCT, X",False,False,False,False,False
+2920,australian rock,GENRE/STYLE,4.0,8.0,12.0,15.0,True,False,"ADJ, NOUN",False,False,False,False,False
+5315,comedy,GENRE/STYLE,15.0,20.0,35.0,6.0,True,False,NOUN,False,False,False,False,False
+5318,comedy rap,GENRE/STYLE,3.0,7.0,10.0,10.0,True,False,"NOUN, NOUN",False,False,False,False,False
+5319,comedy rock,GENRE/STYLE,7.0,6.0,13.0,11.0,True,False,"NOUN, NOUN",False,False,False,False,False
+22318,underground rap,GENRE/STYLE,8.0,2.0,10.0,15.0,True,False,"INTJ, NOUN",False,False,False,False,False
+2952,avant-garde jazz,GENRE/STYLE,3.0,11.0,14.0,16.0,True,False,"ADJ, PUNCT, ADJ, NOUN",False,False,False,False,False
+5381,complextro,GENRE/STYLE,7.0,31.0,38.0,10.0,True,False,NOUN,False,False,False,False,False
+3149,baroque music,GENRE/STYLE,4.0,8.0,12.0,13.0,True,False,"ADJ, NOUN",False,False,False,False,False
+5245,cloud rap,GENRE/STYLE,27.0,51.0,78.0,9.0,True,False,"PROPN, PROPN",False,False,False,False,False
+4963,cinematic classical,GENRE/STYLE,1.0,98.0,99.0,19.0,True,False,"ADJ, PROPN",False,False,False,False,False
+5004,city pop,GENRE/STYLE,42.0,27.0,69.0,8.0,True,False,"NOUN, NOUN",False,False,False,False,False
+3265,bassline,GENRE/STYLE,38.0,26.0,64.0,8.0,True,False,NOUN,False,False,False,False,False
+5026,classic,GENRE/STYLE,65.0,14.0,79.0,7.0,False,False,NOUN,False,False,False,False,False
+5034,classic country,GENRE/STYLE,10.0,13.0,23.0,15.0,True,False,"ADJ, NOUN",False,False,False,False,False
+5060,classic rock,GENRE/STYLE,60.0,76.0,136.0,12.0,True,False,"ADJ, NOUN",False,False,False,False,False
+3150,baroque pop,GENRE/STYLE,10.0,51.0,61.0,11.0,True,False,"ADJ, NOUN",False,False,False,False,False
+5073,classical,GENRE/STYLE,176.0,111.0,287.0,9.0,True,False,ADJ,False,False,False,False,False
+5091,classical music,GENRE/STYLE,19.0,203.0,222.0,15.0,True,False,"ADJ, NOUN",False,False,False,False,False
+21340,tango,GENRE/STYLE,7.0,4.0,11.0,5.0,True,False,PROPN,False,False,False,False,False
+21256,synthwave,GENRE/STYLE,489.0,179.0,668.0,9.0,True,False,VERB,False,False,False,False,False
+22255,uk garage,GENRE/STYLE,26.0,9.0,35.0,9.0,True,False,"PROPN, NOUN",False,False,False,False,False
+5206,clear sound,GENRE/STYLE,13.0,0.0,13.0,11.0,True,False,"ADJ, NOUN",False,False,False,False,False
+21246,synthpop,GENRE/STYLE,101.0,627.0,728.0,8.0,True,False,NOUN,False,False,False,False,False
+5080,classical crossover,GENRE/STYLE,4.0,34.0,38.0,19.0,True,False,"ADJ, NOUN",False,False,False,False,False
+21359,tar,GENRE/STYLE,23.0,0.0,23.0,3.0,True,False,NOUN,False,False,False,False,False
+2813,atmosphere,GENRE/STYLE,7.0,3.0,10.0,10.0,True,False,NOUN,False,False,False,False,False
+2755,art rock,GENRE/STYLE,23.0,115.0,138.0,8.0,True,False,"PROPN, NOUN",False,False,False,False,False
+5511,cool jazz,GENRE/STYLE,2.0,16.0,18.0,9.0,True,False,"ADJ, NOUN",False,False,False,False,False
+22744,viking metal,GENRE/STYLE,10.0,3.0,13.0,12.0,True,False,"VERB, NOUN",False,False,False,False,False
+2169,americana,GENRE/STYLE,25.0,139.0,164.0,9.0,True,False,NOUN,False,False,False,False,False
+2152,american folk music,GENRE/STYLE,0.0,21.0,21.0,19.0,True,False,"ADJ, NOUN, NOUN",False,False,False,False,False
+5551,country,GENRE/STYLE,835.0,605.0,1440.0,7.0,True,False,NOUN,False,False,False,False,False
+5565,country blues,GENRE/STYLE,15.0,35.0,50.0,13.0,True,False,"NOUN, NOUN",False,False,False,False,False
+22729,video game music,GENRE/STYLE,0.0,20.0,20.0,16.0,True,False,"NOUN, NOUN, NOUN",False,False,False,False,False
+3845,boy band,GENRE/STYLE,13.0,14.0,27.0,8.0,True,False,"PROPN, NOUN",False,False,False,False,False
+2112,ambient pop,GENRE/STYLE,7.0,68.0,75.0,11.0,True,False,"ADJ, NOUN",False,False,False,False,False
+2095,ambient house,GENRE/STYLE,8.0,7.0,15.0,13.0,True,False,"NOUN, PROPN",False,False,False,False,False
+2072,ambient,GENRE/STYLE,399.0,276.0,675.0,7.0,True,False,NOUN,False,False,False,False,False
+5587,country music,GENRE/STYLE,11.0,7.0,18.0,13.0,True,False,"NOUN, NOUN",False,False,False,False,False
+5592,country pop,GENRE/STYLE,42.0,235.0,277.0,11.0,True,False,"NOUN, VERB",False,False,False,False,False
+5595,country rap,GENRE/STYLE,17.0,9.0,26.0,11.0,True,False,"PROPN, PROPN",False,False,False,False,False
+5574,country folk,GENRE/STYLE,11.0,6.0,17.0,12.0,True,False,"NOUN, NOUN",False,False,False,False,False
+2783,asmr,GENRE/STYLE,9.0,8.0,17.0,4.0,True,False,PROPN,False,False,False,False,False
+22618,vaporwave,GENRE/STYLE,54.0,12.0,66.0,9.0,True,False,VERB,False,False,False,False,False
+2573,anime opening,GENRE/STYLE,16.0,2.0,18.0,13.0,True,False,"NOUN, VERB",False,False,False,False,False
+5432,conscious hip hop,GENRE/STYLE,4.0,161.0,165.0,17.0,True,False,"ADJ, NOUN, NOUN",False,False,False,False,False
+2752,art pop,GENRE/STYLE,17.0,111.0,128.0,7.0,True,False,"NOUN, NOUN",False,False,False,False,False
+2702,arena rock,GENRE/STYLE,23.0,26.0,49.0,10.0,True,False,"PROPN, NOUN",False,False,False,False,False
+5457,contemporary christian,GENRE/STYLE,13.0,18.0,31.0,22.0,True,False,"PROPN, PROPN",False,False,False,False,False
+5467,contemporary country,GENRE/STYLE,4.0,181.0,185.0,20.0,True,False,"PROPN, NOUN",False,False,False,False,False
+2645,aor,GENRE/STYLE,7.0,65.0,72.0,3.0,False,False,NOUN,False,False,False,False,False
+2562,anime,GENRE/STYLE,170.0,11.0,181.0,5.0,True,False,NOUN,False,False,False,False,False
+22538,uplifting trance,GENRE/STYLE,9.0,21.0,30.0,16.0,True,False,"VERB, NOUN",False,False,False,False,False
+5475,contemporary jazz,GENRE/STYLE,0.0,12.0,12.0,17.0,True,False,"ADJ, NOUN",False,False,False,False,False
+5478,contemporary pop,GENRE/STYLE,6.0,13.0,19.0,16.0,True,False,"ADJ, NOUN",False,False,False,False,False
+5480,contemporary pop/rock,GENRE/STYLE,0.0,20.0,20.0,21.0,True,False,"ADJ, NOUN, SYM, NOUN",False,False,False,False,False
+5482,contemporary r&b,GENRE/STYLE,14.0,659.0,673.0,16.0,True,False,"PROPN, PROPN",False,False,False,False,False
+22575,us power metal,GENRE/STYLE,0.0,28.0,28.0,14.0,True,False,"PROPN, NOUN, NOUN",False,False,False,False,False
+2599,anthem,GENRE/STYLE,114.0,9.0,123.0,6.0,True,False,NOUN,False,False,False,False,False
+5470,contemporary folk,GENRE/STYLE,4.0,277.0,281.0,17.0,True,False,"PROPN, NOUN",False,False,False,False,False
+4927,christmas music,GENRE/STYLE,0.0,15.0,15.0,15.0,True,False,"PROPN, NOUN",False,False,False,False,False
+21368,tavern,GENRE/STYLE,13.0,0.0,13.0,6.0,True,False,ADV,False,False,False,False,False
+4919,christian rock,GENRE/STYLE,14.0,13.0,27.0,14.0,True,False,"PROPN, NOUN",False,False,False,False,False
+4108,brostep,GENRE/STYLE,12.0,26.0,38.0,7.0,True,False,VERB,False,False,False,False,False
+3731,bollywood,GENRE/STYLE,15.0,7.0,22.0,9.0,True,False,NOUN,False,False,False,False,False
+4142,bubblegum,GENRE/STYLE,28.0,8.0,36.0,9.0,True,False,VERB,False,False,False,False,False
+4146,bubblegum pop,GENRE/STYLE,14.0,5.0,19.0,13.0,True,False,"NOUN, NOUN",False,False,False,False,False
+21965,trap,GENRE/STYLE,588.0,361.0,949.0,4.0,True,False,VERB,False,False,False,False,False
+3686,blues rock,GENRE/STYLE,44.0,215.0,259.0,10.0,True,False,"NOUN, NOUN",False,False,False,False,False
+21968,trap background,GENRE/STYLE,10.0,0.0,10.0,15.0,True,False,"NOUN, NOUN",False,False,False,False,False
+3672,blues,GENRE/STYLE,375.0,203.0,578.0,5.0,True,False,NOUN,False,False,False,False,False
+21936,trance,GENRE/STYLE,241.0,246.0,487.0,6.0,True,False,NOUN,False,False,False,False,False
+4337,caribbean music,GENRE/STYLE,0.0,108.0,108.0,15.0,True,False,"ADJ, NOUN",False,False,False,False,False
+3663,bluegrass,GENRE/STYLE,73.0,79.0,152.0,9.0,True,False,ADP,False,False,False,False,False
+3662,blue-eyed soul,GENRE/STYLE,5.0,48.0,53.0,14.0,True,False,"ADJ, PUNCT, ADJ, NOUN",False,False,False,False,False
+3574,black metal,GENRE/STYLE,34.0,27.0,61.0,11.0,True,False,"ADJ, NOUN",False,False,False,False,False
+22090,tropical,GENRE/STYLE,58.0,69.0,127.0,8.0,True,False,ADJ,False,False,False,False,False
+4232,cabaret,GENRE/STYLE,12.0,6.0,18.0,7.0,True,False,VERB,False,False,False,False,False
+3541,bitpop,GENRE/STYLE,2.0,20.0,22.0,6.0,True,False,VERB,False,False,False,False,False
+4085,broadway,GENRE/STYLE,19.0,19.0,38.0,8.0,True,False,ADV,False,False,False,False,False
+4079,britpop,GENRE/STYLE,21.0,58.0,79.0,7.0,True,False,VERB,False,False,False,False,False
+22047,trip hop,GENRE/STYLE,52.0,150.0,202.0,8.0,True,False,"NOUN, NOUN",False,False,False,False,False
+3953,breakcore,GENRE/STYLE,16.0,5.0,21.0,9.0,True,False,VERB,False,False,False,False,True
+22038,tribal house,GENRE/STYLE,6.0,5.0,11.0,12.0,True,False,"PROPN, PROPN",False,False,False,False,False
+3802,bounce,GENRE/STYLE,41.0,7.0,48.0,6.0,True,False,NOUN,False,False,False,False,False
+3787,bossa nova,GENRE/STYLE,103.0,15.0,118.0,10.0,True,False,"VERB, PROPN",False,False,False,False,False
+3759,boom bap,GENRE/STYLE,37.0,134.0,171.0,8.0,True,False,"PROPN, PROPN",False,False,False,False,False
+4084,bro-country,GENRE/STYLE,0.0,38.0,38.0,11.0,True,False,"PROPN, PUNCT, NOUN",False,False,False,False,False
+21995,trap soul,GENRE/STYLE,2.0,18.0,20.0,9.0,True,False,"NOUN, NOUN",False,False,False,False,False
+3750,boogie,GENRE/STYLE,7.0,30.0,37.0,6.0,True,False,NOUN,False,False,False,False,False
+21990,trap rap,GENRE/STYLE,10.0,7.0,17.0,8.0,True,False,"PROPN, NOUN",False,False,False,False,False
+4026,brit pop,GENRE/STYLE,5.0,5.0,10.0,8.0,True,False,"PROPN, VERB",False,False,False,False,False
+21986,trap metal,GENRE/STYLE,4.0,14.0,18.0,10.0,True,False,"NOUN, NOUN",False,False,False,False,False
+4072,british rock,GENRE/STYLE,10.0,9.0,19.0,12.0,True,False,"PROPN, NOUN",False,False,False,False,False
+21975,trap edm,GENRE/STYLE,8.0,36.0,44.0,8.0,True,False,"VERB, PROPN",False,False,False,False,False
+3754,boogie rock,GENRE/STYLE,0.0,20.0,20.0,11.0,True,False,"PROPN, NOUN",False,False,False,False,False
+3535,bit music,GENRE/STYLE,0.0,18.0,18.0,9.0,True,False,"NOUN, NOUN",False,False,False,False,False
+21914,traditional pop,GENRE/STYLE,6.0,59.0,65.0,15.0,True,False,"ADJ, NOUN",False,False,False,False,False
+21876,traditional country,GENRE/STYLE,5.0,35.0,40.0,19.0,True,False,"ADJ, NOUN",False,False,False,False,False
+4641,chicago blues,GENRE/STYLE,6.0,31.0,37.0,13.0,True,False,"PROPN, NOUN",False,False,False,False,False
+4675,children's music,GENRE/STYLE,12.0,16.0,28.0,16.0,True,False,"NOUN, PART, NOUN",False,False,False,False,False
+21410,techno,GENRE/STYLE,365.0,106.0,471.0,6.0,True,False,NOUN,False,False,False,False,False
+21398,technical death metal,GENRE/STYLE,5.0,9.0,14.0,21.0,True,False,"ADJ, NOUN, NOUN",False,False,False,False,False
+4759,chillout,GENRE/STYLE,27.0,165.0,192.0,8.0,True,False,NOUN,False,False,False,False,False
+4762,chillstep,GENRE/STYLE,28.0,10.0,38.0,9.0,True,False,NOUN,False,False,False,False,False
+21493,television music,GENRE/STYLE,0.0,37.0,37.0,16.0,True,False,"NOUN, NOUN",False,False,False,False,False
+4769,chillwave,GENRE/STYLE,49.0,62.0,111.0,9.0,True,False,NOUN,False,False,False,False,False
+4851,choral,GENRE/STYLE,43.0,55.0,98.0,6.0,True,False,ADJ,False,False,False,False,False
+4861,choral symphony,GENRE/STYLE,1.0,9.0,10.0,15.0,True,False,"ADJ, NOUN",False,False,False,False,False
+22171,turntablism,GENRE/STYLE,15.0,6.0,21.0,11.0,True,False,ADV,False,False,False,False,False
+21392,tech trance,GENRE/STYLE,1.0,32.0,33.0,11.0,True,False,"NOUN, NOUN",False,False,False,False,False
+22245,uk drill,GENRE/STYLE,47.0,9.0,56.0,8.0,True,False,"PROPN, PROPN",False,False,False,False,False
+21386,tech house,GENRE/STYLE,26.0,86.0,112.0,10.0,True,False,"PROPN, NOUN",False,False,False,False,False
+4808,chiptune,GENRE/STYLE,33.0,43.0,76.0,8.0,True,False,PROPN,False,False,False,False,False
+3383,bebop,GENRE/STYLE,6.0,7.0,13.0,5.0,True,False,PROPN,False,False,False,False,False
+21542,terrorcore,GENRE/STYLE,0.0,12.0,12.0,10.0,True,False,VERB,False,False,False,False,False
+3393,bedroom pop,GENRE/STYLE,51.0,14.0,65.0,11.0,True,False,"NOUN, NOUN",False,False,False,False,False
+3495,big room house,GENRE/STYLE,2.0,30.0,32.0,14.0,True,False,"ADJ, NOUN, NOUN",False,False,False,False,False
+22094,tropical house,GENRE/STYLE,38.0,59.0,97.0,14.0,True,False,"ADJ, NOUN",False,False,False,False,False
+21749,thug rap,GENRE/STYLE,0.0,10.0,10.0,8.0,True,False,"PROPN, PROPN",False,False,False,False,False
+3464,big band,GENRE/STYLE,41.0,108.0,149.0,8.0,True,False,"ADJ, NOUN",False,False,False,False,False
+21725,thrash metal,GENRE/STYLE,38.0,81.0,119.0,12.0,True,False,"VERB, NOUN",False,False,False,False,False
+3458,bhm,GENRE/STYLE,0.0,13.0,13.0,3.0,False,False,PROPN,False,False,False,False,False
+4487,ccm,GENRE/STYLE,1.0,15.0,16.0,3.0,True,False,NOUN,False,False,False,False,False
+4517,celtic,GENRE/STYLE,65.0,25.0,90.0,6.0,True,False,ADJ,False,False,False,False,False
+4523,celtic folk,GENRE/STYLE,8.0,17.0,25.0,11.0,True,False,"ADJ, NOUN",False,False,False,False,False
+4525,celtic folk music,GENRE/STYLE,0.0,26.0,26.0,17.0,True,False,"ADJ, NOUN, NOUN",False,False,False,False,False
+4535,celtic punk,GENRE/STYLE,5.0,8.0,13.0,11.0,True,False,"PROPN, NOUN",False,False,False,False,False
+4537,celtic rock,GENRE/STYLE,6.0,8.0,14.0,11.0,True,False,"ADJ, NOUN",False,False,False,False,False
+4553,chamber folk,GENRE/STYLE,1.0,9.0,10.0,12.0,True,False,"PROPN, NOUN",False,False,False,False,False
+4556,chamber music,GENRE/STYLE,3.0,19.0,22.0,13.0,True,False,"NOUN, NOUN",False,False,False,False,False
+4557,chamber pop,GENRE/STYLE,8.0,77.0,85.0,11.0,True,False,"PROPN, NOUN",False,False,False,False,False
+5597,country rock,GENRE/STYLE,72.0,210.0,282.0,12.0,True,False,"PROPN, NOUN",False,False,False,False,False
+5602,country soul,GENRE/STYLE,0.0,11.0,11.0,12.0,True,False,"NOUN, NOUN",False,False,False,False,False
+2130,ambient techno,GENRE/STYLE,12.0,24.0,36.0,14.0,True,False,"ADJ, NOUN",False,False,False,False,False
+2032,alternative/indie rock,GENRE/STYLE,0.0,17.0,17.0,22.0,True,False,"ADJ, SYM, NOUN, NOUN",False,False,False,False,False
+1465,acid,GENRE/STYLE,12.0,0.0,12.0,4.0,False,False,NOUN,False,False,False,False,False
+6903,djent,GENRE/STYLE,46.0,64.0,110.0,5.0,True,False,PROPN,False,False,False,False,False
+6912,dnb,GENRE/STYLE,16.0,5.0,21.0,3.0,False,False,PROPN,False,False,False,False,False
+1426,acapella,GENRE/STYLE,25.0,16.0,41.0,8.0,True,False,NOUN,False,False,False,False,False
+1415,abstract hip hop,GENRE/STYLE,5.0,12.0,17.0,16.0,True,False,"ADJ, NOUN, NOUN",False,False,False,False,False
+20623,string quartet,GENRE/STYLE,5.0,11.0,16.0,14.0,True,False,"NOUN, NOUN",False,False,False,False,False
+6886,dixieland,GENRE/STYLE,4.0,24.0,28.0,9.0,True,False,VERB,False,False,False,False,False
+6949,doo wop,GENRE/STYLE,19.0,9.0,28.0,7.0,True,False,"VERB, NOUN",False,False,False,False,False
+1412,abstract,GENRE/STYLE,12.0,39.0,51.0,8.0,True,False,ADJ,False,False,False,False,False
+6963,doom metal,GENRE/STYLE,32.0,41.0,73.0,10.0,True,False,"PROPN, NOUN",False,False,False,False,False
+20565,stoner rock,GENRE/STYLE,14.0,37.0,51.0,11.0,True,False,"PROPN, NOUN",False,False,False,False,False
+7015,downtempo,GENRE/STYLE,48.0,244.0,292.0,9.0,True,False,VERB,False,False,False,False,False
+7029,drama,GENRE/STYLE,7.0,5.0,12.0,5.0,True,False,NOUN,False,False,False,False,False
+1037,a cappella,GENRE/STYLE,36.0,6.0,42.0,10.0,True,False,"DET, NOUN",False,False,False,False,False
+6950,doo-wop,GENRE/STYLE,19.0,39.0,58.0,7.0,True,False,"PROPN, PUNCT, NOUN",False,False,False,False,False
+20562,stoner metal,GENRE/STYLE,6.0,15.0,21.0,12.0,True,False,"PROPN, NOUN",False,False,False,False,False
+1473,acid house,GENRE/STYLE,14.0,11.0,25.0,10.0,True,False,"PROPN, NOUN",False,False,False,False,False
+1481,acid rock,GENRE/STYLE,4.0,12.0,16.0,9.0,True,False,"PROPN, NOUN",False,False,False,False,False
+6706,didgeridoo,GENRE/STYLE,17.0,0.0,17.0,10.0,True,False,VERB,False,False,False,False,False
+6721,digital dancehall,GENRE/STYLE,0.0,10.0,10.0,17.0,True,False,"PROPN, PROPN",False,False,False,False,False
+20874,sunshine pop,GENRE/STYLE,3.0,10.0,13.0,12.0,True,False,"VERB, VERB",False,False,False,False,False
+1712,african music,GENRE/STYLE,1.0,13.0,14.0,13.0,True,False,"ADJ, NOUN",False,False,False,False,False
+6762,disco,GENRE/STYLE,276.0,205.0,481.0,5.0,True,False,PROPN,False,False,False,False,False
+22915,vocal jazz,GENRE/STYLE,7.0,87.0,94.0,10.0,True,False,"ADJ, NOUN",True,False,False,False,False
+1477,acid jazz,GENRE/STYLE,20.0,14.0,34.0,9.0,True,False,"NOUN, NOUN",False,False,False,False,False
+1667,adult contemporary,GENRE/STYLE,15.0,171.0,186.0,18.0,True,False,"PROPN, PROPN",False,False,False,False,False
+5609,country-pop,GENRE/STYLE,4.0,6.0,10.0,11.0,True,False,"NOUN, PUNCT, NOUN",False,False,False,False,False
+1569,acoustic pop,GENRE/STYLE,19.0,1.0,20.0,12.0,True,False,"ADJ, NOUN",False,False,False,False,False
+1501,acoustic blues,GENRE/STYLE,6.0,13.0,19.0,14.0,True,False,"ADJ, NOUN",False,False,False,False,False
+1497,acoustic ballad,GENRE/STYLE,10.0,1.0,11.0,15.0,True,False,"PROPN, PROPN",False,False,False,False,False
+22960,vocaloid,GENRE/STYLE,140.0,22.0,162.0,8.0,True,False,VERB,True,False,False,False,False
+1485,acid techno,GENRE/STYLE,6.0,14.0,20.0,11.0,True,False,"ADJ, NOUN",False,False,False,False,False
+22943,vocal trance,GENRE/STYLE,12.0,36.0,48.0,12.0,True,False,"PROPN, NOUN",True,False,False,False,False
+6657,desert rock,GENRE/STYLE,0.0,10.0,10.0,11.0,True,False,"NOUN, NOUN",False,False,False,False,False
+7076,dream pop,GENRE/STYLE,88.0,183.0,271.0,9.0,True,False,"NOUN, NOUN",False,False,False,False,False
+848,80s rock,GENRE/STYLE,9.0,4.0,13.0,8.0,True,False,"NOUN, NOUN",False,False,False,False,False
+7542,east coast rap,GENRE/STYLE,2.0,23.0,25.0,14.0,True,False,"PROPN, PROPN, PROPN",False,False,False,False,False
+23228,western classical music,GENRE/STYLE,0.0,197.0,197.0,23.0,True,False,"ADJ, ADJ, NOUN",False,False,False,False,False
+7550,easy listening,GENRE/STYLE,17.0,36.0,53.0,14.0,True,False,"ADJ, VERB",False,False,False,False,False
+7559,ebm,GENRE/STYLE,10.0,32.0,42.0,3.0,True,False,NOUN,False,False,False,False,False
+20357,speed metal,GENRE/STYLE,28.0,47.0,75.0,11.0,True,False,"VERB, NOUN",False,False,False,False,False
+23376,witch house,GENRE/STYLE,77.0,15.0,92.0,11.0,True,False,"PROPN, NOUN",False,False,False,False,False
+7540,east coast hip hop,GENRE/STYLE,2.0,206.0,208.0,18.0,True,False,"PROPN, PROPN, PROPN, NOUN",False,False,False,False,False
+23558,wonky,GENRE/STYLE,3.0,13.0,16.0,5.0,True,False,ADJ,False,False,False,False,False
+7604,edm,GENRE/STYLE,832.0,122.0,954.0,3.0,True,False,PROPN,False,False,False,False,False
+20291,spacesynth,GENRE/STYLE,1.0,12.0,13.0,10.0,True,False,ADV,False,False,False,False,False
+20283,space rock,GENRE/STYLE,19.0,14.0,33.0,10.0,True,False,"NOUN, NOUN",False,False,False,False,False
+23577,world music,GENRE/STYLE,6.0,10.0,16.0,11.0,True,False,"NOUN, NOUN",False,False,False,False,False
+23581,worship,GENRE/STYLE,19.0,5.0,24.0,7.0,True,False,VERB,False,False,False,False,False
+247,16-bit,GENRE/STYLE,9.0,2.0,11.0,6.0,True,False,"NUM, PUNCT, NOUN",False,False,False,False,False
+20300,spaghetti western,GENRE/STYLE,5.0,11.0,16.0,17.0,True,False,"NOUN, ADJ",False,False,False,False,False
+20554,stomp and holler,GENRE/STYLE,0.0,11.0,11.0,16.0,True,False,"ADJ, CCONJ, VERB",False,False,False,False,False
+20369,speedcore,GENRE/STYLE,21.0,2.0,23.0,9.0,True,False,NOUN,False,False,False,False,False
+23221,west coast hip hop,GENRE/STYLE,6.0,93.0,99.0,18.0,True,False,"PROPN, PROPN, PROPN, NOUN",False,False,False,False,False
+7161,drift phonk,GENRE/STYLE,1.0,32.0,33.0,11.0,True,False,"NOUN, ADJ",False,False,False,False,False
+7164,drill,GENRE/STYLE,65.0,6.0,71.0,5.0,True,False,NOUN,False,False,False,False,False
+23075,wall of sound,GENRE/STYLE,2.0,78.0,80.0,13.0,True,False,"PROPN, ADP, NOUN",False,False,False,False,False
+23077,waltz,GENRE/STYLE,9.0,5.0,14.0,5.0,False,False,NOUN,False,False,False,False,False
+7206,drone,GENRE/STYLE,13.0,30.0,43.0,5.0,True,False,NOUN,False,False,False,False,False
+773,808,GENRE/STYLE,18.0,2.0,20.0,3.0,True,False,NUM,False,False,True,False,False
+23222,west coast rap,GENRE/STYLE,1.0,15.0,16.0,14.0,True,False,"PROPN, PROPN, PROPN",False,False,False,False,False
+728,8-bit,GENRE/STYLE,16.0,8.0,24.0,5.0,True,False,"NUM, PUNCT, NOUN",False,False,False,False,False
+7336,drumstep,GENRE/STYLE,5.0,13.0,18.0,8.0,False,False,PROPN,False,False,False,False,False
+7352,dub,GENRE/STYLE,49.0,55.0,104.0,3.0,True,False,PROPN,False,False,False,False,False
+7358,dub techno,GENRE/STYLE,9.0,8.0,17.0,10.0,True,False,"PROPN, NOUN",False,False,False,False,False
+7364,dubstep,GENRE/STYLE,334.0,79.0,413.0,7.0,True,False,NOUN,False,False,False,False,False
+23139,wave,GENRE/STYLE,69.0,6.0,75.0,4.0,True,False,NOUN,False,False,False,False,False
+20401,spoken word,GENRE/STYLE,45.0,53.0,98.0,11.0,True,False,"VERB, NOUN",False,False,False,False,False
+23131,water,GENRE/STYLE,10.0,1.0,11.0,5.0,True,False,NOUN,False,False,False,False,False
+20903,surf,GENRE/STYLE,24.0,9.0,33.0,4.0,False,False,PROPN,False,False,False,False,False
+1574,acoustic rock,GENRE/STYLE,27.0,88.0,115.0,13.0,True,False,"ADJ, NOUN",False,False,False,False,False
+22052,trip-hop,GENRE/STYLE,33.0,13.0,46.0,8.0,True,False,"NOUN, PUNCT, NOUN",False,False,False,False,False
+1997,alternative pop,GENRE/STYLE,28.0,16.0,44.0,15.0,True,False,"ADJ, NOUN",False,False,False,False,False
+6363,death,GENRE/STYLE,6.0,125.0,131.0,5.0,False,False,NOUN,False,False,False,False,False
+6344,darkwave,GENRE/STYLE,56.0,27.0,83.0,8.0,False,False,VERB,False,False,False,False,False
+1950,alternative,GENRE/STYLE,263.0,51.0,314.0,11.0,True,False,NOUN,False,False,False,False,False
+5870,cyberpunk rhythms,GENRE/STYLE,12.0,0.0,12.0,17.0,True,False,"NOUN, NOUN",False,False,False,False,False
+6341,darksynth,GENRE/STYLE,12.0,32.0,44.0,9.0,True,False,PROPN,False,False,False,False,False
+6317,dark witch house,GENRE/STYLE,3.0,9.0,12.0,16.0,True,False,"PROPN, PROPN, NOUN",False,False,False,False,False
+1987,alternative metal,GENRE/STYLE,69.0,423.0,492.0,17.0,True,False,"ADJ, NOUN",False,False,False,False,False
+6312,dark wave,GENRE/STYLE,30.0,27.0,57.0,9.0,True,False,"PROPN, NOUN",False,False,False,False,False
+6293,dark trap,GENRE/STYLE,9.0,1.0,10.0,9.0,True,False,"PROPN, NOUN",False,False,False,False,False
+1959,alternative dance,GENRE/STYLE,8.0,78.0,86.0,17.0,True,False,"ADJ, NOUN",False,False,False,False,False
+5917,dance,GENRE/STYLE,662.0,940.0,1602.0,5.0,True,False,VERB,False,False,False,False,False
+6247,dark rock,GENRE/STYLE,12.0,1.0,13.0,9.0,True,False,"PROPN, NOUN",False,False,False,False,False
+1940,alte,GENRE/STYLE,11.0,0.0,11.0,4.0,True,False,PROPN,False,False,False,False,False
+6224,dark pop,GENRE/STYLE,79.0,9.0,88.0,8.0,True,False,"ADJ, NOUN",False,False,False,False,False
+5953,dance rock,GENRE/STYLE,7.0,3.0,10.0,10.0,True,False,"NOUN, NOUN",False,False,False,False,False
+6203,dark metal,GENRE/STYLE,7.0,3.0,10.0,10.0,True,False,"ADJ, NOUN",False,False,False,False,False
+6171,dark house,GENRE/STYLE,11.0,0.0,11.0,10.0,True,False,"PROPN, PROPN",False,False,False,False,False
+5962,dance-pop,GENRE/STYLE,65.0,1028.0,1093.0,9.0,True,False,"NOUN, PUNCT, NOUN",False,False,False,False,False
+6117,dark electronic rock,GENRE/STYLE,13.0,0.0,13.0,20.0,True,False,"ADJ, ADJ, NOUN",False,False,False,False,False
+1966,alternative folk,GENRE/STYLE,8.0,2.0,10.0,16.0,True,False,"ADJ, NOUN",False,False,False,False,False
+5967,dance-punk,GENRE/STYLE,1.0,26.0,27.0,10.0,True,False,"NOUN, PUNCT, NOUN",False,False,False,False,False
+6109,dark electro,GENRE/STYLE,9.0,16.0,25.0,12.0,True,False,"PROPN, PROPN",False,False,False,False,False
+21053,symphonic black metal,GENRE/STYLE,9.0,6.0,15.0,21.0,True,False,"ADJ, ADJ, NOUN",False,False,False,False,False
+6085,dark country,GENRE/STYLE,9.0,3.0,12.0,12.0,True,False,"PROPN, NOUN",False,False,False,False,False
+6073,dark cabaret,GENRE/STYLE,7.0,13.0,20.0,12.0,True,False,"ADJ, NOUN",False,False,False,False,False
+1974,alternative hip hop,GENRE/STYLE,18.0,21.0,39.0,19.0,True,False,"PROPN, NOUN, NOUN",False,False,False,False,False
+6028,dark ambient,GENRE/STYLE,30.0,45.0,75.0,12.0,True,False,"PROPN, NOUN",False,False,False,False,False
+5948,dance pop,GENRE/STYLE,163.0,20.0,183.0,9.0,True,False,"NOUN, NOUN",False,False,False,False,False
+5984,dancehall,GENRE/STYLE,33.0,58.0,91.0,9.0,True,False,PROPN,False,False,False,False,False
+5864,cyberpunk,GENRE/STYLE,79.0,30.0,109.0,9.0,True,False,VERB,False,False,False,False,False
+6369,death metal,GENRE/STYLE,67.0,75.0,142.0,11.0,True,False,"NOUN, NOUN",False,False,False,False,False
+2030,alternative/indie,GENRE/STYLE,13.0,2.0,15.0,17.0,True,False,"ADJ, SYM, NOUN",False,False,False,False,False
+20912,surf rock,GENRE/STYLE,23.0,17.0,40.0,9.0,True,False,"PROPN, PROPN",False,False,False,False,False
+6607,delta blues,GENRE/STYLE,24.0,35.0,59.0,11.0,True,False,"PROPN, NOUN",False,False,False,False,False
+1835,aggrotech,GENRE/STYLE,4.0,7.0,11.0,9.0,True,False,PROPN,False,False,False,False,False
+21096,symphony,GENRE/STYLE,29.0,18.0,47.0,8.0,True,False,NOUN,False,False,False,False,False
+1852,ai,GENRE/STYLE,12.0,2.0,14.0,2.0,True,False,VERB,False,False,False,False,False
+1877,album rock,GENRE/STYLE,0.0,28.0,28.0,10.0,True,False,"PROPN, NOUN",False,False,False,False,False
+2010,alternative rock,GENRE/STYLE,354.0,1616.0,1970.0,16.0,True,False,"ADJ, NOUN",False,False,False,False,False
+5859,cyber metal,GENRE/STYLE,2.0,12.0,14.0,11.0,True,False,"NOUN, NOUN",False,False,False,False,False
+1923,alt rock,GENRE/STYLE,25.0,6.0,31.0,8.0,True,False,"VERB, NOUN",False,False,False,False,False
+1924,alt-country,GENRE/STYLE,5.0,69.0,74.0,11.0,True,False,"ADJ, PUNCT, NOUN",False,False,False,False,False
+2006,alternative r&b,GENRE/STYLE,28.0,86.0,114.0,15.0,True,False,"ADJ, PROPN",False,False,False,False,False
+21087,symphonic rock,GENRE/STYLE,34.0,83.0,117.0,14.0,True,False,"ADJ, NOUN",False,False,False,False,False
+6381,deathcore,GENRE/STYLE,32.0,26.0,58.0,9.0,True,False,ADV,False,False,False,False,False
+21067,symphonic metal,GENRE/STYLE,69.0,268.0,337.0,15.0,True,False,"ADJ, NOUN",False,False,False,False,False
+6541,deep soul,GENRE/STYLE,2.0,15.0,17.0,9.0,True,False,"ADJ, NOUN",False,False,False,False,False
+21082,symphonic power metal,GENRE/STYLE,9.0,4.0,13.0,21.0,True,False,"ADJ, NOUN, NOUN",False,False,False,False,False
+21020,swing,GENRE/STYLE,239.0,113.0,352.0,5.0,True,False,NOUN,False,False,False,False,False
+21050,symphonic,GENRE/STYLE,146.0,63.0,209.0,9.0,True,False,PROPN,False,False,False,False,False
+6477,deep house,GENRE/STYLE,115.0,129.0,244.0,10.0,True,False,"ADJ, NOUN",False,False,False,False,False
+5786,crunk,GENRE/STYLE,14.0,30.0,44.0,5.0,True,False,VERB,False,False,False,False,False
+21085,symphonic prog,GENRE/STYLE,0.0,35.0,35.0,14.0,True,False,"ADJ, NOUN",False,False,False,False,False
+1929,alt-pop,GENRE/STYLE,19.0,70.0,89.0,7.0,True,False,"ADJ, PUNCT, NOUN",False,False,False,False,False
+20948,swamp rock,GENRE/STYLE,4.0,6.0,10.0,10.0,True,False,"PROPN, NOUN",False,False,False,False,False
+1932,alt-rock,GENRE/STYLE,12.0,7.0,19.0,8.0,True,False,"ADJ, PUNCT, NOUN",False,False,False,False,False
+13575,liquid drum and bass,INSTRUMENT,18.0,19.0,37.0,20.0,True,True,"ADJ, NOUN, CCONJ, NOUN",False,False,False,False,False
+23605,xylophone,INSTRUMENT,17.0,4.0,21.0,9.0,False,True,NOUN,False,False,False,False,False
+22083,trombone,INSTRUMENT,18.0,11.0,29.0,8.0,False,True,VERB,False,False,False,False,False
+13527,light percussion,INSTRUMENT,12.0,1.0,13.0,16.0,False,True,"ADJ, NOUN",False,False,False,False,False
+13454,lead guitar,INSTRUMENT,7.0,6.0,13.0,11.0,False,True,"PROPN, PROPN",False,False,False,False,False
+2044,alto saxophone,INSTRUMENT,0.0,13.0,13.0,14.0,False,True,"PROPN, NOUN",True,False,False,False,False
+3216,bass music,INSTRUMENT,10.0,7.0,17.0,10.0,True,True,"NOUN, NOUN",False,False,False,False,False
+16627,piano pop,INSTRUMENT,9.0,6.0,15.0,9.0,True,True,"NOUN, NOUN",False,False,False,False,False
+3207,bass house,INSTRUMENT,23.0,21.0,44.0,10.0,True,True,"PROPN, NOUN",False,False,False,False,False
+3200,bass guitar,INSTRUMENT,62.0,51.0,113.0,11.0,False,True,"PROPN, PROPN",False,False,False,False,False
+22843,violins,INSTRUMENT,27.0,4.0,31.0,7.0,False,True,NOUN,False,False,False,False,False
+22804,violin,INSTRUMENT,427.0,123.0,550.0,6.0,True,True,NOUN,False,False,False,False,False
+22794,viola,INSTRUMENT,7.0,3.0,10.0,5.0,True,True,PROPN,False,False,False,False,False
+3181,bass boosted,INSTRUMENT,14.0,0.0,14.0,12.0,False,True,"NOUN, VERB",False,False,False,False,False
+3171,bass,INSTRUMENT,1115.0,129.0,1244.0,4.0,False,True,NOUN,False,False,False,False,False
+14333,marimba,INSTRUMENT,14.0,1.0,15.0,7.0,True,True,VERB,False,False,False,False,False
+1524,acoustic guitar,INSTRUMENT,319.0,205.0,524.0,15.0,False,True,"PROPN, PROPN",False,False,False,False,False
+3101,banjo,INSTRUMENT,70.0,7.0,77.0,5.0,True,True,NOUN,False,False,False,False,False
+14302,mandolin,INSTRUMENT,14.0,6.0,20.0,8.0,True,True,PROPN,False,False,False,False,False
+22127,trumpets,INSTRUMENT,16.0,8.0,24.0,8.0,False,True,NOUN,False,False,False,False,False
+1443,accordion,INSTRUMENT,39.0,6.0,45.0,9.0,True,True,NOUN,False,False,False,False,False
+3037,bagpipes,INSTRUMENT,13.0,1.0,14.0,8.0,False,True,NOUN,False,False,False,False,False
+22116,trumpet,INSTRUMENT,75.0,39.0,114.0,7.0,False,True,NOUN,False,False,False,False,False
+22276,ukulele,INSTRUMENT,35.0,10.0,45.0,7.0,True,True,PROPN,False,False,False,False,False
+2880,atmospheric synths,INSTRUMENT,8.0,2.0,10.0,18.0,False,True,"ADJ, NOUN",False,False,False,False,False
+16233,orchestral strings,INSTRUMENT,8.0,2.0,10.0,18.0,True,True,"ADJ, NOUN",False,False,False,False,False
+16249,organ,INSTRUMENT,48.0,20.0,68.0,5.0,False,True,VERB,False,False,False,False,False
+3426,bells,INSTRUMENT,16.0,4.0,20.0,5.0,True,True,NOUN,False,False,False,False,False
+3230,bass synthesizer,INSTRUMENT,0.0,10.0,10.0,16.0,True,True,"NOUN, NOUN",False,False,False,False,False
+15055,minimal synth,INSTRUMENT,5.0,6.0,11.0,13.0,True,True,"ADJ, ADJ",False,False,False,False,False
+16382,pan flute,INSTRUMENT,4.0,6.0,10.0,9.0,False,True,"PROPN, NOUN",False,False,False,False,False
+13931,lute,INSTRUMENT,37.0,12.0,49.0,4.0,True,True,VERB,False,False,False,False,False
+774,808 bass,INSTRUMENT,12.0,2.0,14.0,8.0,True,True,"NUM, NOUN",False,False,False,False,False
+16478,percussion,INSTRUMENT,46.0,17.0,63.0,10.0,False,True,NOUN,False,False,False,False,False
+16569,piano,INSTRUMENT,1029.0,302.0,1331.0,5.0,False,True,NOUN,False,False,False,False,False
+16635,piano rock,INSTRUMENT,17.0,90.0,107.0,10.0,True,True,"PROPN, NOUN",False,False,False,False,False
+22998,vocoder,INSTRUMENT,16.0,14.0,30.0,7.0,False,True,NOUN,False,False,False,False,False
+7760,electric guitar,INSTRUMENT,321.0,287.0,608.0,15.0,False,True,"PROPN, PROPN",False,False,False,False,False
+11880,horn,INSTRUMENT,5.0,7.0,12.0,4.0,False,True,NOUN,False,False,False,False,False
+11054,hard bass,INSTRUMENT,19.0,2.0,21.0,9.0,True,True,"ADJ, NOUN",False,False,False,False,False
+21157,synth funk,INSTRUMENT,4.0,82.0,86.0,10.0,True,True,"ADJ, NOUN",False,False,False,False,False
+21176,synth pop,INSTRUMENT,64.0,19.0,83.0,9.0,True,True,"ADJ, NOUN",False,False,False,False,False
+21180,synth punk,INSTRUMENT,3.0,11.0,14.0,10.0,True,True,"ADJ, NOUN",False,False,False,False,False
+21182,synth rock,INSTRUMENT,11.0,11.0,22.0,10.0,True,True,"ADJ, NOUN",False,False,False,False,False
+21205,synth-pop,INSTRUMENT,111.0,237.0,348.0,9.0,True,True,"ADJ, PUNCT, NOUN",False,False,False,False,False
+11185,harmonica,INSTRUMENT,40.0,4.0,44.0,9.0,False,False,PROPN,False,False,False,False,False
+20629,strings,INSTRUMENT,109.0,92.0,201.0,7.0,False,True,NOUN,False,False,False,False,False
+20652,strong bass,INSTRUMENT,10.0,0.0,10.0,11.0,False,True,"ADJ, NOUN",False,False,False,False,False
+18904,saxophone,INSTRUMENT,149.0,75.0,224.0,9.0,False,True,NOUN,False,False,False,False,False
+11239,harpsichord,INSTRUMENT,6.0,6.0,12.0,11.0,True,True,NOUN,False,False,False,False,False
+9683,flutes,INSTRUMENT,12.0,2.0,14.0,6.0,False,True,NOUN,False,False,False,False,False
+6981,double bass,INSTRUMENT,18.0,29.0,47.0,11.0,False,True,"ADJ, NOUN",False,False,False,False,False
+21221,synthesizer,INSTRUMENT,94.0,146.0,240.0,11.0,True,True,NOUN,False,False,False,False,False
+11410,heavy bass,INSTRUMENT,103.0,10.0,113.0,10.0,True,True,"ADJ, NOUN",False,False,False,False,False
+11439,heavy drums,INSTRUMENT,16.0,1.0,17.0,11.0,False,True,"ADJ, NOUN",False,False,False,False,False
+21232,synthesizers,INSTRUMENT,22.0,4.0,26.0,12.0,False,True,NOUN,False,False,False,False,False
+8550,epic drums,INSTRUMENT,12.0,0.0,12.0,10.0,False,True,"ADJ, NOUN",False,False,False,False,False
+11223,harp,INSTRUMENT,53.0,12.0,65.0,4.0,True,True,PROPN,False,False,False,False,False
+6854,distorted guitars,INSTRUMENT,12.0,8.0,20.0,17.0,False,True,"VERB, NOUN",False,False,False,False,False
+19883,soft piano,INSTRUMENT,10.0,3.0,13.0,10.0,False,True,"ADJ, NOUN",False,False,False,False,False
+10996,hammond organ,INSTRUMENT,12.0,20.0,32.0,13.0,True,True,"PROPN, PROPN",False,False,False,False,False
+6411,deep bass,INSTRUMENT,105.0,7.0,112.0,9.0,True,True,"ADJ, NOUN",False,False,False,False,False
+6276,dark synth,INSTRUMENT,12.0,1.0,13.0,10.0,False,True,"ADV, ADJ",False,False,False,False,False
+10025,future bass,INSTRUMENT,82.0,113.0,195.0,11.0,True,True,"ADJ, NOUN",False,False,False,False,False
+5982,dancefloor drum and bass,INSTRUMENT,0.0,17.0,17.0,24.0,True,True,"PROPN, PROPN, CCONJ, NOUN",False,False,False,False,False
+19348,sitar,INSTRUMENT,23.0,6.0,29.0,5.0,True,True,NOUN,False,False,False,False,False
+5628,cowbell,INSTRUMENT,3.0,7.0,10.0,7.0,False,True,NOUN,False,False,False,False,False
+10581,grand piano,INSTRUMENT,6.0,7.0,13.0,11.0,False,True,"ADJ, NOUN",False,False,False,False,False
+9537,fiddle,INSTRUMENT,46.0,25.0,71.0,6.0,False,True,NOUN,False,False,False,False,False
+19390,slap bass,INSTRUMENT,14.0,1.0,15.0,9.0,False,True,"VERB, NOUN",False,False,False,False,False
+19422,slide guitar,INSTRUMENT,11.0,2.0,13.0,12.0,False,True,"NOUN, PROPN",False,False,False,False,False
+10807,guitar,INSTRUMENT,1061.0,298.0,1359.0,6.0,False,True,PROPN,False,False,False,False,False
+10849,guitar lead,INSTRUMENT,11.0,0.0,11.0,11.0,False,True,"PROPN, NOUN",False,False,False,False,False
+21138,synth,INSTRUMENT,637.0,58.0,695.0,5.0,False,True,VERB,False,False,False,False,False
+20777,sub bass,INSTRUMENT,4.0,8.0,12.0,8.0,False,True,"NOUN, NOUN",False,False,False,False,False
+10892,guitar virtuoso,INSTRUMENT,8.0,31.0,39.0,15.0,False,True,"PROPN, PROPN",False,False,False,False,False
+6851,distorted guitar,INSTRUMENT,11.0,1.0,12.0,16.0,False,True,"VERB, NOUN",False,False,False,False,False
+10896,guitar-driven,INSTRUMENT,39.0,8.0,47.0,13.0,False,True,"NOUN, PUNCT, VERB",False,False,False,False,False
+10902,guitar-virtuoso,INSTRUMENT,0.0,15.0,15.0,15.0,False,True,"NOUN, PUNCT, NOUN",False,False,False,False,False
+10919,guitars,INSTRUMENT,20.0,3.0,23.0,7.0,False,True,NOUN,False,False,False,False,False
+11458,heavy guitars,INSTRUMENT,7.0,6.0,13.0,13.0,False,True,"ADJ, NOUN",False,False,False,False,False
+21252,synths,INSTRUMENT,35.0,5.0,40.0,6.0,False,True,NOUN,False,False,False,False,False
+18891,sax,INSTRUMENT,34.0,0.0,34.0,3.0,False,True,PROPN,False,False,False,False,False
+9676,flute,INSTRUMENT,152.0,46.0,198.0,5.0,False,True,NOUN,False,False,False,False,False
+20308,spanish guitar,INSTRUMENT,9.0,7.0,16.0,14.0,False,True,"PROPN, PROPN",False,False,False,False,False
+7738,electric bass,INSTRUMENT,12.0,1.0,13.0,13.0,True,True,"ADJ, NOUN",False,False,False,False,False
+7313,drums (drum set),INSTRUMENT,1.0,63.0,64.0,16.0,False,True,"NOUN, PUNCT, NOUN, NOUN, PUNCT",False,False,False,False,False
+20508,steel guitar,INSTRUMENT,15.0,4.0,19.0,12.0,True,True,"NOUN, NOUN",False,False,False,False,False
+7805,electric violin,INSTRUMENT,16.0,1.0,17.0,15.0,True,True,"PROPN, NOUN",False,False,False,False,False
+7312,drums,INSTRUMENT,326.0,159.0,485.0,5.0,False,True,NOUN,False,False,False,False,False
+7284,drum machine,INSTRUMENT,17.0,6.0,23.0,12.0,False,True,"NOUN, NOUN",False,False,False,False,False
+7251,drum and bass,INSTRUMENT,342.0,105.0,447.0,13.0,True,True,"VERB, CCONJ, NOUN",False,False,False,False,False
+13138,kawaii future bass,INSTRUMENT,9.0,20.0,29.0,18.0,True,True,"PROPN, ADJ, NOUN",False,False,False,False,False
+7245,drum & bass,INSTRUMENT,19.0,9.0,28.0,11.0,True,True,"PROPN, CCONJ, NOUN",False,False,False,False,False
+7244,drum,INSTRUMENT,423.0,0.0,423.0,4.0,False,False,VERB,False,False,False,False,False
+4502,cello,INSTRUMENT,108.0,87.0,195.0,5.0,True,True,PROPN,False,False,False,False,False
+21524,tenor saxophone,INSTRUMENT,2.0,8.0,10.0,15.0,False,True,"NOUN, NOUN",True,False,False,False,False
+13192,keyboard,INSTRUMENT,39.0,111.0,150.0,8.0,False,True,PROPN,False,False,False,False,False
+13274,koto,INSTRUMENT,19.0,0.0,19.0,4.0,True,True,PROPN,False,False,False,False,False
+21332,tambourine,INSTRUMENT,5.0,7.0,12.0,10.0,False,True,NOUN,False,False,False,False,False
+3900,brass,INSTRUMENT,55.0,19.0,74.0,5.0,False,True,NOUN,False,False,False,False,False
+20507,steel drums,INSTRUMENT,8.0,2.0,10.0,11.0,False,True,"NOUN, NOUN",False,False,False,False,False
+7739,electric bass guitar,INSTRUMENT,3.0,13.0,16.0,20.0,False,True,"PROPN, PROPN, PROPN",False,False,False,False,False
+11886,horns,INSTRUMENT,32.0,7.0,39.0,5.0,False,True,NOUN,False,False,False,False,False
+7782,electric guitars,INSTRUMENT,13.0,2.0,15.0,16.0,False,True,"PROPN, NOUN",False,False,False,False,False
+5016,clarinet,INSTRUMENT,11.0,9.0,20.0,8.0,False,True,NOUN,False,False,False,False,False
+11909,horror synth,INSTRUMENT,1.0,16.0,17.0,12.0,True,True,"NOUN, ADJ",False,False,False,False,False
+7794,electric piano,INSTRUMENT,34.0,6.0,40.0,14.0,False,True,"ADJ, NOUN",False,False,False,False,False
+4224,c minor,KEY,10.0,3.0,13.0,7.0,False,False,"PROPN, ADJ",False,False,False,True,False
+7495,e minor,KEY,7.0,10.0,17.0,7.0,False,False,"NOUN, NOUN",False,False,False,True,False
+2984,b minor,KEY,3.0,7.0,10.0,7.0,False,False,"X, ADJ",False,False,False,True,False
+5887,d minor,KEY,13.0,4.0,17.0,7.0,False,False,"X, ADJ",False,False,False,True,False
+15081,minor,KEY,48.0,10.0,58.0,5.0,False,False,ADJ,False,False,False,True,False
+8987,f minor,KEY,6.0,4.0,10.0,7.0,False,False,"PROPN, NOUN",False,False,False,True,False
+15088,minor key,KEY,34.0,30.0,64.0,9.0,False,False,"ADJ, NOUN",False,False,False,True,False
+4887,chorus in minor,KEY,11.0,0.0,11.0,15.0,False,False,"NOUN, ADP, ADJ",False,False,False,False,True
+14016,major key,KEY,8.0,2.0,10.0,9.0,False,False,"ADJ, NOUN",False,False,False,True,False
+4222,c major,KEY,9.0,4.0,13.0,7.0,False,False,"PROPN, ADJ",False,False,False,True,False
+20920,surreal,QUALIFIER,22.0,117.0,139.0,7.0,False,False,ADJ,False,False,False,False,False
+22759,vintage,QUALIFIER,11.0,4.0,15.0,7.0,False,False,NOUN,False,False,False,False,False
+22782,vinyl,QUALIFIER,11.0,1.0,12.0,5.0,False,False,NOUN,False,False,False,False,False
+19331,sinister,QUALIFIER,19.0,36.0,55.0,8.0,False,False,NOUN,False,False,False,False,False
+17121,power,QUALIFIER,14.0,0.0,14.0,5.0,False,False,NOUN,False,False,False,False,False
+20325,sparse,QUALIFIER,14.0,28.0,42.0,6.0,False,False,ADV,False,False,False,False,False
+20843,summer,QUALIFIER,42.0,246.0,288.0,6.0,False,False,NOUN,False,False,False,False,False
+23362,winter,QUALIFIER,0.0,14.0,14.0,6.0,False,False,NOUN,False,False,False,False,False
+22773,vintage samples,QUALIFIER,11.0,0.0,11.0,15.0,False,False,"ADJ, NOUN",False,False,False,False,False
+20825,sultry,QUALIFIER,30.0,7.0,37.0,6.0,False,False,NOUN,False,False,False,False,False
+23262,whimsical,QUALIFIER,20.0,5.0,25.0,9.0,False,False,ADJ,False,False,False,False,False
+20931,suspenseful,QUALIFIER,6.0,92.0,98.0,11.0,False,False,ADJ,False,False,False,False,False
+20552,stomp,QUALIFIER,13.0,0.0,13.0,5.0,False,False,ADJ,False,False,False,False,False
+20268,space,QUALIFIER,34.0,39.0,73.0,5.0,False,False,NOUN,False,False,False,False,False
+23051,vulgar,QUALIFIER,0.0,76.0,76.0,6.0,False,False,NOUN,False,False,False,False,False
+20127,soulful,QUALIFIER,499.0,87.0,586.0,7.0,False,False,ADJ,False,False,False,False,False
+20452,standards,QUALIFIER,0.0,14.0,14.0,9.0,False,False,NOUN,False,False,False,False,False
+20074,sorrowful,QUALIFIER,10.0,8.0,18.0,9.0,False,False,ADJ,False,False,False,False,False
+20058,sophisticated,QUALIFIER,10.0,5.0,15.0,13.0,False,False,ADJ,False,False,False,False,False
+20576,storytelling,QUALIFIER,22.0,3.0,25.0,12.0,False,False,VERB,False,False,False,False,False
+17030,positive,QUALIFIER,11.0,3.0,14.0,8.0,False,False,ADJ,False,False,False,False,False
+20241,southern,QUALIFIER,5.0,5.0,10.0,8.0,False,False,ADJ,False,False,False,False,False
+20044,soothing,QUALIFIER,65.0,209.0,274.0,8.0,False,False,VERB,False,False,False,False,False
+19996,sombre,QUALIFIER,4.0,238.0,242.0,6.0,False,False,NOUN,False,False,False,False,False
+20643,strong,QUALIFIER,9.0,1.0,10.0,6.0,False,False,ADJ,False,False,False,False,False
+23084,war,QUALIFIER,10.0,32.0,42.0,3.0,False,False,NOUN,False,False,False,False,False
+23095,warm,QUALIFIER,30.0,832.0,862.0,4.0,False,False,ADJ,False,False,False,False,False
+19983,somber,QUALIFIER,67.0,16.0,83.0,6.0,False,False,VERB,False,False,False,False,False
+19947,solemn,QUALIFIER,8.0,2.0,10.0,6.0,False,False,PROPN,False,False,False,False,False
+20410,spooky,QUALIFIER,29.0,18.0,47.0,6.0,False,False,ADJ,False,False,False,False,False
+23195,weird,QUALIFIER,9.0,7.0,16.0,5.0,False,False,ADJ,False,False,False,False,False
+19802,soft,QUALIFIER,210.0,204.0,414.0,4.0,False,False,ADJ,False,False,False,False,False
+23203,well produced,QUALIFIER,9.0,1.0,10.0,13.0,False,False,"ADV, VERB",False,False,False,False,False
+20383,spiritual,QUALIFIER,29.0,65.0,94.0,9.0,False,False,ADJ,False,False,False,False,False
+23226,western,QUALIFIER,38.0,10.0,48.0,7.0,False,False,ADJ,False,False,False,False,False
+19674,smooth,QUALIFIER,373.0,20.0,393.0,6.0,False,False,ADJ,False,False,False,False,False
+20724,studio quality,QUALIFIER,16.0,0.0,16.0,14.0,False,False,"NOUN, NOUN",False,False,False,False,False
+18001,reflective,QUALIFIER,104.0,10.0,114.0,10.0,False,False,ADJ,False,False,False,False,False
+19295,sing along,QUALIFIER,1.0,12.0,13.0,10.0,False,False,"VERB, ADP",False,False,False,False,False
+18702,sad,QUALIFIER,635.0,155.0,790.0,3.0,False,False,ADJ,False,False,False,False,False
+18676,rythmic,QUALIFIER,11.0,2.0,13.0,7.0,False,False,VERB,False,False,False,False,False
+18675,rythm,QUALIFIER,7.0,6.0,13.0,5.0,False,False,PROPN,False,False,False,False,False
+18551,romantic,QUALIFIER,261.0,612.0,873.0,8.0,False,False,ADJ,False,False,False,False,False
+21396,technical,QUALIFIER,12.0,139.0,151.0,9.0,False,False,ADJ,False,False,False,False,False
+21661,theatrical,QUALIFIER,58.0,9.0,67.0,10.0,False,False,ADJ,False,False,False,False,False
+17638,quiet,QUALIFIER,6.0,5.0,11.0,5.0,False,False,ADJ,False,False,False,False,False
+21723,thrash,QUALIFIER,5.0,5.0,10.0,6.0,False,False,VERB,False,False,False,False,False
+17652,quirky,QUALIFIER,35.0,160.0,195.0,6.0,False,False,ADJ,False,False,False,False,False
+18390,robotic,QUALIFIER,9.0,3.0,12.0,7.0,False,False,ADJ,False,False,False,False,False
+21865,traditional,QUALIFIER,7.0,5.0,12.0,11.0,False,False,ADJ,False,False,False,False,False
+17738,rage,QUALIFIER,11.0,8.0,19.0,4.0,False,False,NOUN,False,False,False,False,False
+17744,ragga,QUALIFIER,3.0,8.0,11.0,5.0,False,False,VERB,False,False,False,False,False
+18236,rhythmic,QUALIFIER,624.0,2613.0,3237.0,8.0,False,False,ADJ,False,False,False,False,False
+18177,reverb,QUALIFIER,68.0,9.0,77.0,6.0,False,False,VERB,False,False,False,False,False
+21919,tragic,QUALIFIER,14.0,0.0,14.0,6.0,False,False,ADJ,False,False,False,False,False
+18145,retro,QUALIFIER,67.0,11.0,78.0,5.0,False,False,NOUN,False,False,False,False,False
+18124,resilience,QUALIFIER,7.0,6.0,13.0,10.0,False,False,NOUN,False,False,False,False,False
+18117,repetitive,QUALIFIER,11.0,324.0,335.0,10.0,False,False,ADV,False,False,False,False,False
+18097,remix,QUALIFIER,41.0,8.0,49.0,5.0,False,False,NOUN,False,False,False,False,False
+21927,trailer,QUALIFIER,8.0,3.0,11.0,7.0,False,False,NOUN,False,False,False,False,False
+18089,remark/catchy,QUALIFIER,0.0,10.0,10.0,13.0,False,False,"PROPN, SYM, NOUN",False,False,False,False,False
+18085,religious,QUALIFIER,4.0,26.0,30.0,9.0,False,False,ADJ,False,False,False,False,False
+18072,relaxing,QUALIFIER,40.0,9.0,49.0,8.0,False,False,VERB,False,False,False,False,False
+18063,relaxed,QUALIFIER,29.0,12.0,41.0,7.0,False,False,VERB,False,False,False,False,False
+22018,trendy,QUALIFIER,7.0,3.0,10.0,6.0,False,False,ADJ,False,False,False,False,False
+22026,tribal,QUALIFIER,53.0,14.0,67.0,6.0,False,False,ADJ,False,False,False,False,False
+17907,raw,QUALIFIER,233.0,218.0,451.0,3.0,False,False,ADV,False,False,False,False,False
+17964,rebellious,QUALIFIER,43.0,182.0,225.0,10.0,False,False,ADJ,False,False,False,False,False
+18818,sadness,QUALIFIER,10.0,0.0,10.0,7.0,False,False,NOUN,False,False,False,False,False
+20980,sweet,QUALIFIER,14.0,3.0,17.0,5.0,False,False,ADJ,False,False,False,False,False
+17452,psychedelic,QUALIFIER,322.0,300.0,622.0,11.0,False,False,ADJ,False,False,False,False,False
+18859,samples,QUALIFIER,7.0,3.0,10.0,7.0,False,False,NOUN,False,False,False,False,False
+19272,simple,QUALIFIER,15.0,1.0,16.0,6.0,False,False,ADJ,False,False,False,False,False
+19128,sexy,QUALIFIER,26.0,43.0,69.0,4.0,False,False,ADJ,False,False,False,False,False
+19103,serious,QUALIFIER,12.0,27.0,39.0,7.0,False,False,ADJ,False,False,False,False,False
+19099,serene,QUALIFIER,29.0,25.0,54.0,6.0,False,False,NOUN,False,False,False,False,False
+21105,syncopated,QUALIFIER,11.0,2.0,13.0,10.0,False,False,VERB,False,False,False,False,False
+19089,sentimental,QUALIFIER,44.0,622.0,666.0,11.0,False,False,ADJ,False,False,False,False,False
+19080,sensual,QUALIFIER,31.0,232.0,263.0,7.0,False,False,ADJ,False,False,False,False,False
+19072,self-hatred,QUALIFIER,0.0,14.0,14.0,11.0,False,False,"NOUN, PUNCT, NOUN",False,False,False,False,False
+19058,seen live,QUALIFIER,0.0,23.0,23.0,9.0,False,False,"VERB, ADV",False,False,False,False,False
+17162,powerful,QUALIFIER,398.0,57.0,455.0,8.0,False,False,ADJ,False,False,False,False,False
+19048,seductive,QUALIFIER,14.0,7.0,21.0,9.0,False,False,VERB,False,False,False,False,False
+22074,triumphant,QUALIFIER,9.0,234.0,243.0,10.0,False,False,ADJ,False,False,False,False,False
+18997,screaming,QUALIFIER,15.0,3.0,18.0,9.0,False,False,VERB,False,False,False,False,False
+17264,powerfull,QUALIFIER,11.0,2.0,13.0,9.0,False,False,NOUN,False,False,False,False,False
+22556,urban,QUALIFIER,29.0,479.0,508.0,5.0,False,False,ADJ,False,False,False,False,False
+18984,scratching,QUALIFIER,8.0,2.0,10.0,10.0,False,False,VERB,False,False,False,False,False
+22495,uplifting,QUALIFIER,527.0,1574.0,2101.0,9.0,False,False,VERB,False,False,False,False,False
+17359,progressive,QUALIFIER,179.0,288.0,467.0,11.0,False,False,ADJ,False,False,False,False,False
+22359,unplugged,QUALIFIER,7.0,16.0,23.0,9.0,False,False,ADJ,False,False,False,False,False
+22333,unique,QUALIFIER,14.0,0.0,14.0,6.0,False,False,ADJ,False,False,False,False,False
+22323,underwater,QUALIFIER,10.0,0.0,10.0,10.0,False,False,ADJ,False,False,False,False,False
+18958,score,QUALIFIER,4.0,11.0,15.0,5.0,False,False,NOUN,False,False,False,False,False
+18952,science fiction,QUALIFIER,3.0,18.0,21.0,15.0,False,False,"NOUN, NOUN",False,False,False,False,False
+22311,underground,QUALIFIER,17.0,7.0,24.0,11.0,False,False,ADV,False,False,False,False,False
+18949,sci-fi,QUALIFIER,12.0,8.0,20.0,6.0,False,False,"NOUN, PUNCT, NOUN",False,False,False,False,False
+18929,scary,QUALIFIER,29.0,17.0,46.0,5.0,False,False,VERB,False,False,False,False,False
+18880,satirical,QUALIFIER,5.0,10.0,15.0,9.0,False,False,ADJ,False,False,False,False,False
+18871,sarcastic,QUALIFIER,5.0,54.0,59.0,9.0,False,False,ADJ,False,False,False,False,False
+18861,sampling,QUALIFIER,18.0,268.0,286.0,8.0,False,False,VERB,False,False,False,False,False
+17430,protest,QUALIFIER,0.0,16.0,16.0,7.0,False,False,NOUN,False,False,False,False,False
+22728,video game,QUALIFIER,6.0,6.0,12.0,10.0,False,False,"NOUN, NOUN",False,False,False,False,False
+4131,,QUALIFIER,,,,,,,,,,,,
+16787,polished,QUALIFIER,7.0,9.0,16.0,8.0,False,False,ADJ,False,False,False,False,False
+8354,empowering,QUALIFIER,11.0,5.0,16.0,10.0,False,False,VERB,False,False,False,False,False
+8319,emotive,QUALIFIER,53.0,6.0,59.0,7.0,False,False,NOUN,False,False,False,False,False
+8178,emotional,QUALIFIER,1016.0,277.0,1293.0,9.0,False,False,ADJ,False,False,False,False,False
+8177,emotion,QUALIFIER,9.0,2.0,11.0,7.0,False,False,NOUN,False,False,False,False,False
+7963,electronic elements,QUALIFIER,9.0,5.0,14.0,19.0,False,False,"ADJ, NOUN",False,False,False,False,False
+7923,electronic,QUALIFIER,1617.0,2575.0,4192.0,10.0,False,False,ADJ,False,False,False,False,False
+7734,electric,QUALIFIER,32.0,0.0,32.0,8.0,False,False,PROPN,False,False,False,False,False
+7653,eerie,QUALIFIER,159.0,14.0,173.0,5.0,False,False,VERB,False,False,False,False,False
+7596,edgy,QUALIFIER,50.0,13.0,63.0,4.0,False,False,VERB,False,False,False,False,False
+7584,eclectic,QUALIFIER,15.0,344.0,359.0,8.0,False,False,ADJ,False,False,False,False,False
+7571,echoes,QUALIFIER,11.0,2.0,13.0,6.0,False,False,NOUN,False,False,False,False,False
+7562,echo,QUALIFIER,16.0,3.0,19.0,4.0,False,False,VERB,False,False,False,False,False
+7506,ear candy,QUALIFIER,15.0,0.0,15.0,9.0,False,False,"VERB, NOUN",False,False,False,False,False
+7433,dynamic,QUALIFIER,74.0,38.0,112.0,7.0,False,False,ADJ,False,False,False,False,False
+7200,driving rhythm,QUALIFIER,5.0,5.0,10.0,14.0,False,False,"VERB, NOUN",False,False,False,False,False
+7100,dreamy,QUALIFIER,552.0,20.0,572.0,6.0,False,False,ADJ,False,False,False,False,False
+7091,dreampop,QUALIFIER,3.0,7.0,10.0,8.0,False,False,ADJ,False,False,False,False,False
+7033,dramatic,QUALIFIER,260.0,19.0,279.0,8.0,False,False,ADJ,False,False,False,False,False
+6958,doom,QUALIFIER,17.0,3.0,20.0,4.0,False,False,NOUN,False,False,False,False,False
+6929,dolby atmos,QUALIFIER,6.0,107.0,113.0,11.0,False,False,"PROPN, PROPN",False,False,False,False,False
+6892,dj,QUALIFIER,14.0,0.0,14.0,2.0,False,False,ADP,False,False,False,False,False
+6891,dizzy,QUALIFIER,10.0,0.0,10.0,5.0,False,False,ADJ,False,False,False,False,False
+6875,disturbing,QUALIFIER,4.0,13.0,17.0,10.0,False,False,VERB,False,False,False,False,False
+6865,distortion,QUALIFIER,9.0,3.0,12.0,10.0,False,False,NOUN,False,False,False,False,False
+6839,distorted,QUALIFIER,62.0,7.0,69.0,9.0,False,False,VERB,False,False,False,False,False
+6819,dissonant,QUALIFIER,13.0,22.0,35.0,9.0,False,False,PROPN,False,False,False,False,False
+6804,disney,QUALIFIER,12.0,8.0,20.0,6.0,False,False,NOUN,False,False,False,False,False
+8369,enchanting,QUALIFIER,14.0,2.0,16.0,10.0,False,False,VERB,False,False,False,False,False
+8390,energetic,QUALIFIER,272.0,3782.0,4054.0,9.0,False,False,ADJ,False,False,False,False,False
+8454,english,QUALIFIER,31.0,19.0,50.0,7.0,False,False,PROPN,False,False,False,False,False
+8462,english lyrics,QUALIFIER,3.0,7.0,10.0,14.0,False,False,"ADJ, NOUN",False,False,False,False,False
+11047,hard,QUALIFIER,20.0,4.0,24.0,4.0,False,False,ADV,False,False,False,False,False
+11014,happy,QUALIFIER,155.0,357.0,512.0,5.0,False,False,ADJ,False,False,False,False,False
+10709,groovy,QUALIFIER,334.0,21.0,355.0,6.0,False,False,NOUN,False,False,False,False,False
+10697,groove,QUALIFIER,62.0,29.0,91.0,6.0,False,False,NOUN,False,False,False,False,False
+10656,gritty,QUALIFIER,310.0,15.0,325.0,6.0,False,False,ADJ,False,False,False,False,False
+10414,gloomy,QUALIFIER,9.0,2.0,11.0,6.0,False,False,ADJ,False,False,False,False,False
+10394,glitchy,QUALIFIER,8.0,3.0,11.0,7.0,False,False,NOUN,False,False,False,False,False
+10215,gentle,QUALIFIER,68.0,6.0,74.0,6.0,False,False,ADJ,False,False,False,False,False
+10059,futuristic,QUALIFIER,182.0,284.0,466.0,10.0,False,False,ADJ,False,False,False,False,False
+10021,future,QUALIFIER,13.0,1.0,14.0,6.0,False,False,NOUN,False,False,False,False,False
+9993,funny,QUALIFIER,34.0,12.0,46.0,5.0,False,False,ADJ,False,False,False,False,False
+9952,funky,QUALIFIER,151.0,55.0,206.0,5.0,False,False,ADJ,False,False,False,False,False
+9898,fun,QUALIFIER,87.0,53.0,140.0,3.0,False,False,NOUN,False,False,False,False,False
+6755,dirty south,QUALIFIER,5.0,37.0,42.0,11.0,False,False,"ADJ, PROPN",False,False,False,False,False
+9855,fresh,QUALIFIER,5.0,12.0,17.0,5.0,False,False,ADJ,False,False,False,False,False
+9753,folklore,QUALIFIER,4.0,8.0,12.0,8.0,False,False,VERB,False,False,False,False,False
+9668,flow,QUALIFIER,12.0,8.0,20.0,4.0,False,False,VERB,False,False,False,False,False
+9618,fire,QUALIFIER,21.0,0.0,21.0,4.0,False,False,NOUN,False,False,False,False,False
+9246,female,QUALIFIER,137.0,4.0,141.0,6.0,False,False,NOUN,False,False,False,False,False
+9233,feel-good,QUALIFIER,3.0,7.0,10.0,9.0,False,False,"VERB, PUNCT, NOUN",False,False,False,False,False
+8945,expressive,QUALIFIER,7.0,3.0,10.0,10.0,False,False,ADJ,False,False,False,False,False
+8858,existential,QUALIFIER,1.0,60.0,61.0,11.0,False,False,ADJ,False,False,False,False,False
+16793,political,QUALIFIER,1.0,79.0,80.0,9.0,False,False,ADJ,False,False,False,False,False
+8822,evil,QUALIFIER,14.0,20.0,34.0,4.0,False,False,NOUN,False,False,False,False,False
+8778,euphoric,QUALIFIER,38.0,7.0,45.0,8.0,False,False,PROPN,False,False,False,False,False
+8703,ethereal,QUALIFIER,348.0,499.0,847.0,8.0,False,False,ADJ,False,False,False,False,False
+8501,epic,QUALIFIER,794.0,580.0,1374.0,4.0,False,False,PROPN,False,False,False,False,False
+8488,ensemble,QUALIFIER,6.0,7.0,13.0,8.0,False,False,ADJ,False,False,False,False,False
+9781,forest,QUALIFIER,5.0,6.0,11.0,6.0,False,False,NOUN,False,False,False,False,False
+11176,harmonic,QUALIFIER,12.0,4.0,16.0,8.0,False,False,ADJ,False,False,False,False,False
+6641,depressive,QUALIFIER,15.0,80.0,95.0,10.0,False,False,VERB,False,False,False,False,False
+6625,dense,QUALIFIER,1.0,205.0,206.0,5.0,False,False,ADJ,False,False,False,False,False
+4030,british,QUALIFIER,26.0,21.0,47.0,7.0,False,False,PROPN,False,False,False,False,False
+3998,bright,QUALIFIER,16.0,4.0,20.0,6.0,False,False,ADJ,False,False,False,False,False
+3811,bouncy,QUALIFIER,69.0,32.0,101.0,6.0,False,False,NOUN,False,False,False,False,False
+3714,boastful,QUALIFIER,0.0,490.0,490.0,8.0,False,False,ADJ,False,False,False,False,False
+3545,bittersweet,QUALIFIER,16.0,1374.0,1390.0,11.0,False,False,VERB,False,False,False,False,False
+3364,beautiful,QUALIFIER,33.0,22.0,55.0,9.0,False,False,ADJ,False,False,False,False,False
+3094,banger,QUALIFIER,25.0,3.0,28.0,6.0,False,False,NOUN,False,False,False,False,False
+3087,band,QUALIFIER,34.0,6.0,40.0,4.0,False,False,NOUN,False,False,False,False,False
+2940,autumn,QUALIFIER,2.0,21.0,23.0,6.0,False,False,NOUN,False,False,False,False,False
+2815,atmospheric,QUALIFIER,533.0,1234.0,1767.0,11.0,False,False,PROPN,False,False,False,False,False
+2681,arabic,QUALIFIER,30.0,8.0,38.0,6.0,False,False,ADJ,False,False,False,False,False
+2670,aquatic,QUALIFIER,1.0,26.0,27.0,7.0,False,False,ADJ,False,False,False,False,False
+2650,apocalyptic,QUALIFIER,5.0,29.0,34.0,11.0,False,False,ADJ,False,False,False,False,False
+2648,apathetic,QUALIFIER,0.0,12.0,12.0,9.0,False,False,ADJ,False,False,False,False,False
+2641,anxious,QUALIFIER,10.0,258.0,268.0,7.0,False,False,ADJ,False,False,False,False,False
+2633,anti-religious,QUALIFIER,0.0,14.0,14.0,14.0,False,False,"ADJ, ADJ, ADJ",False,False,False,False,False
+2604,anthemic,QUALIFIER,406.0,1354.0,1760.0,8.0,False,False,ADJ,False,False,False,False,False
+2560,animated,QUALIFIER,5.0,6.0,11.0,8.0,False,False,VERB,False,False,False,False,False
+2548,angsty,QUALIFIER,15.0,6.0,21.0,6.0,False,False,NOUN,False,False,False,False,False
+2530,angry,QUALIFIER,56.0,333.0,389.0,5.0,False,False,ADJ,False,False,False,False,False
+1898,alienation,QUALIFIER,1.0,37.0,38.0,10.0,False,False,NOUN,False,False,False,False,False
+1878,alcohol,QUALIFIER,0.0,20.0,20.0,7.0,False,False,PROPN,False,False,False,False,False
+1840,agressive,QUALIFIER,16.0,2.0,18.0,9.0,False,False,ADJ,False,False,False,False,False
+1775,aggressive,QUALIFIER,520.0,553.0,1073.0,10.0,False,False,ADJ,False,False,False,False,False
+1676,adventure,QUALIFIER,12.0,12.0,24.0,9.0,False,False,NOUN,False,False,False,False,False
+1611,action,QUALIFIER,11.0,5.0,16.0,6.0,False,False,NOUN,False,False,False,False,False
+1489,acoustic,QUALIFIER,1381.0,302.0,1683.0,8.0,False,False,ADJ,False,False,False,False,False
+4078,british+,QUALIFIER,0.0,10.0,10.0,8.0,False,False,VERB,False,False,False,False,False
+4101,brooding,QUALIFIER,20.0,6.0,26.0,8.0,False,False,VERB,False,False,False,False,False
+4159,build up,QUALIFIER,17.0,7.0,24.0,8.0,False,False,"VERB, ADP",False,False,False,False,False
+4263,calm,QUALIFIER,79.0,168.0,247.0,4.0,False,False,NOUN,False,False,False,False,False
+6395,deep,QUALIFIER,162.0,5.0,167.0,4.0,False,False,ADV,False,False,False,False,False
+6011,dark,QUALIFIER,1101.0,686.0,1787.0,4.0,False,False,ADJ,False,False,False,False,False
+5973,danceable,QUALIFIER,74.0,9.0,83.0,9.0,False,False,ADJ,False,False,False,False,False
+5826,cute,QUALIFIER,41.0,56.0,97.0,4.0,False,False,VERB,False,False,False,False,False
+5793,cryptic,QUALIFIER,3.0,32.0,35.0,7.0,False,False,ADJ,False,False,False,False,False
+5731,crisp,QUALIFIER,10.0,0.0,10.0,5.0,False,False,ADV,False,False,False,False,False
+5705,creepy,QUALIFIER,39.0,16.0,55.0,6.0,False,False,PROPN,False,False,False,False,False
+5632,cowboy,QUALIFIER,7.0,5.0,12.0,6.0,False,False,NOUN,False,False,False,False,False
+5508,cool,QUALIFIER,19.0,19.0,38.0,4.0,False,False,ADJ,False,False,False,False,False
+5451,contemporary,QUALIFIER,30.0,15.0,45.0,12.0,False,False,ADJ,False,False,False,False,False
+5431,conscious,QUALIFIER,1.0,175.0,176.0,9.0,False,False,ADJ,False,False,False,False,False
+5412,confident,QUALIFIER,9.0,22.0,31.0,9.0,False,False,ADJ,False,False,False,False,False
+5399,concept album,QUALIFIER,1.0,37.0,38.0,13.0,False,False,"NOUN, NOUN",False,False,False,False,False
+6634,depressing,QUALIFIER,19.0,6.0,25.0,10.0,False,False,VERB,False,False,False,False,False
+5342,complex,QUALIFIER,35.0,125.0,160.0,7.0,False,False,ADJ,False,False,False,False,False
+5253,club,QUALIFIER,44.0,43.0,87.0,4.0,False,False,NOUN,False,False,False,False,False
+5156,clear,QUALIFIER,17.0,4.0,21.0,5.0,False,False,ADJ,False,False,False,False,False
+5112,clean,QUALIFIER,15.0,1.0,16.0,5.0,False,False,VERB,False,False,False,False,False
+4958,cinematic,QUALIFIER,318.0,87.0,405.0,9.0,False,False,NOUN,False,False,False,False,False
+4924,christmas,QUALIFIER,9.0,9.0,18.0,9.0,False,False,PROPN,False,False,False,False,False
+4903,christian,QUALIFIER,33.0,41.0,74.0,9.0,False,False,PROPN,False,False,False,False,False
+4691,chill,QUALIFIER,385.0,18.0,403.0,5.0,False,False,NOUN,False,False,False,False,False
+4663,children,QUALIFIER,10.0,1.0,11.0,8.0,False,False,NOUN,False,False,False,False,False
+4614,cheerful,QUALIFIER,42.0,7.0,49.0,8.0,False,False,ADJ,False,False,False,False,False
+4582,chaotic,QUALIFIER,25.0,37.0,62.0,7.0,False,False,ADJ,False,False,False,False,False
+4578,chanting,QUALIFIER,11.0,1.0,12.0,8.0,False,False,VERB,False,False,False,False,False
+4473,cathartic,QUALIFIER,2.0,8.0,10.0,9.0,False,False,ADJ,False,False,False,False,False
+4379,catchy,QUALIFIER,649.0,142.0,791.0,6.0,False,False,VERB,False,False,False,False,False
+5285,cold,QUALIFIER,18.0,85.0,103.0,4.0,False,False,ADJ,False,False,False,False,False
+11253,hateful,QUALIFIER,0.0,31.0,31.0,7.0,False,False,ADJ,False,False,False,False,False
+8851,exciting,QUALIFIER,10.0,1.0,11.0,8.0,False,False,ADJ,False,False,False,False,False
+11263,haunting,QUALIFIER,283.0,36.0,319.0,8.0,False,False,VERB,False,False,False,False,False
+16177,optimistic,QUALIFIER,6.0,294.0,300.0,10.0,False,False,ADJ,False,False,False,False,False
+14040,male,QUALIFIER,114.0,2.0,116.0,4.0,False,False,NOUN,False,False,False,False,False
+14003,majestic,QUALIFIER,8.0,3.0,11.0,8.0,False,False,ADJ,False,False,False,False,False
+13977,magical,QUALIFIER,13.0,0.0,13.0,7.0,False,False,ADJ,False,False,False,False,False
+13939,lyrical,QUALIFIER,12.0,3.0,15.0,7.0,False,False,ADJ,False,False,False,False,False
+13912,lush,QUALIFIER,13.0,805.0,818.0,4.0,False,False,VERB,False,False,False,False,False
+13816,love,QUALIFIER,63.0,1310.0,1373.0,4.0,False,False,NOUN,False,False,False,False,False
+13784,loud,QUALIFIER,18.0,10.0,28.0,4.0,False,False,ADV,False,False,False,False,False
+13755,longing,QUALIFIER,11.0,590.0,601.0,7.0,False,False,VERB,False,False,False,False,False
+13733,lonely,QUALIFIER,4.0,215.0,219.0,6.0,False,False,ADJ,False,False,False,False,False
+13628,lively,QUALIFIER,12.0,4.0,16.0,6.0,False,False,ADJ,False,False,False,False,False
+16402,party,QUALIFIER,41.0,780.0,821.0,5.0,False,False,NOUN,False,False,False,False,False
+13593,live,QUALIFIER,22.0,18.0,40.0,4.0,False,False,VERB,False,False,False,False,False
+16095,ominous,QUALIFIER,27.0,122.0,149.0,7.0,False,False,ADJ,False,False,False,False,False
+13499,lgbt,QUALIFIER,0.0,14.0,14.0,4.0,False,False,PROPN,False,False,False,False,False
+16419,passionate,QUALIFIER,31.0,2252.0,2283.0,10.0,False,False,VERB,False,False,False,False,False
+13406,layered,QUALIFIER,29.0,12.0,41.0,7.0,False,False,VERB,False,False,False,False,False
+13369,latin,QUALIFIER,36.0,19.0,55.0,5.0,False,False,PROPN,False,False,False,False,False
+13218,kids,QUALIFIER,13.0,0.0,13.0,4.0,False,False,NOUN,False,False,False,False,False
+13046,joyful,QUALIFIER,14.0,3.0,17.0,6.0,False,False,ADJ,False,False,False,False,False
+13026,jingle,QUALIFIER,7.0,10.0,17.0,6.0,False,False,PROPN,False,False,False,False,False
+12855,japanese,QUALIFIER,129.0,18.0,147.0,8.0,False,False,NOUN,False,False,False,False,False
+12826,jamaican,QUALIFIER,9.0,6.0,15.0,8.0,False,False,PROPN,False,False,False,False,False
+12682,introspective,QUALIFIER,142.0,989.0,1131.0,13.0,False,False,ADJ,False,False,False,False,True
+12629,intricate,QUALIFIER,13.0,6.0,19.0,9.0,False,False,ADJ,False,False,False,False,False
+12619,intimate,QUALIFIER,20.0,7.0,27.0,8.0,False,False,VERB,False,False,False,False,False
+12617,interview,QUALIFIER,0.0,10.0,10.0,9.0,False,False,NOUN,False,False,False,False,False
+12540,intense,QUALIFIER,365.0,34.0,399.0,7.0,False,False,ADJ,False,False,False,False,False
+13495,lethargic,QUALIFIER,0.0,15.0,15.0,9.0,False,False,NOUN,False,False,False,False,False
+16443,patriotic,QUALIFIER,7.0,8.0,15.0,9.0,False,False,ADJ,False,False,False,False,False
+16056,old school,QUALIFIER,36.0,9.0,45.0,10.0,False,False,"ADJ, NOUN",False,False,False,False,False
+15885,nostalgic,QUALIFIER,195.0,45.0,240.0,9.0,False,False,ADJ,False,False,False,False,False
+15528,mythology,QUALIFIER,1.0,11.0,12.0,9.0,False,False,NOUN,False,False,False,False,False
+15510,mystical,QUALIFIER,13.0,4.0,17.0,8.0,False,False,ADJ,False,False,False,False,False
+15488,mysterious,QUALIFIER,65.0,151.0,216.0,10.0,False,False,ADJ,False,False,False,False,False
+15744,night,QUALIFIER,5.0,5.0,10.0,5.0,False,False,NOUN,False,False,False,False,False
+15338,motivational,QUALIFIER,14.0,3.0,17.0,12.0,False,False,NOUN,False,False,False,False,False
+15770,nihilistic,QUALIFIER,1.0,10.0,11.0,10.0,False,False,ADJ,False,False,False,False,False
+15283,moody,QUALIFIER,96.0,13.0,109.0,5.0,False,False,ADJ,False,False,False,False,False
+15164,modern,QUALIFIER,108.0,49.0,157.0,6.0,False,False,ADJ,False,False,False,False,False
+15100,misanthropic,QUALIFIER,0.0,30.0,30.0,12.0,False,False,NOUN,False,False,False,False,False
+15070,minimalistic,QUALIFIER,17.0,74.0,91.0,12.0,False,False,ADJ,False,False,False,False,False
+15063,minimalist,QUALIFIER,12.0,5.0,17.0,10.0,False,False,NOUN,False,False,False,False,False
+15030,minimal,QUALIFIER,55.0,6.0,61.0,7.0,False,False,ADJ,False,False,False,False,False
+15828,nocturnal,QUALIFIER,6.0,567.0,573.0,9.0,False,False,ADJ,False,False,False,False,False
+15992,occult,QUALIFIER,6.0,18.0,24.0,6.0,False,False,NOUN,False,False,False,False,False
+14846,menacing,QUALIFIER,8.0,2.0,10.0,8.0,False,False,VERB,False,False,False,False,False
+14602,melodic,QUALIFIER,1342.0,5086.0,6428.0,7.0,False,False,ADJ,False,False,False,False,False
+14568,mellow,QUALIFIER,297.0,621.0,918.0,6.0,False,False,VERB,False,False,False,False,False
+14539,melancholy,QUALIFIER,95.0,49.0,144.0,10.0,False,False,ADJ,False,False,False,False,False
+14483,melancholic,QUALIFIER,489.0,1218.0,1707.0,11.0,False,False,ADJ,False,False,False,False,False
+14449,meditative,QUALIFIER,20.0,73.0,93.0,10.0,False,False,ADJ,False,False,False,False,False
+14398,mechanical,QUALIFIER,7.0,158.0,165.0,10.0,False,False,ADJ,False,False,False,False,False
+14362,masterpiece,QUALIFIER,10.0,0.0,10.0,11.0,False,False,NOUN,False,False,False,False,False
+14339,martial,QUALIFIER,1.0,22.0,23.0,7.0,False,False,ADJ,False,False,False,False,False
+14310,manic,QUALIFIER,2.0,53.0,55.0,5.0,False,False,ADJ,False,False,False,False,False
+11255,haunted,QUALIFIER,10.0,2.0,12.0,7.0,False,False,VERB,False,False,False,False,False
+15843,noisy,QUALIFIER,2.0,80.0,82.0,5.0,False,False,ADV,False,False,False,False,False
+15854,nordic,QUALIFIER,12.0,3.0,15.0,6.0,False,False,ADJ,False,False,False,False,False
+15884,nostalgia,QUALIFIER,15.0,8.0,23.0,9.0,False,False,NOUN,False,False,False,False,False
+14796,melodious,QUALIFIER,15.0,1.0,16.0,9.0,False,False,ADJ,False,False,False,False,False
+16450,peaceful,QUALIFIER,12.0,89.0,101.0,8.0,False,False,ADJ,False,False,False,False,False
+15568,nature,QUALIFIER,16.0,9.0,25.0,6.0,False,False,NOUN,False,False,False,False,False
+16770,poetic,QUALIFIER,25.0,168.0,193.0,6.0,False,False,ADJ,False,False,False,False,False
+12062,hypnotic,QUALIFIER,50.0,230.0,280.0,8.0,False,False,ADJ,False,False,False,False,False
+11676,high-energy,QUALIFIER,146.0,16.0,162.0,11.0,False,False,"ADJ, PUNCT, NOUN",False,False,False,False,False
+11534,hedonistic,QUALIFIER,0.0,200.0,200.0,10.0,False,False,ADJ,False,False,False,False,False
+11551,heroic,QUALIFIER,25.0,6.0,31.0,6.0,False,False,ADJ,False,False,False,False,False
+16707,piz,QUALIFIER,0.0,12.0,12.0,3.0,False,False,PROPN,False,False,False,False,False
+16726,playful,QUALIFIER,332.0,785.0,1117.0,7.0,False,False,ADJ,False,False,False,False,False
+11975,humorous,QUALIFIER,40.0,64.0,104.0,8.0,False,False,ADJ,False,False,False,False,False
+11572,hi-fi,QUALIFIER,7.0,3.0,10.0,5.0,False,False,"NOUN, NOUN, NOUN",False,False,False,False,False
+11587,high,QUALIFIER,13.0,0.0,13.0,4.0,False,False,ADJ,False,False,False,False,False
+11974,humor,QUALIFIER,3.0,7.0,10.0,5.0,False,False,NOUN,False,False,False,False,False
+11894,horror,QUALIFIER,61.0,21.0,82.0,6.0,False,False,NOUN,False,False,False,False,False
+11598,high energy,QUALIFIER,81.0,6.0,87.0,11.0,False,False,"ADJ, NOUN",False,False,False,False,False
+11869,hopeful,QUALIFIER,17.0,6.0,23.0,7.0,False,False,ADJ,False,False,False,False,False
+11624,high notes,QUALIFIER,30.0,0.0,30.0,10.0,False,False,"ADJ, NOUN",False,False,False,False,False
+11867,hope,QUALIFIER,10.0,2.0,12.0,4.0,False,False,NOUN,False,False,False,False,False
+11816,hit single,QUALIFIER,1.0,13.0,14.0,10.0,False,False,"VERB, ADJ",False,False,False,False,False
+11813,hit,QUALIFIER,10.0,0.0,10.0,3.0,False,False,VERB,False,False,False,False,False
+12134,iconic,QUALIFIER,3.0,23.0,26.0,6.0,False,False,ADJ,False,False,False,False,False
+11402,heavy,QUALIFIER,300.0,853.0,1153.0,5.0,False,False,ADJ,False,False,False,False,False
+11650,high quality,QUALIFIER,13.0,2.0,15.0,12.0,False,False,"ADJ, NOUN",False,False,False,False,False
+12424,infernal,QUALIFIER,0.0,16.0,16.0,8.0,False,False,ADJ,False,False,False,False,False
+12477,inspiring,QUALIFIER,10.0,3.0,13.0,9.0,False,False,VERB,False,False,False,False,False
+16543,philosophical,QUALIFIER,1.0,16.0,17.0,13.0,False,False,ADJ,False,False,False,False,False
+12458,inspirational,QUALIFIER,40.0,38.0,78.0,13.0,False,False,ADJ,False,False,False,False,False
+12161,immersive,QUALIFIER,7.0,5.0,12.0,9.0,False,False,ADJ,False,False,False,False,False
+11365,heartfelt,QUALIFIER,279.0,13.0,292.0,9.0,False,False,VERB,False,False,False,False,False
+16531,pessimistic,QUALIFIER,0.0,60.0,60.0,11.0,False,False,NOUN,False,False,False,False,False
+12403,infectious,QUALIFIER,47.0,6.0,53.0,10.0,False,False,ADJ,False,False,False,False,False
+3318,beat,STRUCTURE,646.0,11.0,657.0,4.0,False,False,VERB,False,False,False,False,True
+21971,trap beats,STRUCTURE,9.0,18.0,27.0,10.0,True,False,"NOUN, NOUN",False,False,False,False,True
+11214,harmony,STRUCTURE,30.0,22.0,52.0,7.0,False,False,NOUN,False,False,False,False,False
+4416,catchy instrumental intro,STRUCTURE,70.0,0.0,70.0,25.0,False,False,"VERB, ADJ, NOUN",False,False,False,False,True
+3326,beat drop,STRUCTURE,14.0,0.0,14.0,9.0,False,False,"VERB, NOUN",False,False,False,False,True
+3968,breakup,STRUCTURE,4.0,206.0,210.0,7.0,False,False,NOUN,False,False,False,False,True
+3966,breaks,STRUCTURE,7.0,7.0,14.0,6.0,True,False,NOUN,False,False,False,False,True
+3959,breakdowns,STRUCTURE,6.0,4.0,10.0,10.0,False,False,NOUN,False,False,False,False,True
+14459,medium tempo,STRUCTURE,10.0,0.0,10.0,12.0,False,False,"NOUN, NOUN",False,False,False,False,False
+3956,breakdown,STRUCTURE,15.0,0.0,15.0,9.0,False,False,NOUN,False,False,False,False,True
+17127,power chords,STRUCTURE,3.0,8.0,11.0,12.0,False,False,"NOUN, NOUN",False,False,False,False,True
+14802,melody,STRUCTURE,22.0,1.0,23.0,6.0,False,False,NOUN,False,False,False,False,True
+3358,beats,STRUCTURE,152.0,6.0,158.0,5.0,True,False,NOUN,False,False,False,False,True
+14972,mid-tempo,STRUCTURE,19.0,9.0,28.0,9.0,False,False,"PROPN, NOUN, NOUN",False,False,False,False,True
+4421,catchy intro,STRUCTURE,13.0,0.0,13.0,12.0,False,False,"PROPN, PROPN",False,False,False,False,True
+4430,catchy melodies,STRUCTURE,18.0,9.0,27.0,15.0,False,False,"VERB, NOUN",False,False,False,False,True
+4431,catchy melody,STRUCTURE,20.0,1.0,21.0,13.0,False,False,"VERB, NOUN",False,False,False,False,True
+4389,catchy chorus,STRUCTURE,36.0,3.0,39.0,13.0,False,False,"VERB, NOUN",False,False,False,False,True
+11453,heavy guitar riffs,STRUCTURE,14.0,5.0,19.0,18.0,False,True,"ADJ, NOUN, NOUN",False,False,False,False,True
+11004,handclaps,STRUCTURE,2.0,11.0,13.0,9.0,False,False,NOUN,False,False,False,False,False
+3804,bounce drop,STRUCTURE,70.0,1.0,71.0,11.0,True,False,"NOUN, NOUN",False,False,False,False,True
+4412,catchy hooks,STRUCTURE,13.0,6.0,19.0,12.0,False,False,"PROPN, NOUN",False,False,False,False,True
+17187,powerful chorus,STRUCTURE,10.0,2.0,12.0,15.0,False,False,"ADJ, NOUN",False,False,False,False,True
+10867,guitar riff,STRUCTURE,26.0,3.0,29.0,11.0,False,True,"PROPN, PROPN",False,False,False,False,True
+10845,guitar intro,STRUCTURE,11.0,0.0,11.0,12.0,False,True,"PROPN, PROPN",False,False,False,False,True
+4696,chill beats,STRUCTURE,10.0,0.0,10.0,11.0,True,False,"NOUN, NOUN",False,False,False,False,True
+3473,big beat,STRUCTURE,19.0,43.0,62.0,8.0,True,False,"ADJ, NOUN",False,False,False,False,True
+4871,chorus,STRUCTURE,71.0,9.0,80.0,6.0,False,False,NOUN,False,False,False,False,True
+11512,heavy riffs,STRUCTURE,10.0,3.0,13.0,11.0,False,False,"ADJ, NOUN",False,False,False,False,True
+11196,harmonies,STRUCTURE,38.0,71.0,109.0,9.0,False,False,NOUN,False,False,False,False,False
+10870,guitar riffs,STRUCTURE,15.0,0.0,15.0,12.0,False,True,"PROPN, NOUN",False,False,False,False,True
+10878,guitar solo,STRUCTURE,84.0,7.0,91.0,11.0,False,True,"PROPN, PROPN",False,False,False,False,True
+12489,instrumental,STRUCTURE,121.0,1872.0,1993.0,12.0,False,False,ADJ,False,False,False,False,False
+3191,bass drop,STRUCTURE,28.0,0.0,28.0,9.0,False,True,"NOUN, NOUN",False,False,False,False,True
+9140,fast tempo,STRUCTURE,41.0,0.0,41.0,10.0,False,False,"ADV, NOUN",False,False,False,False,True
+9123,fast rap,STRUCTURE,13.0,0.0,13.0,8.0,True,False,"ADJ, NOUN",False,False,False,False,True
+16643,piano solo,STRUCTURE,5.0,11.0,16.0,10.0,False,True,"PROPN, NOUN",False,False,False,False,True
+7189,driving beat,STRUCTURE,12.0,5.0,17.0,12.0,False,False,"VERB, NOUN",False,False,False,False,True
+9112,fast paced,STRUCTURE,24.0,8.0,32.0,10.0,False,False,"ADV, VERB",False,False,False,False,True
+3944,breakbeat,STRUCTURE,43.0,85.0,128.0,9.0,True,False,ADJ,False,False,False,False,True
+7388,duet,STRUCTURE,100.0,20.0,120.0,4.0,False,False,NOUN,False,False,False,False,False
+9068,fast beat,STRUCTURE,11.0,0.0,11.0,9.0,False,False,"ADV, NOUN",False,False,False,False,True
+7470,dynamic range,STRUCTURE,5.0,6.0,11.0,13.0,False,False,"ADJ, NOUN",False,False,False,False,True
+9058,fast,STRUCTURE,289.0,16.0,305.0,4.0,False,False,VERB,False,False,False,False,True
+16614,piano intro,STRUCTURE,10.0,0.0,10.0,11.0,False,True,"PROPN, NOUN",False,False,False,False,True
+19953,solo,STRUCTURE,14.0,2.0,16.0,4.0,False,False,NOUN,False,False,False,False,True
+12176,improvisation,STRUCTURE,2.0,53.0,55.0,13.0,False,False,PROPN,False,False,False,False,False
+7938,electronic beats,STRUCTURE,13.0,4.0,17.0,16.0,True,False,"ADJ, NOUN",False,False,False,False,True
+12651,intro,STRUCTURE,54.0,25.0,79.0,5.0,False,False,PROPN,False,False,False,False,True
+18334,riffs,STRUCTURE,27.0,9.0,36.0,5.0,False,False,VERB,False,False,False,False,True
+18226,rhythm,STRUCTURE,18.0,3.0,21.0,6.0,False,False,NOUN,False,False,False,False,False
+5717,crescendo,STRUCTURE,8.0,3.0,11.0,9.0,False,False,PROPN,False,False,False,False,False
+9155,fast-paced,STRUCTURE,101.0,8.0,109.0,10.0,False,False,"ADV, PUNCT, VERB",False,False,False,False,True
+7010,downbeat,STRUCTURE,16.0,7.0,23.0,8.0,False,False,ADJ,False,False,False,False,True
+1755,afrobeats,STRUCTURE,13.0,8.0,21.0,9.0,True,False,NOUN,False,False,False,False,True
+12503,instrumental intro,STRUCTURE,21.0,0.0,21.0,18.0,False,False,"ADJ, NOUN",False,False,False,False,True
+22301,uncommon time signatures,STRUCTURE,0.0,38.0,38.0,24.0,False,False,"ADJ, NOUN, NOUN",False,False,False,False,True
+22397,upbeat,STRUCTURE,715.0,143.0,858.0,6.0,False,False,ADJ,False,False,False,False,True
+22479,upbeat tempo,STRUCTURE,21.0,4.0,25.0,12.0,False,False,"PROPN, PROPN",False,False,False,False,True
+16115,on the 1 beats,STRUCTURE,14.0,0.0,14.0,14.0,True,False,"ADP, DET, NUM, NOUN",False,False,False,False,True
+19604,slow tempo,STRUCTURE,66.0,9.0,75.0,10.0,False,False,"PROPN, NOUN",False,False,False,False,True
+22549,uptempo,STRUCTURE,47.0,18.0,65.0,7.0,False,False,ADJ,False,False,False,False,True
+7215,drop,STRUCTURE,14.0,2.0,16.0,4.0,False,False,NOUN,False,False,False,False,True
+1746,afrobeat,STRUCTURE,71.0,36.0,107.0,8.0,True,False,VERB,False,False,False,False,True
+20822,suite,STRUCTURE,2.0,9.0,11.0,5.0,False,False,NOUN,False,False,False,False,False
+19440,slow,STRUCTURE,624.0,22.0,646.0,4.0,False,False,ADJ,False,False,False,False,True
+19465,slow beat,STRUCTURE,8.0,5.0,13.0,9.0,False,False,"PROPN, NOUN",False,False,False,False,True
+20657,strong beat,STRUCTURE,12.0,0.0,12.0,11.0,False,False,"ADJ, NOUN",False,False,False,False,True
+16324,outro,STRUCTURE,7.0,45.0,52.0,5.0,False,False,PROPN,False,False,False,False,True
+22971,vocals,VOICE,142.0,11.0,153.0,6.0,False,False,NOUN,True,False,False,False,False
+22883,vocal,VOICE,85.0,31.0,116.0,5.0,False,False,ADJ,True,False,False,False,False
+23542,woman vocal,VOICE,13.0,0.0,13.0,11.0,False,False,"NOUN, ADJ",True,False,False,False,False
+22908,vocal group,VOICE,0.0,33.0,33.0,11.0,False,False,"ADJ, NOUN",True,False,False,False,False
+2936,autotune,VOICE,9.0,13.0,22.0,8.0,False,False,ADV,False,False,False,False,False
+2502,androgynous vocals,VOICE,2.0,26.0,28.0,18.0,False,False,"ADJ, NOUN",True,False,False,False,False
+22892,vocal chops,VOICE,8.0,3.0,11.0,11.0,False,False,"ADJ, NOUN",True,False,False,False,False
+14248,male voices,VOICE,15.0,0.0,15.0,11.0,False,False,"ADJ, NOUN",True,False,False,False,False
+17259,powerful vocals,VOICE,25.0,8.0,33.0,15.0,False,False,"ADJ, NOUN",True,False,False,False,False
+13441,layered vocals,VOICE,5.0,7.0,12.0,14.0,False,False,"VERB, NOUN",True,False,False,False,False
+20184,soulful vocals,VOICE,12.0,6.0,18.0,14.0,False,False,"ADJ, NOUN",True,False,False,False,False
+20160,soulful male vocalist,VOICE,0.0,14.0,14.0,21.0,False,False,"ADJ, ADJ, NOUN",True,False,False,False,False
+20065,soprano,VOICE,9.0,2.0,11.0,7.0,False,False,NOUN,True,False,False,False,False
+18404,robotic voice,VOICE,9.0,1.0,10.0,13.0,False,False,"ADJ, NOUN",True,False,False,False,False
+9026,falsetto,VOICE,7.0,8.0,15.0,8.0,False,False,NOUN,True,False,False,False,False
+19927,soft vocals,VOICE,12.0,2.0,14.0,11.0,False,False,"ADJ, NOUN",True,False,False,False,False
+19739,smooth vocals,VOICE,7.0,5.0,12.0,13.0,False,False,"ADJ, NOUN",True,False,False,False,False
+17892,raspy voice,VOICE,6.0,6.0,12.0,11.0,False,False,"NOUN, PROPN",True,False,False,False,False
+17210,powerful female vocals,VOICE,9.0,4.0,13.0,22.0,False,False,"ADJ, ADJ, NOUN",True,False,False,False,False
+9448,female vocalist,VOICE,65.0,2679.0,2744.0,15.0,False,False,"ADJ, NOUN",True,False,False,False,False
+9461,female vocalists,VOICE,0.0,90.0,90.0,16.0,False,False,"ADJ, NOUN",True,False,False,False,False
+9465,female vocals,VOICE,657.0,147.0,804.0,13.0,False,False,"ADJ, NOUN",True,False,False,False,False
+9481,female voice,VOICE,451.0,4.0,455.0,12.0,False,False,"ADJ, NOUN",True,False,False,False,False
+9492,female voices,VOICE,14.0,1.0,15.0,13.0,False,False,"ADJ, NOUN",True,False,False,False,False
+19308,singer songwriter,VOICE,7.0,5.0,12.0,17.0,False,False,"NOUN, NOUN",True,False,False,False,False
+10665,gritty female vocal,VOICE,18.0,0.0,18.0,19.0,False,False,"ADJ, ADJ, NOUN",True,False,False,False,False
+11219,harmony vocal group,VOICE,0.0,25.0,25.0,19.0,False,False,"PROPN, PROPN, NOUN",True,False,False,False,False
+9430,female vocal,VOICE,254.0,65.0,319.0,12.0,False,False,"ADJ, NOUN",True,False,False,False,False
+14124,male lead,VOICE,12.0,0.0,12.0,9.0,False,False,"NOUN, NOUN",False,False,False,False,False
+9389,female singer,VOICE,297.0,18.0,315.0,13.0,False,False,"ADJ, NOUN",True,False,False,False,False
+14201,male vocal,VOICE,255.0,60.0,315.0,10.0,False,False,"ADJ, NOUN",True,False,False,False,False
+4576,chant,VOICE,8.0,5.0,13.0,5.0,False,False,NOUN,False,False,False,False,False
+14159,male singer,VOICE,162.0,5.0,167.0,11.0,False,False,"ADJ, NOUN",True,False,False,False,False
+4816,choir,VOICE,118.0,53.0,171.0,5.0,False,False,VERB,True,False,False,False,False
+15012,miku voice,VOICE,30.0,0.0,30.0,10.0,False,False,"ADJ, NOUN",True,False,False,False,False
+5149,clean vocals,VOICE,23.0,7.0,30.0,12.0,False,False,"ADJ, NOUN",True,False,False,False,False
+5214,clear vocals,VOICE,59.0,4.0,63.0,12.0,False,False,"ADJ, NOUN",True,False,False,False,False
+14286,man voice,VOICE,20.0,0.0,20.0,9.0,False,False,"NOUN, NOUN",True,False,False,False,False
+14228,male voice,VOICE,638.0,10.0,648.0,10.0,False,False,"ADJ, NOUN",True,False,False,False,False
+14218,male vocals,VOICE,609.0,69.0,678.0,11.0,False,False,"ADJ, NOUN",True,False,False,False,False
+5216,clear voice,VOICE,34.0,6.0,40.0,11.0,False,False,"ADJ, NOUN",True,False,False,False,False
+21013,sweet voice,VOICE,14.0,0.0,14.0,11.0,False,False,"ADJ, NOUN",True,False,False,False,False
+21011,sweet vocal,VOICE,11.0,0.0,11.0,11.0,False,False,"ADJ, ADJ",True,False,False,False,False
+20995,sweet female voice,VOICE,30.0,0.0,30.0,18.0,False,False,"ADJ, ADJ, NOUN",True,False,False,False,False
+20993,sweet female vocals,VOICE,18.0,0.0,18.0,19.0,False,False,"ADJ, ADJ, NOUN",True,False,False,False,False
+20991,sweet female vocal,VOICE,37.0,0.0,37.0,18.0,False,False,"ADJ, ADJ, NOUN",True,False,False,False,False
+6507,deep male vocals,VOICE,15.0,2.0,17.0,16.0,False,False,"ADJ, ADJ, NOUN",True,False,False,False,False
+6508,deep male voice,VOICE,27.0,1.0,28.0,15.0,False,False,"ADJ, ADJ, NOUN",True,False,False,False,False
+14217,male vocalists,VOICE,3.0,65.0,68.0,14.0,False,False,"NOUN, NOUN",True,False,False,False,False
+6563,deep voice,VOICE,24.0,13.0,37.0,10.0,False,False,"ADJ, NOUN",True,False,False,False,False
+14211,male vocalist,VOICE,76.0,4484.0,4560.0,13.0,False,False,"ADJ, NOUN",True,False,False,False,False
+462,2000s,YEAR,29.0,69.0,98.0,5.0,False,False,NUM,False,False,True,False,False
+413,1990s,YEAR,12.0,77.0,89.0,5.0,False,False,NOUN,False,False,True,False,False
+381,1980s,YEAR,24.0,73.0,97.0,5.0,False,False,NUM,False,False,True,False,False
+301,1950s,YEAR,22.0,26.0,48.0,5.0,False,False,NUM,False,False,True,False,False
+315,1960s,YEAR,28.0,17.0,45.0,5.0,False,False,NOUN,False,False,True,False,False
+294,1940s,YEAR,9.0,23.0,32.0,5.0,False,False,NOUN,False,False,True,False,False
+490,2010s,YEAR,6.0,104.0,110.0,5.0,False,False,NUM,False,False,True,False,False
+343,1970s,YEAR,25.0,49.0,74.0,5.0,False,False,NUM,False,False,True,False,False
+499,2019,YEAR,2.0,14.0,16.0,4.0,False,False,NUM,False,False,True,False,False
+793,80s,YEAR,276.0,24.0,300.0,3.0,False,False,NOUN,False,False,True,False,False
+505,2020s,YEAR,2.0,91.0,93.0,5.0,False,False,NUM,False,False,True,False,False
+514,2024,YEAR,4.0,21.0,25.0,4.0,False,False,NUM,False,False,True,False,False
+617,50s,YEAR,13.0,1.0,14.0,3.0,False,False,NOUN,False,False,True,False,False
+649,60s,YEAR,30.0,10.0,40.0,3.0,False,False,NOUN,False,False,True,False,False
+675,70's,YEAR,13.0,13.0,26.0,4.0,False,False,"NUM, PART",False,False,True,False,False
+697,70s,YEAR,61.0,13.0,74.0,3.0,False,False,NOUN,False,False,True,False,False
+745,80's,YEAR,65.0,17.0,82.0,4.0,False,False,"NUM, PART",False,False,True,False,False
+788,808s,YEAR,15.0,1.0,16.0,4.0,False,False,NOUN,False,False,True,False,False
+904,90's,YEAR,12.0,0.0,12.0,4.0,False,False,"NUM, PART",False,False,True,False,False
+933,90s,YEAR,192.0,29.0,221.0,3.0,False,False,NOUN,False,False,True,False,False
+501,2020,YEAR,4.0,9.0,13.0,4.0,False,False,NUM,False,False,True,False,False
+142,00s,YEAR,3.0,7.0,10.0,3.0,False,False,NOUN,False,False,True,False,False
