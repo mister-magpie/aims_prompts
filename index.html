@@ -134,11 +134,11 @@
             console.log('create plot', plotType, plotLabels);
             // set currentPlot variable
             currentPlot = plotType;
-            if (currentPlot == 'lyrics') {
-                currentPlot = "NEW_lyrics";
+            if (plotType == 'lyrics') {
+                plotType = "NEW_lyrics";
             }
-            if (currentPlot == 'tags') {
-                currentPlot = "NEW_tags";
+            if (plotType == 'tags') {
+                plotType = "NEW_tags";
             }
             let plotJson = await fetch(`https://mister-magpie.github.io/aims_prompts/plots/${plotType}_${plotLabels}.json`)
                 .then(response => response.json())
